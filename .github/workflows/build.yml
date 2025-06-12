@@ -47,7 +47,7 @@ jobs:
 
     - name: Package Application (Windows)
       if: runner.os == 'Windows'
-      shell: bash # Use bash for consistency
+      shell: bash
       run: |
         mkdir dist
         cp build/Release/VideoCompressor.exe dist/
@@ -59,16 +59,8 @@ jobs:
     - name: Package Application (macOS)
       if: runner.os == 'macOS'
       run: |
-        # Use find to locate the .app bundle robustly
-        APP_BUNDLE_PATH=$(find build -name "VideoCompressor.app" -print -quit)
-        if [ -z "$APP_BUNDLE_PATH" ]; then
-          echo "Error: Could not find VideoCompressor.app in the build directory."
-          exit 1
-        fi
-        echo "Found app bundle at: $APP_BUNDLE_PATH"
-        macdeployqt "$APP_BUNDLE_PATH" -dmg
-        # The DMG is created in the same directory as the app bundle
-        mv "$APP_BUNDLE_PATH.dmg" VideoCompressor-macOS.dmg
+        macdeployqt build/VideoCompressor.app -dmg
+        mv build/VideoCompressor.dmg VideoCompressor-macOS.dmg
 
 
     - name: Package Application (Linux)
@@ -76,7 +68,6 @@ jobs:
       run: |
         mkdir -p dist/bin
         cp build/VideoCompressor dist/bin/
-        # Add a note about dependencies
         echo "Please ensure you have Qt6 and FFmpeg installed on your system to run this application." > dist/README.txt
         tar -czvf VideoCompressor-Linux.tar.gz -C dist .
 
