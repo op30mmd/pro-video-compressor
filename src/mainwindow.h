@@ -4,6 +4,7 @@
 #include <QMainWindow>
 #include <QProcess>
 #include <QStringList>
+#include "ThemeManager.h" // Include the new manager
 
 // Forward declarations
 class QListWidget;
@@ -18,13 +19,16 @@ class QSpinBox;
 class QGroupBox;
 class QCheckBox;
 class QScrollArea;
+class QMenu;
+class QAction;
+class QActionGroup;
 
 class MainWindow : public QMainWindow
 {
     Q_OBJECT
 
 public:
-    MainWindow(QWidget *parent = nullptr);
+    explicit MainWindow(ThemeManager* themeManager, QWidget *parent = nullptr);
     ~MainWindow();
 
 private slots:
@@ -38,17 +42,34 @@ private slots:
     void onAudioSettingsChanged();
     void onEncoderChanged(int index);
 
+    // THE FIX: The slot now correctly accepts the QAction pointer
+    void onThemeChanged(QAction* action);
+
 private:
     void setupUi();
+    void setupMenu();
     void setControlsEnabled(bool enabled);
     void startNextCompression();
     double getVideoDuration(const QString& filePath);
     bool checkFFmpegAvailability();
     void populateGpuEncoders();
 
+    // --- Core Members ---
+    ThemeManager* m_themeManager;
+    QProcess *ffmpegProcess;
+    QStringList fileQueue;
+    QString currentInputFile;
+    double currentFileDuration;
+    bool isCompressionActive;
+
+    // --- Menu Elements ---
+    QMenu* m_themeMenu;
+    QAction* m_systemThemeAction;
+    QAction* m_nekoDarkThemeAction;
+    QAction* m_classicLightThemeAction;
+
     // --- UI Elements ---
     QScrollArea* scrollArea;
-
     QListWidget* fileListWidget;
     QLineEdit* outputDirLineEdit;
     QPushButton* addFilesButton;
@@ -64,9 +85,8 @@ private:
     QGroupBox* audioGroupBox;
     QGroupBox* outputGroupBox;
 
-    QLabel* encoderLabel; // Now a member variable
+    QLabel* encoderLabel;
     QComboBox* encoderComboBox;
-
     QComboBox* presetComboBox;
     QComboBox* scaleComboBox;
 
@@ -76,23 +96,17 @@ private:
 
     QLabel* tuneLabel;
     QComboBox* tuneComboBox;
-
     QComboBox* pixelFormatComboBox;
+
     QCheckBox* stripAudioCheckBox;
     QLabel* audioCodecLabel;
     QComboBox* audioCodecComboBox;
     QLabel* audioBitrateLabel;
     QSlider* audioBitrateSlider;
     QSpinBox* audioBitrateSpinBox;
+
     QComboBox* outputContainerComboBox;
     QLineEdit* outputSuffixLineEdit;
-
-    // --- Backend Members ---
-    QProcess *ffmpegProcess;
-    QStringList fileQueue;
-    QString currentInputFile;
-    double currentFileDuration;
-    bool isCompressionActive;
 };
 
 #endif // MAINWINDOW_H

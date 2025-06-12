@@ -20,9 +20,13 @@
 #include <QScrollBar>
 #include <QCheckBox>
 #include <QScrollArea>
+#include <QMenuBar>
+#include <QActionGroup>
+#include <QIntValidator>
 
-MainWindow::MainWindow(QWidget *parent)
+MainWindow::MainWindow(ThemeManager* themeManager, QWidget *parent)
     : QMainWindow(parent),
+    m_themeManager(themeManager),
     ffmpegProcess(nullptr),
     currentFileDuration(0.0),
     isCompressionActive(false)
@@ -31,6 +35,7 @@ MainWindow::MainWindow(QWidget *parent)
         QMessageBox::critical(this, "Error", "FFmpeg not found. Please make sure ffmpeg and ffprobe are installed and in your system's PATH.");
     }
     setupUi();
+    setupMenu();
     populateGpuEncoders();
     ffmpegProcess = new QProcess(this);
     connect(ffmpegProcess, &QProcess::readyReadStandardError, this, &MainWindow::onProcessReadyReadStandardError);
@@ -92,7 +97,7 @@ void MainWindow::setupUi()
     settingsGroupBox = new QGroupBox("Compression Settings");
     auto settingsGrid = createGridLayout(settingsGroupBox);
 
-    encoderLabel = new QLabel("Encoder:"); // Use the member variable
+    encoderLabel = new QLabel("Encoder:");
     encoderComboBox = new QComboBox();
     encoderComboBox->addItems({"CPU (libx264)", "CPU (libhevc)"});
     settingsGrid->addWidget(encoderLabel, 0, 0);
@@ -175,9 +180,6 @@ void MainWindow::setupUi()
     controlLayout->addWidget(cancelButton);
 
     progressBar = new QProgressBar();
-    progressBar->setRange(0, 100);
-    progressBar->setValue(0);
-    progressBar->setTextVisible(true);
     logTextEdit = new QTextEdit();
     logTextEdit->setMinimumHeight(150);
     logTextEdit->setReadOnly(true);
@@ -214,6 +216,52 @@ void MainWindow::setupUi()
     onAudioSettingsChanged();
     onEncoderChanged(0);
 }
+
+void MainWindow::setupMenu()
+{
+    m_themeMenu = menuBar()->addMenu("&Theme");
+
+    m_systemThemeAction = new QAction("System", this);
+    m_systemThemeAction->setCheckable(true);
+    m_systemThemeAction->setData(ThemeManager::System);
+    m_themeMenu->addAction(m_systemThemeAction);
+
+    m_nekoDarkThemeAction = new QAction("Neko Dark", this);
+    m_nekoDarkThemeAction->setCheckable(true);
+    m_nekoDarkThemeAction->setData(ThemeManager::NekoDark);
+    m_themeMenu->addAction(m_nekoDarkThemeAction);
+
+    m_classicLightThemeAction = new QAction("Classic Light", this);
+    m_classicLightThemeAction->setCheckable(true);
+    m_classicLightThemeAction->setData(ThemeManager::ClassicLight);
+    m_themeMenu->addAction(m_classicLightThemeAction);
+
+    QActionGroup* themeGroup = new QActionGroup(this);
+    themeGroup->addAction(m_systemThemeAction);
+    themeGroup->addAction(m_nekoDarkThemeAction);
+    themeGroup->addAction(m_classicLightThemeAction);
+    themeGroup->setExclusive(true);
+
+    connect(themeGroup, &QActionGroup::triggered, this, &MainWindow::onThemeChanged);
+
+    if (m_themeManager) {
+        switch(m_themeManager->currentTheme()) {
+        case ThemeManager::System: m_systemThemeAction->setChecked(true); break;
+        case ThemeManager::NekoDark: m_nekoDarkThemeAction->setChecked(true); break;
+        case ThemeManager::ClassicLight: m_classicLightThemeAction->setChecked(true); break;
+        }
+    }
+}
+
+// THE FIX: The slot now correctly uses the action passed by the signal.
+void MainWindow::onThemeChanged(QAction* action)
+{
+    if (action && m_themeManager) {
+        ThemeManager::Theme theme = static_cast<ThemeManager::Theme>(action->data().toInt());
+        m_themeManager->applyTheme(theme);
+    }
+}
+
 
 void MainWindow::populateGpuEncoders() {
     logTextEdit->append("Probing for available hardware encoders...");
@@ -339,7 +387,7 @@ void MainWindow::onSelectOutputDirectoryClicked()
     }
 }
 
-void MainWindow::updateCrfLabel(int value) { /* Not needed */ }
+void MainWindow::updateCrfLabel(int value) { /* Not used */ }
 
 void MainWindow::onCompressClicked()
 {
@@ -429,7 +477,7 @@ void MainWindow::startNextCompression()
         else args << "-c:v" << "libhevc";
 
         args << "-preset" << presetComboBox->currentText();
-        args << "-crf" << QString::number(crfSlider->value());
+        args << "-crf" << QString::number(crfSpinBox->value());
 
         QString tune = tuneComboBox->currentText();
         if (tune != "none") args << "-tune" << tune;
@@ -455,7 +503,7 @@ void MainWindow::startNextCompression()
         else {
             if (audioCodec.startsWith("AAC")) args << "-c:a" << "aac";
             else if (audioCodec.startsWith("Opus")) args << "-c:a" << "libopus";
-            args << "-b:a" << QString::number(audioBitrateSlider->value()) + "k";
+            args << "-b:a" << QString::number(audioBitrateSpinBox->value()) + "k";
         }
     }
 
