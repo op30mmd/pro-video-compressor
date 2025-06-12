@@ -1,4 +1,0 @@
-C:/Users/mmd/Documents/ffmpeg-front/build/CMakeFiles/VideoCompressor.dir
-C:/Users/mmd/Documents/ffmpeg-front/build/CMakeFiles/INSTALL.dir
-C:/Users/mmd/Documents/ffmpeg-front/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/mmd/Documents/ffmpeg-front/build/CMakeFiles/ZERO_CHECK.dir
