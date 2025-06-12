@@ -217,40 +217,55 @@ void MainWindow::setupUi()
 void MainWindow::populateGpuEncoders() {
     logTextEdit->append("Probing for available hardware encoders...");
 
-    // Define known hardware acceleration methods and their corresponding encoders
-    const QMap<QString, QStringList> hwAccelMap = {
-        {"qsv",   {"h264_qsv", "hevc_qsv"}},
-        {"nvenc", {"h264_nvenc", "hevc_nvenc"}},
-        {"amf",   {"h264_amf", "hevc_amf"}}
-    };
-
     const QMap<QString, QString> friendlyNames = {
         {"h264_qsv", "Intel (h264_qsv)"}, {"hevc_qsv", "Intel (hevc_qsv)"},
         {"h264_nvenc", "NVIDIA (h264_nvenc)"}, {"hevc_nvenc", "NVIDIA (hevc_nvenc)"},
         {"h264_amf", "AMD (h264_amf)"}, {"hevc_amf", "AMD (hevc_amf)"}
     };
 
-    for (auto it = hwAccelMap.constBegin(); it != hwAccelMap.constEnd(); ++it) {
-        QString hwAccelMethod = it.key();
+    auto testAndAddEncoder = [&](const QString& hwAccelMethod, const QString& initDevice, const QStringList& encoders) {
         QProcess probeProcess;
         // Run a silent test to see if this hardware acceleration method can be initialized
-        probeProcess.start("ffmpeg", QStringList() << "-hide_banner" << "-v" << "error" << "-init_hw_device" << hwAccelMethod);
+        probeProcess.start("ffmpeg", QStringList() << "-hide_banner" << "-v" << "error" << "-init_hw_device" << initDevice);
 
         if (probeProcess.waitForFinished(5000) && probeProcess.exitCode() == 0) {
-            logTextEdit->append(QString("Successfully initialized %1 hardware acceleration.").arg(hwAccelMethod.toUpper()));
-            // If initialization is successful, add the associated encoders to the dropdown
-            const QStringList& encoders = it.value();
+            logTextEdit->append(QString("-> OK: Successfully initialized '%1'.").arg(initDevice));
             for (const QString& encoder : encoders) {
-                // Store the hwaccel method and the encoder name in the item data
                 QVariantMap data;
                 data["encoder"] = encoder;
                 data["hwaccel"] = hwAccelMethod;
+                data["init_device"] = initDevice;
                 encoderComboBox->addItem(friendlyNames.value(encoder, encoder), data);
             }
+            return true;
         } else {
-            logTextEdit->append(QString("Could not initialize %1 hardware acceleration. It will not be available.").arg(hwAccelMethod.toUpper()));
+            // --- DEBUGGING ---
+            // If the probe fails, print the reason to the log.
+            QString errorOutput = QString::fromLocal8Bit(probeProcess.readAllStandardError());
+            logTextEdit->append(QString("-> FAIL: Could not initialize '%1'. Reason:").arg(initDevice));
+            logTextEdit->append(errorOutput.isEmpty() ? "Process timed out or no output." : errorOutput);
+            return false;
+        }
+    };
+
+    // Test for NVIDIA
+    if(!testAndAddEncoder("cuda", "cuda", {"h264_nvenc", "hevc_nvenc"})) {
+        logTextEdit->append("   (NVIDIA NVENC not available or driver issue)");
+    }
+
+    // Test for AMD
+    if(!testAndAddEncoder("d3d11va", "d3d11va", {"h264_amf", "hevc_amf"})) {
+        logTextEdit->append("   (AMD AMF not available or driver issue)");
+    }
+
+    // Test for Intel QSV (most specific first)
+    if(!testAndAddEncoder("qsv", "qsv=d3d11", {"h264_qsv", "hevc_qsv"})) {
+        logTextEdit->append("   (Intel QSV on D3D11 not available, trying legacy...)");
+        if (!testAndAddEncoder("qsv", "qsv", {"h264_qsv", "hevc_qsv"})) {
+            logTextEdit->append("   (Legacy Intel QSV also not available)");
         }
     }
+
     logTextEdit->append("Hardware probe finished.");
 }
 
@@ -260,7 +275,7 @@ void MainWindow::onEncoderChanged(int index)
     QVariantMap data = encoderComboBox->itemData(index).toMap();
     QString encoder = data.value("encoder").toString();
 
-    bool isCpu = encoder.isEmpty(); // CPU options have no special data
+    bool isCpu = encoder.isEmpty();
 
     crfLabel->setEnabled(isCpu);
     crfSlider->setEnabled(isCpu);
@@ -388,10 +403,16 @@ void MainWindow::startNextCompression()
     QVariantMap data = encoderComboBox->itemData(encoderComboBox->currentIndex()).toMap();
     QString encoder = data.value("encoder").toString();
     QString hwaccel = data.value("hwaccel").toString();
+    QString initDevice = data.value("init_device").toString();
 
-    // Add hardware acceleration flag if a GPU is selected
+    if (!initDevice.isEmpty()) {
+        args << "-init_hw_device" << initDevice;
+    }
     if (!hwaccel.isEmpty()) {
         args << "-hwaccel" << hwaccel;
+        if(hwaccel == "qsv") {
+            args << "-hwaccel_output_format" << hwaccel;
+        }
     }
 
     args << "-y" << "-v" << "error" << "-stats" << "-i" << currentInputFile;

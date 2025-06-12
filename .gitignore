@@ -1,0 +1,49 @@
+# CMake / Build files
+build/
+**/build/
+CMakeCache.txt
+CMakeLists.txt.user
+*.cmake.user
+CMakeFiles/
+Makefile
+*.make
+cmake_install.cmake
+
+# C++ / IDE specific
+*.o
+*.obj
+*.slo
+*.lo
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.suo
+
+# Qt Creator
+*.pro.user
+*.pro.user.*
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+
+# Operating System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Log files
+*.log
+
+# Packaged archives
+*.zip
+*.tar.gz
+*.dmg
+

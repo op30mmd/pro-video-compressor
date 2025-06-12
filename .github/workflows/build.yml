@@ -1,0 +1,82 @@
+name: Build & Package Pro Video Compressor
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    name: ${{ matrix.os }} Build
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-latest, macos-latest, windows-latest]
+        qt_version: ['6.5.0'] # You can change the Qt version here
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Install Qt
+      uses: jurplel/install-qt-action@v3
+      with:
+        version: ${{ matrix.qt_version }}
+        arch: ${{ runner.os == 'macos-latest' && 'clang_64' || '' }}
+
+    - name: Install FFmpeg (Linux)
+      if: runner.os == 'Linux'
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y ffmpeg
+
+    - name: Install FFmpeg (macOS)
+      if: runner.os == 'macOS'
+      run: brew install ffmpeg
+
+    - name: Install FFmpeg (Windows)
+      if: runner.os == 'Windows'
+      run: choco install ffmpeg
+
+    - name: Configure CMake
+      run: cmake . -B build -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH=${{ env.QT_DIR }}/${{ matrix.qt_version }}/${{ env.QT_ARCH }}
+
+    - name: Build with CMake
+      run: cmake --build build --config Release
+
+    - name: Package Application (Windows)
+      if: runner.os == 'Windows'
+      run: |
+        mkdir dist
+        cp build/Release/VideoCompressor.exe dist/
+        ${{ env.QT_DIR }}/${{ matrix.qt_version }}/${{ env.QT_ARCH }}/bin/windeployqt.exe --no-translations dist/VideoCompressor.exe
+        cp $(where ffmpeg.exe) dist/
+        cp $(where ffprobe.exe) dist/
+        7z a -tzip VideoCompressor-Windows.zip ./dist/*
+
+    - name: Package Application (macOS)
+      if: runner.os == 'macOS'
+      run: |
+        ${{ env.QT_DIR }}/${{ matrix.qt_version }}/${{ env.QT_ARCH }}/bin/macdeployqt build/VideoCompressor.app -dmg
+        mv build/VideoCompressor.dmg VideoCompressor-macOS.dmg
+
+    - name: Package Application (Linux)
+      if: runner.os == 'Linux'
+      run: |
+        mkdir -p dist/bin
+        cp build/VideoCompressor dist/bin/
+        # Add a note about dependencies
+        echo "Please ensure you have Qt6 and FFmpeg installed on your system to run this application." > dist/README.txt
+        tar -czvf VideoCompressor-Linux.tar.gz -C dist .
+
+    - name: Upload Artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: VideoCompressor-${{ runner.os }}
+        path: |
+          VideoCompressor-Windows.zip
+          VideoCompressor-macOS.dmg
+          VideoCompressor-Linux.tar.gz
+        if-no-files-found: 'ignore' # Prevent errors if a file for a specific OS doesn't exist
+
