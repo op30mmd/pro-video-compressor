@@ -13,7 +13,7 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest, macos-latest, windows-latest]
-        qt_version: ['6.5.0'] # FIX: Changed to a stable LTS version for better compatibility
+        qt_version: ['6.5.0']
 
     steps:
     - name: Checkout repository
@@ -50,12 +50,13 @@ jobs:
 
     - name: Package Application (Windows)
       if: runner.os == 'Windows'
+      shell: bash # Use bash for consistency with 'where' command
       run: |
         mkdir dist
         cp build/Release/VideoCompressor.exe dist/
         ${{ env.QT_DIR }}/${{ matrix.qt_version }}/${{ env.QT_ARCH }}/bin/windeployqt.exe --no-translations dist/VideoCompressor.exe
-        cp $(where ffmpeg.exe) dist/
-        cp $(where ffprobe.exe) dist/
+        cp $(where ffmpeg.exe | head -n 1) dist/
+        cp $(where ffprobe.exe | head -n 1) dist/
         7z a -tzip VideoCompressor-Windows.zip ./dist/*
 
     - name: Package Application (macOS)
