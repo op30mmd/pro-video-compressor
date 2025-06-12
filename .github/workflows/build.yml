@@ -47,19 +47,19 @@ jobs:
 
     - name: Package Application (Windows)
       if: runner.os == 'Windows'
-      shell: bash # Use bash for consistency with 'where' command
+      shell: bash # Use bash for consistency
       run: |
         mkdir dist
         cp build/Release/VideoCompressor.exe dist/
-        ${{ env.QT_DIR }}/bin/windeployqt.exe --no-translations dist/VideoCompressor.exe
-        cp "$(where ffmpeg | head -n 1)" dist/
-        cp "$(where ffprobe | head -n 1)" dist/
+        windeployqt.exe --no-translations dist/VideoCompressor.exe
+        cp "$(which ffmpeg.exe)" dist/
+        cp "$(which ffprobe.exe)" dist/
         7z a -tzip VideoCompressor-Windows.zip ./dist/*
 
     - name: Package Application (macOS)
       if: runner.os == 'macOS'
       run: |
-        ${{ env.QT_DIR }}/bin/macdeployqt build/VideoCompressor.app -dmg
+        macdeployqt build/VideoCompressor.app -dmg
         mv build/VideoCompressor.dmg VideoCompressor-macOS.dmg
 
     - name: Package Application (Linux)
