@@ -18,9 +18,6 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-
-    - name: List files in the repository
-      run: ls -R
       
     - name: Install Qt
       uses: jurplel/install-qt-action@v3
@@ -55,8 +52,8 @@ jobs:
         mkdir dist
         cp build/Release/VideoCompressor.exe dist/
         ${{ env.QT_DIR }}/${{ matrix.qt_version }}/${{ env.QT_ARCH }}/bin/windeployqt.exe --no-translations dist/VideoCompressor.exe
-        cp $(where ffmpeg.exe | head -n 1) dist/
-        cp $(where ffprobe.exe | head -n 1) dist/
+        cp "$(where ffmpeg | head -n 1)" dist/
+        cp "$(where ffprobe | head -n 1)" dist/
         7z a -tzip VideoCompressor-Windows.zip ./dist/*
 
     - name: Package Application (macOS)
