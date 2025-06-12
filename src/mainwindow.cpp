@@ -1,4 +1,4 @@
-#include "mainwindow.h" // FIX: Changed to lowercase to match filename
+#include "mainwindow.h"
 #include <QVBoxLayout>
 #include <QHBoxLayout>
 #include <QGridLayout>
@@ -92,7 +92,7 @@ void MainWindow::setupUi()
     settingsGroupBox = new QGroupBox("Compression Settings");
     auto settingsGrid = createGridLayout(settingsGroupBox);
 
-    encoderLabel = new QLabel("Encoder:");
+    encoderLabel = new QLabel("Encoder:"); // Use the member variable
     encoderComboBox = new QComboBox();
     encoderComboBox->addItems({"CPU (libx264)", "CPU (libhevc)"});
     settingsGrid->addWidget(encoderLabel, 0, 0);

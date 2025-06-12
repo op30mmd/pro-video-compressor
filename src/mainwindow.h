@@ -34,9 +34,9 @@ private slots:
     void onCancelClicked();
     void onProcessReadyReadStandardError();
     void onProcessFinished(int exitCode, QProcess::ExitStatus exitStatus);
+    void updateCrfLabel(int value);
     void onAudioSettingsChanged();
     void onEncoderChanged(int index);
-    void updateCrfLabel(int value); // Re-added this slot to fix the build error
 
 private:
     void setupUi();
@@ -64,6 +64,7 @@ private:
     QGroupBox* audioGroupBox;
     QGroupBox* outputGroupBox;
 
+    QLabel* encoderLabel; // Now a member variable
     QComboBox* encoderComboBox;
 
     QComboBox* presetComboBox;
