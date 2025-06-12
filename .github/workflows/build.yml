@@ -13,7 +13,7 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest, macos-latest, windows-latest]
-        qt_version: ['6.9.1'] # You can change the Qt version here
+        qt_version: ['6.5.0'] # FIX: Changed to a stable LTS version for better compatibility
 
     steps:
     - name: Checkout repository
