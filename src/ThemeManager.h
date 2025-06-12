@@ -12,7 +12,8 @@ public:
     enum Theme {
         System,
         NekoDark,
-        ClassicLight
+        ClassicLight,
+        MonochromeDark // New theme added
     };
 
     explicit ThemeManager(QObject *parent = nullptr);

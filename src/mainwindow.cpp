@@ -231,6 +231,11 @@ void MainWindow::setupMenu()
     m_nekoDarkThemeAction->setData(ThemeManager::NekoDark);
     m_themeMenu->addAction(m_nekoDarkThemeAction);
 
+    m_monochromeDarkThemeAction = new QAction("Monochrome Dark", this);
+    m_monochromeDarkThemeAction->setCheckable(true);
+    m_monochromeDarkThemeAction->setData(ThemeManager::MonochromeDark);
+    m_themeMenu->addAction(m_monochromeDarkThemeAction);
+
     m_classicLightThemeAction = new QAction("Classic Light", this);
     m_classicLightThemeAction->setCheckable(true);
     m_classicLightThemeAction->setData(ThemeManager::ClassicLight);
@@ -239,6 +244,7 @@ void MainWindow::setupMenu()
     QActionGroup* themeGroup = new QActionGroup(this);
     themeGroup->addAction(m_systemThemeAction);
     themeGroup->addAction(m_nekoDarkThemeAction);
+    themeGroup->addAction(m_monochromeDarkThemeAction);
     themeGroup->addAction(m_classicLightThemeAction);
     themeGroup->setExclusive(true);
 
@@ -248,12 +254,12 @@ void MainWindow::setupMenu()
         switch(m_themeManager->currentTheme()) {
         case ThemeManager::System: m_systemThemeAction->setChecked(true); break;
         case ThemeManager::NekoDark: m_nekoDarkThemeAction->setChecked(true); break;
+        case ThemeManager::MonochromeDark: m_monochromeDarkThemeAction->setChecked(true); break;
         case ThemeManager::ClassicLight: m_classicLightThemeAction->setChecked(true); break;
         }
     }
 }
 
-// THE FIX: The slot now correctly uses the action passed by the signal.
 void MainWindow::onThemeChanged(QAction* action)
 {
     if (action && m_themeManager) {

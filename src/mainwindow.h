@@ -67,6 +67,7 @@ private:
     QAction* m_systemThemeAction;
     QAction* m_nekoDarkThemeAction;
     QAction* m_classicLightThemeAction;
+    QAction* m_monochromeDarkThemeAction; // New menu action
 
     // --- UI Elements ---
     QScrollArea* scrollArea;

@@ -14,8 +14,6 @@ ThemeManager::ThemeManager(QObject *parent)
 {
 }
 
-// --- THE FIX ---
-// Corrected the return type syntax for the function definition.
 ThemeManager::Theme ThemeManager::currentTheme() const
 {
     return m_currentTheme;
@@ -38,18 +36,19 @@ void ThemeManager::applyTheme(Theme theme)
         QApplication::setStyle(QStyleFactory::create("Fusion"));
 #endif
 
-        qApp->setStyleSheet(""); // Clear any custom stylesheet
+        qApp->setStyleSheet("");
         applyPalette(isSystemDarkMode());
     }
     else
     {
-        // Custom themes look best on the Fusion style
         QApplication::setStyle(QStyleFactory::create("Fusion"));
 
         if (theme == NekoDark) {
             loadAndApplyStyleSheet(":/themes/NekoDark.qss");
         } else if (theme == ClassicLight) {
             loadAndApplyStyleSheet(":/themes/ClassicLight.qss");
+        } else if (theme == MonochromeDark) { // New logic to load the theme
+            loadAndApplyStyleSheet(":/themes/MonochromeDark.qss");
         }
     }
 }
@@ -57,11 +56,9 @@ void ThemeManager::applyTheme(Theme theme)
 bool ThemeManager::isSystemDarkMode() const
 {
 #ifdef Q_OS_WIN
-    // This is the reliable way to check for Windows dark mode
     QSettings settings("HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Themes\\Personalize", QSettings::NativeFormat);
     return settings.value("AppsUseLightTheme", 1).toInt() == 0;
 #else
-    // For other systems, we can check the palette, though it's less reliable
     return qApp->palette().color(QPalette::Window).lightness() < 128;
 #endif
 }
@@ -79,7 +76,6 @@ void ThemeManager::applyPalette(bool isDark)
 {
     QPalette palette;
     if (isDark) {
-        // Create a dark palette
         palette.setColor(QPalette::Window, QColor(37, 37, 37));
         palette.setColor(QPalette::WindowText, Qt::white);
         palette.setColor(QPalette::Base, QColor(25, 25, 25));
@@ -94,7 +90,6 @@ void ThemeManager::applyPalette(bool isDark)
         palette.setColor(QPalette::Highlight, QColor(42, 130, 218));
         palette.setColor(QPalette::HighlightedText, Qt::black);
     } else {
-        // Let the application use the default light palette by creating a new empty one
         qApp->setPalette(QPalette());
         return;
     }
