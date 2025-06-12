@@ -45,6 +45,10 @@ jobs:
     - name: Build with CMake
       run: cmake --build build --config Release
 
+    - name: Debug: List build directory contents (macOS)
+      if: runner.os == 'macOS'
+      run: ls -R build
+
     - name: Package Application (Windows)
       if: runner.os == 'Windows'
       shell: bash # Use bash for consistency
