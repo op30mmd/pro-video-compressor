@@ -26,14 +26,14 @@ endif()
 if(WIN32)
     add_executable(VideoCompressor WIN32
         src/main.cpp
-        src/MainWindow.cpp
-        src/MainWindow.h
+        src/mainwindow.cpp # FIX: Changed to lowercase 'm' and 'w'
+        src/mainwindow.h   # FIX: Changed to lowercase 'm' and 'w'
     )
 else()
     add_executable(VideoCompressor
         src/main.cpp
-        src/MainWindow.cpp
-        src/MainWindow.h
+        src/mainwindow.cpp # FIX: Changed to lowercase 'm' and 'w'
+        src/mainwindow.h   # FIX: Changed to lowercase 'm' and 'w'
     )
 endif()
 
@@ -49,4 +49,3 @@ target_link_libraries(VideoCompressor PRIVATE
 install(TARGETS VideoCompressor
     RUNTIME DESTINATION bin
 )
-
