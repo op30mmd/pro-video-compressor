@@ -51,12 +51,7 @@ jobs:
         mkdir dist
         cp build/Release/VideoCompressor.exe dist/
         windeployqt.exe --no-translations dist/VideoCompressor.exe
-        
-        # --- THE DEFINITIVE FIX ---
-        # Create a qt.conf file to ensure the application finds its plugins.
-        echo "[Paths]" > dist/qt.conf
-        echo "Plugins = ." >> dist/qt.conf
-        
+        # No longer need qt.conf or manual style copies
         cp "$(which ffmpeg.exe)" dist/
         cp "$(which ffprobe.exe)" dist/
         7z a -tzip VideoCompressor-Windows.zip ./dist/*
