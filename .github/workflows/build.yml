@@ -55,10 +55,10 @@ jobs:
         mkdir dist
         cp build/Release/VideoCompressor.exe dist/
         windeployqt.exe --no-translations dist/VideoCompressor.exe
-        # --- THE CRUCIAL FIX ---
-        # Manually copy the styles plugin folder to ensure native look and feel.
+        # --- THE DEFINITIVE FIX ---
+        # Manually copy the styles plugin using the correct bash variable syntax.
         mkdir -p dist/styles
-        cp -r ${{ env.QT_DIR }}/plugins/styles/qwindowsvistastyle.dll dist/styles/
+        cp "$QT_DIR/plugins/styles/qwindowsvistastyle.dll" dist/styles/
         
         cp "$(which ffmpeg.exe)" dist/
         cp "$(which ffprobe.exe)" dist/
