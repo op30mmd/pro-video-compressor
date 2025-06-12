@@ -1,4 +1,4 @@
-#include "MainWindow.h"
+#include "mainwindow.h" // FIX: Changed to lowercase to match filename
 #include <QVBoxLayout>
 #include <QHBoxLayout>
 #include <QGridLayout>
@@ -92,9 +92,10 @@ void MainWindow::setupUi()
     settingsGroupBox = new QGroupBox("Compression Settings");
     auto settingsGrid = createGridLayout(settingsGroupBox);
 
+    encoderLabel = new QLabel("Encoder:");
     encoderComboBox = new QComboBox();
     encoderComboBox->addItems({"CPU (libx264)", "CPU (libhevc)"});
-    settingsGrid->addWidget(new QLabel("Encoder:"), 0, 0);
+    settingsGrid->addWidget(encoderLabel, 0, 0);
     settingsGrid->addWidget(encoderComboBox, 0, 1);
 
     presetComboBox = new QComboBox();
@@ -216,6 +217,7 @@ void MainWindow::setupUi()
 
 void MainWindow::populateGpuEncoders() {
     logTextEdit->append("Probing for available hardware encoders...");
+    int gpusFound = 0;
 
     const QMap<QString, QString> friendlyNames = {
         {"h264_qsv", "Intel (h264_qsv)"}, {"hevc_qsv", "Intel (hevc_qsv)"},
@@ -225,7 +227,6 @@ void MainWindow::populateGpuEncoders() {
 
     auto testAndAddEncoder = [&](const QString& hwAccelMethod, const QString& initDevice, const QStringList& encoders) {
         QProcess probeProcess;
-        // Run a silent test to see if this hardware acceleration method can be initialized
         probeProcess.start("ffmpeg", QStringList() << "-hide_banner" << "-v" << "error" << "-init_hw_device" << initDevice);
 
         if (probeProcess.waitForFinished(5000) && probeProcess.exitCode() == 0) {
@@ -237,10 +238,9 @@ void MainWindow::populateGpuEncoders() {
                 data["init_device"] = initDevice;
                 encoderComboBox->addItem(friendlyNames.value(encoder, encoder), data);
             }
+            gpusFound++;
             return true;
         } else {
-            // --- DEBUGGING ---
-            // If the probe fails, print the reason to the log.
             QString errorOutput = QString::fromLocal8Bit(probeProcess.readAllStandardError());
             logTextEdit->append(QString("-> FAIL: Could not initialize '%1'. Reason:").arg(initDevice));
             logTextEdit->append(errorOutput.isEmpty() ? "Process timed out or no output." : errorOutput);
@@ -248,17 +248,17 @@ void MainWindow::populateGpuEncoders() {
         }
     };
 
-    // Test for NVIDIA
     if(!testAndAddEncoder("cuda", "cuda", {"h264_nvenc", "hevc_nvenc"})) {
         logTextEdit->append("   (NVIDIA NVENC not available or driver issue)");
     }
 
-    // Test for AMD
     if(!testAndAddEncoder("d3d11va", "d3d11va", {"h264_amf", "hevc_amf"})) {
-        logTextEdit->append("   (AMD AMF not available or driver issue)");
+        logTextEdit->append("   (AMD AMF not available, trying D3D11VA...)");
+        if(!testAndAddEncoder("amf", "amf", {"h264_amf", "hevc_amf"})) {
+            logTextEdit->append("   (AMD AMF/D3D11VA also not available or driver issue)");
+        }
     }
 
-    // Test for Intel QSV (most specific first)
     if(!testAndAddEncoder("qsv", "qsv=d3d11", {"h264_qsv", "hevc_qsv"})) {
         logTextEdit->append("   (Intel QSV on D3D11 not available, trying legacy...)");
         if (!testAndAddEncoder("qsv", "qsv", {"h264_qsv", "hevc_qsv"})) {
@@ -267,6 +267,12 @@ void MainWindow::populateGpuEncoders() {
     }
 
     logTextEdit->append("Hardware probe finished.");
+
+    if (encoderComboBox->count() <= 2) {
+        logTextEdit->append("No working hardware encoders detected. GPU options will be hidden.");
+        encoderLabel->hide();
+        encoderComboBox->hide();
+    }
 }
 
 
@@ -333,7 +339,7 @@ void MainWindow::onSelectOutputDirectoryClicked()
     }
 }
 
-void MainWindow::updateCrfLabel(int value) { /* Not used */ }
+void MainWindow::updateCrfLabel(int value) { /* Not needed */ }
 
 void MainWindow::onCompressClicked()
 {
