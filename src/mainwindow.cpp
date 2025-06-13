@@ -337,8 +337,6 @@ void MainWindow::onSelectOutputDirectoryClicked()
     }
 }
 
-void MainWindow::updateCrfLabel(int value) { /* Not needed */ }
-
 void MainWindow::onCompressClicked()
 {
     if (fileListWidget->count() == 0) {
