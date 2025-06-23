@@ -1,6 +1,24 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-24 01:54:33 +0330_
+_Last updated: 2025-06-24 02:50:24 +0330_
+
+## Supreme Court lets Trump restart deporting migrants to ‘third countries’
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 02:13 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/23/supreme-court-lets-trump-restart-deporting-migrants-to-third-countries?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/supreme-court-lets-trump-restart-deporting-migrants-to-third-countries?traffic_source=rss)  
+
+Dissenting justice warns court actions expose &#039;thousands to the risk of torture or death&#039;.
+
+---
+
+## Trump claims ceasefire reached between Israel and Iran
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 01:53 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/23/trump-claims-ceasefire-reached-between-israel-and-iran?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/trump-claims-ceasefire-reached-between-israel-and-iran?traffic_source=rss)  
+
+US president congratulates Iran and Israel on ceasefire deal, but neither country has confirmed agreement to end war.
+
+---
 
 ## Iran attacks US air base in Qatar: What we know so far
 **Source:** Al Jazeera  
@@ -80,24 +98,6 @@ Qatar was the “obvious choice” for Iranian retaliation against the US, Al Ja
 **Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/kyiv-man-survives-massive-russian-air-strike?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/kyiv-man-survives-massive-russian-air-strike?traffic_source=rss)  
 
 Resident Valeriy Mankuta survived a Russian missile strike by climbing down a lightning rod to escape his damaged home.
-
----
-
-## India’s Pant, Rahul score centuries to set England 371 to win
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 22:56 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/sports/2025/6/23/indias-pant-rahul-score-centuries-to-set-england-371-to-win?traffic_source=rss](https://www.aljazeera.com/sports/2025/6/23/indias-pant-rahul-score-centuries-to-set-england-371-to-win?traffic_source=rss)  
-
-India was all out for 364, opening door for England to stage a dramatic Test cricket win at Headingley on final day.
-
----
-
-## How extensive are Israel’s intelligence operations inside Iran?
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 22:35 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/how-extensive-are-israels-intelligence-operations-inside-iran?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/how-extensive-are-israels-intelligence-operations-inside-iran?traffic_source=rss)  
-
-Israeli and international media all speak of an intelligence operation years in the making.
 
 ---
 
