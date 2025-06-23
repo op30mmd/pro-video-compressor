@@ -1,6 +1,69 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-23 18:57:47 +0330_
+_Last updated: 2025-06-23 20:02:57 +0330_
+
+## Israel says it struck Tehran's Evin prison and Fordo access routes
+**Source:** BBC News  
+**Published:** 2025-06-23 19:59 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cp8621gnknjo](https://www.bbc.com/news/articles/cp8621gnknjo)  
+
+Iran's judiciary says the attack damaged parts of Evin, a notorious facility which holds many political prisoners.
+
+---
+
+## Qatar closes airspace as UK and US tell citizens to shelter in place
+**Source:** BBC News  
+**Published:** 2025-06-23 19:39 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cqx29w0lrx0o](https://www.bbc.com/news/articles/cqx29w0lrx0o)  
+
+Qatar's foreign affairs ministry said the advisory does "not necessarily reflect the existence of specific threats".
+
+---
+
+## Israeli strike hits tents in so-called safe zone in Gaza
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 19:35 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/israeli-strike-hits-tents-in-so-called-safe-zone-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/israeli-strike-hits-tents-in-so-called-safe-zone-in-gaza?traffic_source=rss)  
+
+An Israeli airstrike hit tents sheltering displaced Palestinians in al-Mawasi, Gaza, a so-called safe zone.
+
+---
+
+## Police officers charged with murder of Kenyan blogger
+**Source:** BBC News  
+**Published:** 2025-06-23 19:16 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cz09l4k4184o](https://www.bbc.com/news/articles/cz09l4k4184o)  
+
+Albert Ojwang died in police custody after being detained for allegedly defaming the deputy police chief.
+
+---
+
+## Israel kills at least 43 Palestinians in Gaza, including aid seekers
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 18:59 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/23/israel-kills-at-least-30-palestinians-in-gaza-including-aid-seekers?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/israel-kills-at-least-30-palestinians-in-gaza-including-aid-seekers?traffic_source=rss)  
+
+Among the dozens killed are 20 aid seekers, as NGO warns Israel is also deliberately blocking energy access.
+
+---
+
+## What the US and Israel really want from Iran
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 18:49 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/opinions/2025/6/23/what-the-us-and-israel-really-want-from-iran?traffic_source=rss](https://www.aljazeera.com/opinions/2025/6/23/what-the-us-and-israel-really-want-from-iran?traffic_source=rss)  
+
+The joint attacks against Iran aim to sow chaos and instability in order to secure regional domination.
+
+---
+
+## US, Israeli strikes on Iran nuclear sites: How big are radiation risks?
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 18:42 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/23/us-israeli-strikes-on-iran-nuclear-sites-how-big-are-radiation-risks?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/us-israeli-strikes-on-iran-nuclear-sites-how-big-are-radiation-risks?traffic_source=rss)  
+
+The attacks on Iran&#039;s nuclear enrichment facilities have not increased radioactivity so far.
+
+---
 
 ## UK to ban Palestine Action, police clash with group’s supporters in London
 **Source:** Al Jazeera  
@@ -8,15 +71,6 @@ _Last updated: 2025-06-23 18:57:47 +0330_
 **Link:** [https://www.aljazeera.com/news/2025/6/23/uk-to-ban-palestine-action-police-clash-with-groups-supporters-in-london?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/uk-to-ban-palestine-action-police-clash-with-groups-supporters-in-london?traffic_source=rss)  
 
 British government will use antiterrorism laws to ban campaign organisation in wake of damage to planes by activists.
-
----
-
-## US and UK tell citizens in Qatar to shelter in place
-**Source:** BBC News  
-**Published:** 2025-06-23 18:13 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/cqx29w0lrx0o](https://www.bbc.com/news/articles/cqx29w0lrx0o)  
-
-Qatar's foreign affairs ministry said the advisory does "not necessarily reflect the existence of specific threats".
 
 ---
 
@@ -44,15 +98,6 @@ NATO Secretary General Mark Rutte denied that the military alliance is acting hy
 **Link:** [https://www.bbc.com/news/articles/cqjqvr75v1jo](https://www.bbc.com/news/articles/cqjqvr75v1jo)  
 
 Europe braces for Trump's arrival at the Nato summit with difficult questions over Iran and defence, following the 5% defence spending target he's demanded of allies
-
----
-
-## Police officers charged with murder of Kenyan blogger
-**Source:** BBC News  
-**Published:** 2025-06-23 17:23 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/cz09l4k4184o](https://www.bbc.com/news/articles/cz09l4k4184o)  
-
-Albert Ojwang died in police custody after being detained for allegedly defaming the deputy police chief.
 
 ---
 
@@ -92,24 +137,6 @@ Washington&#039;s support for Kyiv, already in doubt under President Trump, is s
 
 ---
 
-## Greece probes Azerbaijani arrested for espionage for links to Iran
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 16:51 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/greece-probes-azerbaijani-arrested-for-espionage-for-links-to-iran?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/greece-probes-azerbaijani-arrested-for-espionage-for-links-to-iran?traffic_source=rss)  
-
-Arrest comes shortly after Cyprus detains ethnic-Azeri suspected of planning attack on military base for Iran.
-
----
-
-## Freed Belarus opposition candidate says he will keep fighting
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 16:46 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/freed-belarus-opposition-candidate-says-he-will-keep-fighting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/freed-belarus-opposition-candidate-says-he-will-keep-fighting?traffic_source=rss)  
-
-Belarusian opposition activist Siarhei Tsikhanouski was released after five years behind bars.
-
----
-
 ## Nine killed in Kyiv in intense Russian air attack
 **Source:** BBC News  
 **Published:** 2025-06-23 16:42 (Tehran Time)  
@@ -125,33 +152,6 @@ Russian missiles and drones hit residential areas and hospitals in Ukraine's Kyi
 **Link:** [https://www.bbc.com/news/articles/cp8m3861637o](https://www.bbc.com/news/articles/cp8m3861637o)  
 
 The president's comments came after other top officials said replacing the leadership in Tehran was not the aim.
-
----
-
-## UN nuclear chief estimates damage to Iran’s facilities ‘very significant’
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 16:30 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/un-nuclear-chief-estimates-damage-to-irans-facilities-very-significant?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/un-nuclear-chief-estimates-damage-to-irans-facilities-very-significant?traffic_source=rss)  
-
-Tehran has criticised Rafael Grossi for rhetoric it believes helped pave way for strikes, mulling exit from NPT.
-
----
-
-## Shipping giant Maersk divests from companies linked to Israeli settlements
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 16:21 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/shipping-giant-maersk-divests-from-companies-linked-to-israeli-settlements?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/shipping-giant-maersk-divests-from-companies-linked-to-israeli-settlements?traffic_source=rss)  
-
-Move follows campaign accusing Maersk of links to Israel&#039;s military and occupation of Palestinian lands.
-
----
-
-## Israel says it struck Tehran's Evin prison and Fordo access routes
-**Source:** BBC News  
-**Published:** 2025-06-23 15:29 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/cp8621gnknjo](https://www.bbc.com/news/articles/cp8621gnknjo)  
-
-Iran's judiciary says the attack damaged parts of Evin, a notorious facility which holds many political prisoners.
 
 ---
 
