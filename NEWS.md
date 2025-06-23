@@ -1,8 +1,17 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-24 00:53:39 +0330_
+_Last updated: 2025-06-24 01:54:33 +0330_
 
-## Canada and EU sign defense pact amid strained US relations and global instability
+## Iran attacks US air base in Qatar: What we know so far
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 01:06 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/23/iran-attacks-us-air-base-in-qatar-what-we-know-so-far?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/iran-attacks-us-air-base-in-qatar-what-we-know-so-far?traffic_source=rss)  
+
+Iran says it has responded to the US attacks on its nuclear facilities by targeting the US military base in Qatar.
+
+---
+
+## Canada and EU sign defence pact amid strained US relations and global instability
 **Source:** The Guardian  
 **Published:** 2025-06-24 00:36 (Tehran Time)  
 **Link:** [https://www.theguardian.com/world/2025/jun/23/canada-eu-defense-trump-us-allies](https://www.theguardian.com/world/2025/jun/23/canada-eu-defense-trump-us-allies)  
@@ -89,15 +98,6 @@ India was all out for 364, opening door for England to stage a dramatic Test cri
 **Link:** [https://www.aljazeera.com/news/2025/6/23/how-extensive-are-israels-intelligence-operations-inside-iran?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/how-extensive-are-israels-intelligence-operations-inside-iran?traffic_source=rss)  
 
 Israeli and international media all speak of an intelligence operation years in the making.
-
----
-
-## What to know about the US’s Al Udeid Air Base in Qatar after Iran’s attack
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 22:24 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/hld-irans-attack-on-al-udeid-air-base-in-qatar-all-you-need-to-know?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/hld-irans-attack-on-al-udeid-air-base-in-qatar-all-you-need-to-know?traffic_source=rss)  
-
-Prior to attack on biggest US military base in Middle East, US had already started taking ‘force protection’ measures.
 
 ---
 
