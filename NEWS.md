@@ -1,6 +1,51 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-23 22:49:31 +0330_
+_Last updated: 2025-06-23 23:57:51 +0330_
+
+## What to know about New York’s mayoral primary and ranked choice voting
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 23:18 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/23/what-to-know-about-new-yorks-mayoral-primary-and-ranked-choice-voting?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/what-to-know-about-new-yorks-mayoral-primary-and-ranked-choice-voting?traffic_source=rss)  
+
+Tuesday&#039;s election has drawn nationwide attention for its close race and use of ranked choice voting.
+
+---
+
+## Qatar says it has ‘right to respond’ to Iranian missile attack
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 23:05 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/qatar-says-it-has-right-to-respond-to-iranian-missile-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/qatar-says-it-has-right-to-respond-to-iranian-missile-attack?traffic_source=rss)  
+
+Qatar was the “obvious choice” for Iranian retaliation against the US, Al Jazeera’s Dorsa Jabbari explains.
+
+---
+
+## Kyiv man survives ‘massive’ Russian air strike
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 22:58 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/kyiv-man-survives-massive-russian-air-strike?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/kyiv-man-survives-massive-russian-air-strike?traffic_source=rss)  
+
+Resident Valeriy Mankuta survived a Russian missile strike by climbing down a lightning rod to escape his damaged home.
+
+---
+
+## India’s Pant, Rahul score centuries to set England 371 to win
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 22:56 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/sports/2025/6/23/indias-pant-rahul-score-centuries-to-set-england-371-to-win?traffic_source=rss](https://www.aljazeera.com/sports/2025/6/23/indias-pant-rahul-score-centuries-to-set-england-371-to-win?traffic_source=rss)  
+
+India was all out for 364, opening door for England to stage a dramatic Test cricket win at Headingley on final day.
+
+---
+
+## How extensive are Israel’s intelligence operations inside Iran?
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 22:35 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/23/how-extensive-are-israels-intelligence-operations-inside-iran?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/how-extensive-are-israels-intelligence-operations-inside-iran?traffic_source=rss)  
+
+Israeli and international media all speak of an intelligence operation years in the making.
+
+---
 
 ## What to know about the US’s Al Udeid Air Base in Qatar after Iran’s attack
 **Source:** Al Jazeera  
@@ -65,24 +110,6 @@ Tech entrepreneur Mike Lynch and daughter were among seven people killed when bo
 
 ---
 
-## Explosions seen in sky over Doha, Qatar
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 20:46 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/explosions-seen-in-sky-over-doha-qatar?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/explosions-seen-in-sky-over-doha-qatar?traffic_source=rss)  
-
-Explosions have been seen in the sky over Qatar’s capital, Doha after Iran warned of a missile attack.
-
----
-
-## Iran attacks Al Udeid Air Base housing US troops in Qatar
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 20:24 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/flares-over-qatars-doha-explosions-heard-amid-us-israel-iran-conflict?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/flares-over-qatars-doha-explosions-heard-amid-us-israel-iran-conflict?traffic_source=rss)  
-
-Flares were visible over Qatar’s capital, Doha, on Monday. Explosions were also heard.
-
----
-
 ## First celestial image unveiled from revolutionary telescope
 **Source:** BBC News  
 **Published:** 2025-06-23 20:05 (Tehran Time)  
@@ -92,39 +119,12 @@ The telescope should detect killer asteroids and may even find the ninth planet 
 
 ---
 
-## Israeli strike hits tents in so-called safe zone in Gaza
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 19:35 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/israeli-strike-hits-tents-in-so-called-safe-zone-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/israeli-strike-hits-tents-in-so-called-safe-zone-in-gaza?traffic_source=rss)  
-
-An Israeli airstrike hit tents sheltering displaced Palestinians in al-Mawasi, Gaza, a so-called safe zone.
-
----
-
 ## Wildfires rage on Greek island of Chios
 **Source:** BBC News  
 **Published:** 2025-06-23 19:28 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/cz09lmngyv2o](https://www.bbc.com/news/articles/cz09lmngyv2o)  
 
 A state of emergency is declared and an arson investigation launched after five separate fires were sparked within hours.
-
----
-
-## Israel kills at least 43 Palestinians in Gaza, including aid seekers
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 18:59 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/israel-kills-at-least-30-palestinians-in-gaza-including-aid-seekers?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/israel-kills-at-least-30-palestinians-in-gaza-including-aid-seekers?traffic_source=rss)  
-
-Among the dozens killed are 20 aid seekers, as NGO warns Israel is also deliberately blocking energy access.
-
----
-
-## What the US and Israel really want from Iran
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 18:49 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/opinions/2025/6/23/what-the-us-and-israel-really-want-from-iran?traffic_source=rss](https://www.aljazeera.com/opinions/2025/6/23/what-the-us-and-israel-really-want-from-iran?traffic_source=rss)  
-
-The joint attacks against Iran aim to sow chaos and instability in order to secure regional domination.
 
 ---
 
