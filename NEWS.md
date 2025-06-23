@@ -1,6 +1,69 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-23 16:23:24 +0330_
+_Last updated: 2025-06-23 17:08:53 +0330_
+
+## Scottish wingsuit flyer dies during Swiss Alps jump
+**Source:** BBC News  
+**Published:** 2025-06-23 17:06 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cwyepy2zz11o](https://www.bbc.com/news/articles/cwyepy2zz11o)  
+
+British champion Liam Byrne, 24, had said he knew from a young age he wanted to "fly like a bird".
+
+---
+
+## Greece probes Azerbaijani arrested for espionage for links to Iran
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 16:51 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/23/greece-probes-azerbaijani-arrested-for-espionage-for-links-to-iran?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/greece-probes-azerbaijani-arrested-for-espionage-for-links-to-iran?traffic_source=rss)  
+
+Arrest comes shortly after Cyprus detains ethnic-Azeri suspected of planning attack on military base for Iran.
+
+---
+
+## Freed Belarus opposition candidate says he will keep fighting
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 16:46 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/freed-belarus-opposition-candidate-says-he-will-keep-fighting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/freed-belarus-opposition-candidate-says-he-will-keep-fighting?traffic_source=rss)  
+
+Belarusian opposition activist Siarhei Tsikhanouski was released after five years behind bars.
+
+---
+
+## Nine killed in Kyiv in intense Russian air attack
+**Source:** BBC News  
+**Published:** 2025-06-23 16:42 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/c0k7vll16l3o](https://www.bbc.com/news/articles/c0k7vll16l3o)  
+
+Russian missiles and drones hit residential areas and hospitals in Ukraine's Kyiv region, the interior minister says.
+
+---
+
+## 'Why wouldn't there be a regime change?' Trump's latest on Iran
+**Source:** BBC News  
+**Published:** 2025-06-23 16:31 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cp8m3861637o](https://www.bbc.com/news/articles/cp8m3861637o)  
+
+The president's comments came after other top officials said replacing the leadership in Tehran was not the aim.
+
+---
+
+## UN nuclear chief estimates damage to Iran’s facilities ‘very significant’
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 16:30 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/23/un-nuclear-chief-estimates-damage-to-irans-facilities-very-significant?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/un-nuclear-chief-estimates-damage-to-irans-facilities-very-significant?traffic_source=rss)  
+
+Tehran has criticised Rafael Grossi for rhetoric it believes helped pave way for strikes, mulling exit from NPT.
+
+---
+
+## Shipping giant Maersk divests from companies linked to Israeli settlements
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 16:21 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/23/shipping-giant-maersk-divests-from-companies-linked-to-israeli-settlements?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/shipping-giant-maersk-divests-from-companies-linked-to-israeli-settlements?traffic_source=rss)  
+
+Move follows campaign accusing Maersk of links to Israel&#039;s military and occupation of Palestinian lands.
+
+---
 
 ## Trump claims ‘bullseye’ after pictures of Iran’s nuclear sites emerge
 **Source:** Al Jazeera  
@@ -38,12 +101,30 @@ Many airlines have suspended flights to some Middle Eastern destinations, but ot
 
 ---
 
+## Israel says it struck Tehran's Evin prison and Fordo access routes
+**Source:** BBC News  
+**Published:** 2025-06-23 15:29 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cp8621gnknjo](https://www.bbc.com/news/articles/cp8621gnknjo)  
+
+Iran's judiciary says the attack damaged parts of Evin, a notorious facility which holds many political prisoners.
+
+---
+
 ## Sounds familiar: Was this said about Iraq in 2003, or Iran in 2025?
 **Source:** Al Jazeera  
 **Published:** 2025-06-23 15:23 (Tehran Time)  
 **Link:** [https://www.aljazeera.com/news/2025/6/23/sounds-familiar-was-this-said-about-iraq-in-2003-or-iran-in-2025?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/sounds-familiar-was-this-said-about-iraq-in-2003-or-iran-in-2025?traffic_source=rss)  
 
 Read these 10 statements and decide: were they made in the lead-up to the 2003 war or in 2025?
+
+---
+
+## Rescuers search for Brazilian tourist on Indonesian volcano
+**Source:** BBC News  
+**Published:** 2025-06-23 14:40 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/crk60k8gp8jo](https://www.bbc.com/news/articles/crk60k8gp8jo)  
+
+Juliana Marins was hiking on the volcano on Saturday when she fell from a cliff near the crater.
 
 ---
 
@@ -56,57 +137,12 @@ What do PSG, Real Madrid and Inter Miami need? Can Al Hilal and Sundowns still q
 
 ---
 
-## “Will Israel accept” Iran if it’s not a nuclear threat?
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 14:06 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/quotable/2025/6/23/will-israel-accept-iran-if-its-not-a-nuclear-threat?traffic_source=rss](https://www.aljazeera.com/video/quotable/2025/6/23/will-israel-accept-iran-if-its-not-a-nuclear-threat?traffic_source=rss)  
-
-Meron Rapoport says Netanyahu&#039;s Iran strikes distract from Gaza &amp; asks if he would oppose Iran without a nuclear threat.
-
----
-
-## Seven killed in Kyiv in Russian air attack
-**Source:** BBC News  
-**Published:** 2025-06-23 13:49 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c0k7vll16l3o](https://www.bbc.com/news/articles/c0k7vll16l3o)  
-
-Russian missiles and drones hit residential areas and hospitals in Ukraine's Kyiv region, the interior minister says.
-
----
-
-## Mental health meets AI
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 13:48 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/digital-dilemma/2025/6/23/mental-health-meets-ai?traffic_source=rss](https://www.aljazeera.com/video/digital-dilemma/2025/6/23/mental-health-meets-ai?traffic_source=rss)  
-
-AI therapy chatbots offer on-demand mental health support, but can synthetic empathy truly match human compassion?
-
----
-
-## Suicide bombing attack on church in Syria
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 13:39 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/suicide-bombing-attack-on-church-in-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/suicide-bombing-attack-on-church-in-syria?traffic_source=rss)  
-
-A suicide bomber attacked a church near Syria’s capital Damascus during a Sunday mass, killing at least 22 people.
-
----
-
 ## Strait of Hormuz: What happens if Iran shuts global oil corridor?
 **Source:** BBC News  
 **Published:** 2025-06-23 13:35 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/c78n6p09pzno](https://www.bbc.com/news/articles/c78n6p09pzno)  
 
 Iran's threat to block the world's most vital oil transit point has raised fears of major global economic consequences.
-
----
-
-## Israel hits Tehran with massive air attacks
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 13:32 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/trump-claims-bullseye-after-pictures-of-irans-nuclear-sites-emerge?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/trump-claims-bullseye-after-pictures-of-irans-nuclear-sites-emerge?traffic_source=rss)  
-
-Parts of Tehran were covered in clouds of smoke following massive Israeli air attacks across the city on Monday.
 
 ---
 
@@ -125,15 +161,6 @@ Parts of Tehran were covered in clouds of smoke following massive Israeli air at
 **Link:** [https://www.theguardian.com/world/ng-interactive/2025/jun/23/barbados-poet-laureate-esther-phillips](https://www.theguardian.com/world/ng-interactive/2025/jun/23/barbados-poet-laureate-esther-phillips)  
 
 <p>Esther Phillips says her poetry’s ‘ultimate goal’ is to achieve justice for those who suffered at hands of European colonisers</p><p>Esther Phillips, the Barbados poet laureate, grew up next to <a href="https://www.theguardian.com/world/2024/apr/20/tory-mp-from-slave-owning-family-set-to-gain-3m-from-sale-of-former-plantation">Drax Hall Estate, once one of the Caribbean’s notoriously violent slave plantations</a>, where tens of thousands of Africans are said to have died in terrible conditions during the transatlantic slave trade. But she was well into her career when the harsh realities of slavery hit home.</p><p>The poet began writing at a young age, and was inspired at first by the “trees, flowers, birds, the smells of the plants or shrubs, the air, the cane fields” she encountered as she walked to school.</p> <a href="https://www.theguardian.com/world/ng-interactive/2025/jun/23/barbados-poet-laureate-esther-phillips">Continue reading...</a>
-
----
-
-## US asks China to stop Iran from closing Strait of Hormuz
-**Source:** BBC News  
-**Published:** 2025-06-23 10:42 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c056pyv723vo](https://www.bbc.com/news/articles/c056pyv723vo)  
-
-Iran's Press TV had earlier reported that parliament had approved a plan to close the Strait.
 
 ---
 
@@ -170,33 +197,6 @@ A suspected attacker is also killed in an apparent exchange of fire in a village
 **Link:** [https://www.bbc.com/news/articles/c307n9p43z9o](https://www.bbc.com/news/articles/c307n9p43z9o)  
 
 The interior ministry says a man affiliated with IS entered a church and opened fire before blowing himself up.
-
----
-
-## Watch: How successful have the US strikes on Iran been?
-**Source:** BBC News  
-**Published:** 2025-06-23 00:09 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/videos/cq53l9dvggjo](https://www.bbc.com/news/videos/cq53l9dvggjo)  
-
-BBC security analyst Gordon Corera examines how much damage is likely to have been caused to Iran's nuclear sites.
-
----
-
-## Belarus opposition leader's husband urges Trump to help other prisoners
-**Source:** BBC News  
-**Published:** 2025-06-22 20:34 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c07dgmymd1eo](https://www.bbc.com/news/articles/c07dgmymd1eo)  
-
-After his unexpected release, Sergei Tikhanovsky broke down describing his five years in solitary confinement
-
----
-
-## Retaliate now, later or never: What Iran's next move could be
-**Source:** BBC News  
-**Published:** 2025-06-22 18:26 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c80pvg5nmrdo](https://www.bbc.com/news/articles/c80pvg5nmrdo)  
-
-Swarm attacks, cyber strikes or nothing at all for now. Will Iran retaliate against ‘the Great Satan’ - and if so, how?
 
 ---
 
