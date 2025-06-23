@@ -1,13 +1,49 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-23 17:08:53 +0330_
+_Last updated: 2025-06-23 17:56:16 +0330_
 
-## Scottish wingsuit flyer dies during Swiss Alps jump
+## Nato summit could be the most significant since end of Cold War
+**Source:** BBC News  
+**Published:** 2025-06-23 17:32 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cqjqvr75v1jo](https://www.bbc.com/news/articles/cqjqvr75v1jo)  
+
+Europe braces for Trump's arrival at the Nato summit with difficult questions over Iran and defence, following the 5% defence spending target he's demanded of allies
+
+---
+
+## Police officers charged with murder of Kenyan blogger
+**Source:** BBC News  
+**Published:** 2025-06-23 17:23 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cz09l4k4184o](https://www.bbc.com/news/articles/cz09l4k4184o)  
+
+Albert Ojwang died in police custody after being detained for allegedly defaming the deputy police chief.
+
+---
+
+## Can Iran really shut down the Strait of Hormuz?
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 17:12 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/23/can-iran-really-shut-down-the-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/can-iran-really-shut-down-the-strait-of-hormuz?traffic_source=rss)  
+
+Iran may close the vital maritime route, through which one-fifth of the world’s oil supply is shipped every day.
+
+---
+
+## Scottish wingsuit flyer Liam Byrne dies during Swiss Alps jump
 **Source:** BBC News  
 **Published:** 2025-06-23 17:06 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/cwyepy2zz11o](https://www.bbc.com/news/articles/cwyepy2zz11o)  
 
 British champion Liam Byrne, 24, had said he knew from a young age he wanted to "fly like a bird".
+
+---
+
+## As Israel-Iran war escalates, Ukraine fears ‘more losses’ to Russia
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 17:05 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/23/as-israel-iran-war-escalates-ukraine-fears-more-losses-to-russia?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/as-israel-iran-war-escalates-ukraine-fears-more-losses-to-russia?traffic_source=rss)  
+
+Washington&#039;s support for Kyiv, already in doubt under President Trump, is set to decline further, analysts say.
 
 ---
 
@@ -110,30 +146,12 @@ Iran's judiciary says the attack damaged parts of Evin, a notorious facility whi
 
 ---
 
-## Sounds familiar: Was this said about Iraq in 2003, or Iran in 2025?
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 15:23 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/sounds-familiar-was-this-said-about-iraq-in-2003-or-iran-in-2025?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/sounds-familiar-was-this-said-about-iraq-in-2003-or-iran-in-2025?traffic_source=rss)  
-
-Read these 10 statements and decide: were they made in the lead-up to the 2003 war or in 2025?
-
----
-
 ## Rescuers search for Brazilian tourist on Indonesian volcano
 **Source:** BBC News  
 **Published:** 2025-06-23 14:40 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/crk60k8gp8jo](https://www.bbc.com/news/articles/crk60k8gp8jo)  
 
 Juliana Marins was hiking on the volcano on Saturday when she fell from a cliff near the crater.
-
----
-
-## Which teams have qualified for the FIFA Club World Cup round of 16?
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 14:09 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/sports/2025/6/23/fifa-club-world-cup-which-teams-have-qualified-for-the-round-of-16-scenarios-knockout-matches?traffic_source=rss](https://www.aljazeera.com/sports/2025/6/23/fifa-club-world-cup-which-teams-have-qualified-for-the-round-of-16-scenarios-knockout-matches?traffic_source=rss)  
-
-What do PSG, Real Madrid and Inter Miami need? Can Al Hilal and Sundowns still qualify? Al Jazeera explains.
 
 ---
 
@@ -164,15 +182,6 @@ Iran's threat to block the world's most vital oil transit point has raised fears
 
 ---
 
-## Dozens of soldiers seized by locals in Colombian mountains
-**Source:** BBC News  
-**Published:** 2025-06-23 07:39 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c4gdlrk1pzko](https://www.bbc.com/news/articles/c4gdlrk1pzko)  
-
-The military says the civilians were acting under pressure from dissidents of the Farc rebel group.
-
----
-
 ## First celestial image unveiled from revolutionary telescope
 **Source:** BBC News  
 **Published:** 2025-06-23 07:31 (Tehran Time)  
@@ -187,16 +196,7 @@ The telescope should detect killer asteroids and may even find the ninth planet 
 **Published:** 2025-06-23 04:20 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/cn0q8pypxwxo](https://www.bbc.com/news/articles/cn0q8pypxwxo)  
 
-A suspected attacker is also killed in an apparent exchange of fire in a village near Avignon.
-
----
-
-## Suicide bombing at Damascus church kills 25, Syrian authorities say
-**Source:** BBC News  
-**Published:** 2025-06-23 00:56 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c307n9p43z9o](https://www.bbc.com/news/articles/c307n9p43z9o)  
-
-The interior ministry says a man affiliated with IS entered a church and opened fire before blowing himself up.
+Two suspects are arrested after the ceremony ended in a deadly exchange of fire near Avignon.
 
 ---
 
