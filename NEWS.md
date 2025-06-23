@@ -1,6 +1,51 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-23 23:57:51 +0330_
+_Last updated: 2025-06-24 00:53:39 +0330_
+
+## Canada and EU sign defense pact amid strained US relations and global instability
+**Source:** The Guardian  
+**Published:** 2025-06-24 00:36 (Tehran Time)  
+**Link:** [https://www.theguardian.com/world/2025/jun/23/canada-eu-defense-trump-us-allies](https://www.theguardian.com/world/2025/jun/23/canada-eu-defense-trump-us-allies)  
+
+<p>Amid Trump’s disrespect of old allies, EU and Canada vow more support for Ukraine and joint work on climate crisis</p><p>Canada has signed a wide-ranging defence pact with the EU, as Donald Trump and global instability prompt traditional US allies to deepen their alliances.</p><p>Canadian prime minister, Mark Carney, on Monday joined European Commission president, Ursula von der Leyen, and head of the European Council, António Costa, in Brussels, where they signed a security and defence partnership, pledged more support for Ukraine, as well as joint work on issues from the climate crisis to artificial intelligence.</p> <a href="https://www.theguardian.com/world/2025/jun/23/canada-eu-defense-trump-us-allies">Continue reading...</a>
+
+---
+
+## Iran attacks US military base in Qatar
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 00:20 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/iran-attacks-us-military-base-in-qatar?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/iran-attacks-us-military-base-in-qatar?traffic_source=rss)  
+
+Iran fired missiles at a US base in Qatar, saying it was retaliation for recent US strikes on Iran&#039;s nuclear facilities.
+
+---
+
+## US-Israel-Iran conflict: List of key events, June 23, 2025
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 00:06 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/23/israel-iran-conflict-list-of-key-events-june-23-2025?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/israel-iran-conflict-list-of-key-events-june-23-2025?traffic_source=rss)  
+
+Here are the key events on day 11 of the US-Israel-Iran conflict.
+
+---
+
+## Is dropping bombs the answer to Iran’s nuclear programme?
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 23:59 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/inside-story/2025/6/23/is-dropping-bombs-the-answer-to-irans-nuclear-programme?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2025/6/23/is-dropping-bombs-the-answer-to-irans-nuclear-programme?traffic_source=rss)  
+
+Tehran says its nuclear technical know-how can&#039;t be destroyed.
+
+---
+
+## What have countries said about Iran’s strike on a US base in Qatar?
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 23:47 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/23/what-have-countries-said-about-irans-strike-on-a-us-base-in-qatar?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/what-have-countries-said-about-irans-strike-on-a-us-base-in-qatar?traffic_source=rss)  
+
+Iran&#039;s attack targeting the Al Udeid Air Base draws sharp rebukes from several states in the Gulf region.
+
+---
 
 ## What to know about New York’s mayoral primary and ranked choice voting
 **Source:** Al Jazeera  
@@ -56,48 +101,12 @@ Prior to attack on biggest US military base in Middle East, US had already start
 
 ---
 
-## Trump’s budget demands, Iran to split NATO summit focus
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 22:07 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/trumps-budget-demands-iran-to-split-nato-summit-focus?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/trumps-budget-demands-iran-to-split-nato-summit-focus?traffic_source=rss)  
-
-NATO leaders gather Tuesday in The Hague for what could be a historic summit, or one marred by divisions.
-
----
-
 ## Israel says it struck Tehran's Evin prison and Fordo access routes
 **Source:** BBC News  
 **Published:** 2025-06-23 21:40 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/cp8621gnknjo](https://www.bbc.com/news/articles/cp8621gnknjo)  
 
 Iran's judiciary says the attack damaged parts of Evin, a notorious facility which holds many political prisoners.
-
----
-
-## After Donald Trump bombs Iran, what comes next?
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 21:37 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/the-take-2/2025/6/23/aje-onl-irn_usstrike_av_v3-230625?traffic_source=rss](https://www.aljazeera.com/video/the-take-2/2025/6/23/aje-onl-irn_usstrike_av_v3-230625?traffic_source=rss)  
-
-The US bombing of Iran’s nuclear sites raises fears of wider regional war.
-
----
-
-## US attacks on Iran risk global conflict, Russia and China warn
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 21:28 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/us-attacks-on-iran-risk-global-conflict-russia-and-china-warn?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/us-attacks-on-iran-risk-global-conflict-russia-and-china-warn?traffic_source=rss)  
-
-Russia called the US strikes on Iran &#039;unjustified&#039; and &#039;unprovoked&#039;, while China warned they &#039;set a bad precedent&#039;.
-
----
-
-## Israel bombs southern Lebanon amid conflict with Iran and assault on Gaza
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 21:05 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/israel-bombs-southern-lebanon-amid-conflict-with-iran-and-assault-on-gaza?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/israel-bombs-southern-lebanon-amid-conflict-with-iran-and-assault-on-gaza?traffic_source=rss)  
-
-Israel has carried out near-daily violations of the November ceasefire that ended its 14-month war with Hezbollah.
 
 ---
 
@@ -116,6 +125,15 @@ Tech entrepreneur Mike Lynch and daughter were among seven people killed when bo
 **Link:** [https://www.bbc.com/news/articles/cj3rmjjgx6xo](https://www.bbc.com/news/articles/cj3rmjjgx6xo)  
 
 The telescope should detect killer asteroids and may even find the ninth planet in our solar system.
+
+---
+
+## Florence's Uffizi tears into selfie-takers after priceless portrait damaged
+**Source:** BBC News  
+**Published:** 2025-06-23 19:43 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cyvj4pze706o](https://www.bbc.com/news/articles/cyvj4pze706o)  
+
+The museum says it will impose restrictions on selfie-taking in the future.
 
 ---
 
@@ -143,15 +161,6 @@ Europe braces for Trump's arrival at the Nato summit with difficult questions ov
 **Link:** [https://www.bbc.com/news/articles/cwyepy2zz11o](https://www.bbc.com/news/articles/cwyepy2zz11o)  
 
 British champion Liam Byrne, 24, had said he knew from a young age he wanted to "fly like a bird".
-
----
-
-## Nine killed in Kyiv in intense Russian air attack
-**Source:** BBC News  
-**Published:** 2025-06-23 16:42 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c0k7vll16l3o](https://www.bbc.com/news/articles/c0k7vll16l3o)  
-
-Russian missiles and drones hit residential areas and hospitals in Ukraine's Kyiv region, the interior minister says.
 
 ---
 
@@ -215,15 +224,6 @@ Two suspects are arrested after the ceremony ended in a deadly exchange of fire 
 **Link:** [https://www.theguardian.com/world/2025/jun/20/canada-hikers-killed-banff-park](https://www.theguardian.com/world/2025/jun/20/canada-hikers-killed-banff-park)  
 
 <p>‘Basically a whole shelf of a mountain came loose’ said one person who fled the scene in Banff National Park</p><p>Two people have been killed and another three injured when a major rockfall crashed onto a group of hikers on a popular Rocky Mountain trail in western <a href="https://www.theguardian.com/world/canada">Canada</a>.</p><p>The accident happened on Thursday near the Bow Glacier Falls in Banff National Park, about 225km (140 miles) north-west of Calgary, Alberta. The area is known for its natural beauty and is particularly busy in summer.</p> <a href="https://www.theguardian.com/world/2025/jun/20/canada-hikers-killed-banff-park">Continue reading...</a>
-
----
-
-## Canada poised to pass infrastructure bill despite pushback from Indigenous people
-**Source:** The Guardian  
-**Published:** 2025-06-20 20:13 (Tehran Time)  
-**Link:** [https://www.theguardian.com/world/2025/jun/20/canada-infrastructure-bill-indigenous-rights](https://www.theguardian.com/world/2025/jun/20/canada-infrastructure-bill-indigenous-rights)  
-
-<p>Bill prioritizes ‘nation-building’ pipelines and mines, causing concern that sped-up approvals will override constitutional rights</p><p><a href="https://www.theguardian.com/world/canada">Canada’s</a> Liberal government is poised to pass controversial legislation on Friday that aims to kick-start “nation building” infrastructure projects but has received widespread pushback from Indigenous communities over fears it tramples on their constitutional rights.</p><p>On its final day of sitting before breaking for summer, parliament is expected to vote on Bill C-5. The legislation promised by <a href="https://www.theguardian.com/world/mark-carney">Mark Carney</a>, the prime minister, during the federal election, is meant to strengthen Canada’s economy amid a trade war launched by <a href="https://www.theguardian.com/us-news/donaldtrump">Donald Trump</a>.</p> <a href="https://www.theguardian.com/world/2025/jun/20/canada-infrastructure-bill-indigenous-rights">Continue reading...</a>
 
 ---
 
