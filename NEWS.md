@@ -1,6 +1,24 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-23 20:02:57 +0330_
+_Last updated: 2025-06-23 20:14:45 +0330_
+
+## First celestial image unveiled from revolutionary telescope
+**Source:** BBC News  
+**Published:** 2025-06-23 20:05 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cj3rmjjgx6xo](https://www.bbc.com/news/articles/cj3rmjjgx6xo)  
+
+The telescope should detect killer asteroids and may even find the ninth planet in our solar system.
+
+---
+
+## Qatar closes airspace as UK and US tell citizens to shelter in place
+**Source:** BBC News  
+**Published:** 2025-06-23 20:05 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cqx29w0lrx0o](https://www.bbc.com/news/articles/cqx29w0lrx0o)  
+
+The BBC understands there is a "credible threat" to the US-run Coalition Air Operations Centre at Al-Udaid in Qatar.
+
+---
 
 ## Israel says it struck Tehran's Evin prison and Fordo access routes
 **Source:** BBC News  
@@ -8,15 +26,6 @@ _Last updated: 2025-06-23 20:02:57 +0330_
 **Link:** [https://www.bbc.com/news/articles/cp8621gnknjo](https://www.bbc.com/news/articles/cp8621gnknjo)  
 
 Iran's judiciary says the attack damaged parts of Evin, a notorious facility which holds many political prisoners.
-
----
-
-## Qatar closes airspace as UK and US tell citizens to shelter in place
-**Source:** BBC News  
-**Published:** 2025-06-23 19:39 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/cqx29w0lrx0o](https://www.bbc.com/news/articles/cqx29w0lrx0o)  
-
-Qatar's foreign affairs ministry said the advisory does "not necessarily reflect the existence of specific threats".
 
 ---
 
@@ -179,15 +188,6 @@ Juliana Marins was hiking on the volcano on Saturday when she fell from a cliff 
 **Link:** [https://www.theguardian.com/world/ng-interactive/2025/jun/23/barbados-poet-laureate-esther-phillips](https://www.theguardian.com/world/ng-interactive/2025/jun/23/barbados-poet-laureate-esther-phillips)  
 
 <p>Esther Phillips says her poetry’s ‘ultimate goal’ is to achieve justice for those who suffered at hands of European colonisers</p><p>Esther Phillips, the Barbados poet laureate, grew up next to <a href="https://www.theguardian.com/world/2024/apr/20/tory-mp-from-slave-owning-family-set-to-gain-3m-from-sale-of-former-plantation">Drax Hall Estate, once one of the Caribbean’s notoriously violent slave plantations</a>, where tens of thousands of Africans are said to have died in terrible conditions during the transatlantic slave trade. But she was well into her career when the harsh realities of slavery hit home.</p><p>The poet began writing at a young age, and was inspired at first by the “trees, flowers, birds, the smells of the plants or shrubs, the air, the cane fields” she encountered as she walked to school.</p> <a href="https://www.theguardian.com/world/ng-interactive/2025/jun/23/barbados-poet-laureate-esther-phillips">Continue reading...</a>
-
----
-
-## First celestial image unveiled from revolutionary telescope
-**Source:** BBC News  
-**Published:** 2025-06-23 07:31 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/cj3rmjjgx6xo](https://www.bbc.com/news/articles/cj3rmjjgx6xo)  
-
-The telescope should detect killer asteroids and may even find the ninth planet in our solar system.
 
 ---
 
