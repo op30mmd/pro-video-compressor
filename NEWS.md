@@ -1,6 +1,42 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-23 17:56:16 +0330_
+_Last updated: 2025-06-23 18:57:47 +0330_
+
+## UK to ban Palestine Action, police clash with group’s supporters in London
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 18:15 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/23/uk-to-ban-palestine-action-police-clash-with-groups-supporters-in-london?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/uk-to-ban-palestine-action-police-clash-with-groups-supporters-in-london?traffic_source=rss)  
+
+British government will use antiterrorism laws to ban campaign organisation in wake of damage to planes by activists.
+
+---
+
+## US and UK tell citizens in Qatar to shelter in place
+**Source:** BBC News  
+**Published:** 2025-06-23 18:13 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cqx29w0lrx0o](https://www.bbc.com/news/articles/cqx29w0lrx0o)  
+
+Qatar's foreign affairs ministry said the advisory does "not necessarily reflect the existence of specific threats".
+
+---
+
+## Israel Bans international media from Gaza to “hide” realities
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 18:13 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/quotable/2025/6/23/israel-bans-international-media-from-gaza-to-hide-realities?traffic_source=rss](https://www.aljazeera.com/video/quotable/2025/6/23/israel-bans-international-media-from-gaza-to-hide-realities?traffic_source=rss)  
+
+British TV host Piers Morgan says Israel&#039;s decision to prevent intl media from entering Gaza is to hide realities
+
+---
+
+## NATO chief denies being hypocritical over US strikes on Iran
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 18:00 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/nato-chief-denies-being-hypocritical-over-us-strikes-on-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/nato-chief-denies-being-hypocritical-over-us-strikes-on-iran?traffic_source=rss)  
+
+NATO Secretary General Mark Rutte denied that the military alliance is acting hypocritically over the US strike on Iran.
+
+---
 
 ## Nato summit could be the most significant since end of Cold War
 **Source:** BBC News  
@@ -17,6 +53,15 @@ Europe braces for Trump's arrival at the Nato summit with difficult questions ov
 **Link:** [https://www.bbc.com/news/articles/cz09l4k4184o](https://www.bbc.com/news/articles/cz09l4k4184o)  
 
 Albert Ojwang died in police custody after being detained for allegedly defaming the deputy police chief.
+
+---
+
+## Energy crisis adds to survival threats in war-torn Gaza: NGO
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 17:23 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/23/energy-crisis-adds-to-survival-threats-in-war-torn-gaza-ngo?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/energy-crisis-adds-to-survival-threats-in-war-torn-gaza-ngo?traffic_source=rss)  
+
+The Norwegian Refugee Council says the &#039;deliberate denial of energy access&#039; undermines human needs in Gaza.
 
 ---
 
@@ -101,42 +146,6 @@ Move follows campaign accusing Maersk of links to Israel&#039;s military and occ
 
 ---
 
-## Trump claims ‘bullseye’ after pictures of Iran’s nuclear sites emerge
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 16:04 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/trump-claims-bullseye-after-pictures-of-irans-nuclear-sites-emerge-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/trump-claims-bullseye-after-pictures-of-irans-nuclear-sites-emerge-2?traffic_source=rss)  
-
-Donald Trump has said the images showing the aftermath of Iran’s nuclear sites following the US attack reveal &quot;success&quot;.
-
----
-
-## Global protests over US strikes on Iran
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 16:00 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/global-protests-over-us-strikes-on-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/global-protests-over-us-strikes-on-iran?traffic_source=rss)  
-
-Video shows protests across the world in response to US air strikes on Iran.
-
----
-
-## Iranian ambassador condemns US strikes after IAEA meeting
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 16:00 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/iranian-ambassador-condemns-us-strikes-after-iaea-meeting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/iranian-ambassador-condemns-us-strikes-after-iaea-meeting?traffic_source=rss)  
-
-A senior Iranian diplomat condemned the US strikes on its nuclear sites, after attending an emergency IAEA meeting.
-
----
-
-## US bombs Iran: Are airlines stopping flights to Middle East?
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 15:59 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/us-bombs-iran-are-airlines-stopping-flights-to-middle-east?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/us-bombs-iran-are-airlines-stopping-flights-to-middle-east?traffic_source=rss)  
-
-Many airlines have suspended flights to some Middle Eastern destinations, but others are adapting and using new routes.
-
----
-
 ## Israel says it struck Tehran's Evin prison and Fordo access routes
 **Source:** BBC News  
 **Published:** 2025-06-23 15:29 (Tehran Time)  
@@ -152,15 +161,6 @@ Iran's judiciary says the attack damaged parts of Evin, a notorious facility whi
 **Link:** [https://www.bbc.com/news/articles/crk60k8gp8jo](https://www.bbc.com/news/articles/crk60k8gp8jo)  
 
 Juliana Marins was hiking on the volcano on Saturday when she fell from a cliff near the crater.
-
----
-
-## Strait of Hormuz: What happens if Iran shuts global oil corridor?
-**Source:** BBC News  
-**Published:** 2025-06-23 13:35 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c78n6p09pzno](https://www.bbc.com/news/articles/c78n6p09pzno)  
-
-Iran's threat to block the world's most vital oil transit point has raised fears of major global economic consequences.
 
 ---
 
