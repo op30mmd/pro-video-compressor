@@ -1,6 +1,24 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-23 20:14:45 +0330_
+_Last updated: 2025-06-23 20:52:50 +0330_
+
+## Wreck of sunken $30m yacht Bayesian to be examined
+**Source:** BBC News  
+**Published:** 2025-06-23 20:46 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/crrq0w8evnjo](https://www.bbc.com/news/articles/crrq0w8evnjo)  
+
+Tech entrepreneur Mike Lynch and daughter were among seven people killed when boat went down off coast of Italy.
+
+---
+
+## Iran says launched attack on US troops at Qatar’s Al Udeid Air Base
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 20:24 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/23/flares-over-qatars-doha-explosions-heard-amid-us-israel-iran-conflict?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/flares-over-qatars-doha-explosions-heard-amid-us-israel-iran-conflict?traffic_source=rss)  
+
+Flares were visible over Qatar’s capital, Doha Monday, explosions were also heard.
+
+---
 
 ## First celestial image unveiled from revolutionary telescope
 **Source:** BBC News  
@@ -8,15 +26,6 @@ _Last updated: 2025-06-23 20:14:45 +0330_
 **Link:** [https://www.bbc.com/news/articles/cj3rmjjgx6xo](https://www.bbc.com/news/articles/cj3rmjjgx6xo)  
 
 The telescope should detect killer asteroids and may even find the ninth planet in our solar system.
-
----
-
-## Qatar closes airspace as UK and US tell citizens to shelter in place
-**Source:** BBC News  
-**Published:** 2025-06-23 20:05 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/cqx29w0lrx0o](https://www.bbc.com/news/articles/cqx29w0lrx0o)  
-
-The BBC understands there is a "credible threat" to the US-run Coalition Air Operations Centre at Al-Udaid in Qatar.
 
 ---
 
@@ -38,12 +47,12 @@ An Israeli airstrike hit tents sheltering displaced Palestinians in al-Mawasi, G
 
 ---
 
-## Police officers charged with murder of Kenyan blogger
+## Wildfires rage on Greek island of Chios
 **Source:** BBC News  
-**Published:** 2025-06-23 19:16 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/cz09l4k4184o](https://www.bbc.com/news/articles/cz09l4k4184o)  
+**Published:** 2025-06-23 19:28 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cz09lmngyv2o](https://www.bbc.com/news/articles/cz09lmngyv2o)  
 
-Albert Ojwang died in police custody after being detained for allegedly defaming the deputy police chief.
+A state of emergency is declared and an arson investigation launched after five separate fires were sparked within hours.
 
 ---
 
@@ -134,15 +143,6 @@ Iran may close the vital maritime route, through which one-fifth of the world’
 **Link:** [https://www.bbc.com/news/articles/cwyepy2zz11o](https://www.bbc.com/news/articles/cwyepy2zz11o)  
 
 British champion Liam Byrne, 24, had said he knew from a young age he wanted to "fly like a bird".
-
----
-
-## As Israel-Iran war escalates, Ukraine fears ‘more losses’ to Russia
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 17:05 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/as-israel-iran-war-escalates-ukraine-fears-more-losses-to-russia?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/as-israel-iran-war-escalates-ukraine-fears-more-losses-to-russia?traffic_source=rss)  
-
-Washington&#039;s support for Kyiv, already in doubt under President Trump, is set to decline further, analysts say.
 
 ---
 
