@@ -1,6 +1,51 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-23 14:53:50 +0330_
+_Last updated: 2025-06-23 16:23:24 +0330_
+
+## Trump claims ‘bullseye’ after pictures of Iran’s nuclear sites emerge
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 16:04 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/trump-claims-bullseye-after-pictures-of-irans-nuclear-sites-emerge-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/trump-claims-bullseye-after-pictures-of-irans-nuclear-sites-emerge-2?traffic_source=rss)  
+
+Donald Trump has said the images showing the aftermath of Iran’s nuclear sites following the US attack reveal &quot;success&quot;.
+
+---
+
+## Global protests over US strikes on Iran
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 16:00 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/global-protests-over-us-strikes-on-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/global-protests-over-us-strikes-on-iran?traffic_source=rss)  
+
+Video shows protests across the world in response to US air strikes on Iran.
+
+---
+
+## Iranian ambassador condemns US strikes after IAEA meeting
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 16:00 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/iranian-ambassador-condemns-us-strikes-after-iaea-meeting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/iranian-ambassador-condemns-us-strikes-after-iaea-meeting?traffic_source=rss)  
+
+A senior Iranian diplomat condemned the US strikes on its nuclear sites, after attending an emergency IAEA meeting.
+
+---
+
+## US bombs Iran: Are airlines stopping flights to Middle East?
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 15:59 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/23/us-bombs-iran-are-airlines-stopping-flights-to-middle-east?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/us-bombs-iran-are-airlines-stopping-flights-to-middle-east?traffic_source=rss)  
+
+Many airlines have suspended flights to some Middle Eastern destinations, but others are adapting and using new routes.
+
+---
+
+## Sounds familiar: Was this said about Iraq in 2003, or Iran in 2025?
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 15:23 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/23/sounds-familiar-was-this-said-about-iraq-in-2003-or-iran-in-2025?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/sounds-familiar-was-this-said-about-iraq-in-2003-or-iran-in-2025?traffic_source=rss)  
+
+Read these 10 statements and decide: were they made in the lead-up to the 2003 war or in 2025?
+
+---
 
 ## Which teams have qualified for the FIFA Club World Cup round of 16?
 **Source:** Al Jazeera  
@@ -20,7 +65,7 @@ Meron Rapoport says Netanyahu&#039;s Iran strikes distract from Gaza &amp; asks 
 
 ---
 
-## Seven killed in Kyiv in new Russian aerial attack
+## Seven killed in Kyiv in Russian air attack
 **Source:** BBC News  
 **Published:** 2025-06-23 13:49 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/c0k7vll16l3o](https://www.bbc.com/news/articles/c0k7vll16l3o)  
@@ -74,57 +119,12 @@ Parts of Tehran were covered in clouds of smoke following massive Israeli air at
 
 ---
 
-## Colombia’s army says 57 soldiers kidnapped in restive southwest
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 13:23 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/colombia-army-says-57-soldiers-kidnapped-in-restive-southwest?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/colombia-army-says-57-soldiers-kidnapped-in-restive-southwest?traffic_source=rss)  
-
-President Gustavo Petro says freeing the seized soldiers &#039;is imperative&#039;.
-
----
-
-## Iran vows response to US strikes as it hits back at Israel
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 13:04 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/iran-vows-response-to-us-strikes-as-it-hits-back-at-israel?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/iran-vows-response-to-us-strikes-as-it-hits-back-at-israel?traffic_source=rss)  
-
-Tehran is weighing its military options as it follows up internationally on the US and Israeli strikes.
-
----
-
 ## Barbados poet laureate on mission to share stories of enslavement
 **Source:** The Guardian  
 **Published:** 2025-06-23 12:30 (Tehran Time)  
 **Link:** [https://www.theguardian.com/world/ng-interactive/2025/jun/23/barbados-poet-laureate-esther-phillips](https://www.theguardian.com/world/ng-interactive/2025/jun/23/barbados-poet-laureate-esther-phillips)  
 
 <p>Esther Phillips says her poetry’s ‘ultimate goal’ is to achieve justice for those who suffered at hands of European colonisers</p><p>Esther Phillips, the Barbados poet laureate, grew up next to <a href="https://www.theguardian.com/world/2024/apr/20/tory-mp-from-slave-owning-family-set-to-gain-3m-from-sale-of-former-plantation">Drax Hall Estate, once one of the Caribbean’s notoriously violent slave plantations</a>, where tens of thousands of Africans are said to have died in terrible conditions during the transatlantic slave trade. But she was well into her career when the harsh realities of slavery hit home.</p><p>The poet began writing at a young age, and was inspired at first by the “trees, flowers, birds, the smells of the plants or shrubs, the air, the cane fields” she encountered as she walked to school.</p> <a href="https://www.theguardian.com/world/ng-interactive/2025/jun/23/barbados-poet-laureate-esther-phillips">Continue reading...</a>
-
----
-
-## Dashcam captures huge blast in Ashdod in Israel
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 12:08 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/dashcam-captures-huge-blast-in-ashdod-in-israel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/dashcam-captures-huge-blast-in-ashdod-in-israel?traffic_source=rss)  
-
-Dashcam video captured a huge explosion next to a road in Ashdod in Israel, as Iran launched a new wave of strikes.
-
----
-
-## Risk of Iran attack on US bases in Gulf likely not “huge”
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 11:59 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/quotable/2025/6/23/risk-of-iran-attack-on-us-bases-in-gulf-likely-not?traffic_source=rss](https://www.aljazeera.com/video/quotable/2025/6/23/risk-of-iran-attack-on-us-bases-in-gulf-likely-not?traffic_source=rss)  
-
-“[I’m] not so sure that there&#039;s a huge risk of Iran attacking US military bases in GCC countries.”
-
----
-
-## IAEA says extent of damage at Fordow still unknown
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 11:31 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/iaea-says-extent-of-damage-at-fordow-still-unknown?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/iaea-says-extent-of-damage-at-fordow-still-unknown?traffic_source=rss)  
-
-The head of the UN’s nuclear watchdog the IAEA Rafael Grossi has warned that the global non-proliferation regime
 
 ---
 
@@ -164,7 +164,7 @@ A suspected attacker is also killed in an apparent exchange of fire in a village
 
 ---
 
-## Suicide bombing at Damascus church kills 22, Syrian authorities say
+## Suicide bombing at Damascus church kills 25, Syrian authorities say
 **Source:** BBC News  
 **Published:** 2025-06-23 00:56 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/c307n9p43z9o](https://www.bbc.com/news/articles/c307n9p43z9o)  
