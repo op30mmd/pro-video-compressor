@@ -1,6 +1,24 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-23 22:05:16 +0330_
+_Last updated: 2025-06-23 22:49:31 +0330_
+
+## What to know about the US’s Al Udeid Air Base in Qatar after Iran’s attack
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 22:24 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/23/hld-irans-attack-on-al-udeid-air-base-in-qatar-all-you-need-to-know?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/hld-irans-attack-on-al-udeid-air-base-in-qatar-all-you-need-to-know?traffic_source=rss)  
+
+Prior to attack on biggest US military base in Middle East, US had already started taking ‘force protection’ measures.
+
+---
+
+## Trump’s budget demands, Iran to split NATO summit focus
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 22:07 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/23/trumps-budget-demands-iran-to-split-nato-summit-focus?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/trumps-budget-demands-iran-to-split-nato-summit-focus?traffic_source=rss)  
+
+NATO leaders gather Tuesday in The Hague for what could be a historic summit, or one marred by divisions.
+
+---
 
 ## Israel says it struck Tehran's Evin prison and Fordo access routes
 **Source:** BBC News  
@@ -56,7 +74,7 @@ Explosions have been seen in the sky over Qatar’s capital, Doha after Iran war
 
 ---
 
-## Iran says launched attack on US troops at Al Udeid Air Base in Qatar
+## Iran attacks Al Udeid Air Base housing US troops in Qatar
 **Source:** Al Jazeera  
 **Published:** 2025-06-23 20:24 (Tehran Time)  
 **Link:** [https://www.aljazeera.com/news/2025/6/23/flares-over-qatars-doha-explosions-heard-amid-us-israel-iran-conflict?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/flares-over-qatars-doha-explosions-heard-amid-us-israel-iran-conflict?traffic_source=rss)  
@@ -107,24 +125,6 @@ Among the dozens killed are 20 aid seekers, as NGO warns Israel is also delibera
 **Link:** [https://www.aljazeera.com/opinions/2025/6/23/what-the-us-and-israel-really-want-from-iran?traffic_source=rss](https://www.aljazeera.com/opinions/2025/6/23/what-the-us-and-israel-really-want-from-iran?traffic_source=rss)  
 
 The joint attacks against Iran aim to sow chaos and instability in order to secure regional domination.
-
----
-
-## US, Israeli strikes on Iran nuclear sites: How big are radiation risks?
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 18:42 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/us-israeli-strikes-on-iran-nuclear-sites-how-big-are-radiation-risks?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/us-israeli-strikes-on-iran-nuclear-sites-how-big-are-radiation-risks?traffic_source=rss)  
-
-The attacks on Iran&#039;s nuclear enrichment facilities have not increased radioactivity so far.
-
----
-
-## UK to ban Palestine Action, police clash with group’s supporters in London
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 18:15 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/uk-to-ban-palestine-action-police-clash-with-groups-supporters-in-london?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/uk-to-ban-palestine-action-police-clash-with-groups-supporters-in-london?traffic_source=rss)  
-
-British government will use antiterrorism laws to ban campaign organisation in wake of damage to planes by activists.
 
 ---
 
