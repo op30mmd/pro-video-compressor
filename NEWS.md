@@ -1,6 +1,42 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-23 20:52:50 +0330_
+_Last updated: 2025-06-23 22:05:16 +0330_
+
+## Israel says it struck Tehran's Evin prison and Fordo access routes
+**Source:** BBC News  
+**Published:** 2025-06-23 21:40 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cp8621gnknjo](https://www.bbc.com/news/articles/cp8621gnknjo)  
+
+Iran's judiciary says the attack damaged parts of Evin, a notorious facility which holds many political prisoners.
+
+---
+
+## After Donald Trump bombs Iran, what comes next?
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 21:37 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/the-take-2/2025/6/23/aje-onl-irn_usstrike_av_v3-230625?traffic_source=rss](https://www.aljazeera.com/video/the-take-2/2025/6/23/aje-onl-irn_usstrike_av_v3-230625?traffic_source=rss)  
+
+The US bombing of Iran’s nuclear sites raises fears of wider regional war.
+
+---
+
+## US attacks on Iran risk global conflict, Russia and China warn
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 21:28 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/23/us-attacks-on-iran-risk-global-conflict-russia-and-china-warn?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/us-attacks-on-iran-risk-global-conflict-russia-and-china-warn?traffic_source=rss)  
+
+Russia called the US strikes on Iran &#039;unjustified&#039; and &#039;unprovoked&#039;, while China warned they &#039;set a bad precedent&#039;.
+
+---
+
+## Israel bombs southern Lebanon amid conflict with Iran and assault on Gaza
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 21:05 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/23/israel-bombs-southern-lebanon-amid-conflict-with-iran-and-assault-on-gaza?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/israel-bombs-southern-lebanon-amid-conflict-with-iran-and-assault-on-gaza?traffic_source=rss)  
+
+Israel has carried out near-daily violations of the November ceasefire that ended its 14-month war with Hezbollah.
+
+---
 
 ## Wreck of sunken $30m yacht Bayesian to be examined
 **Source:** BBC News  
@@ -11,12 +47,21 @@ Tech entrepreneur Mike Lynch and daughter were among seven people killed when bo
 
 ---
 
-## Iran says launched attack on US troops at Qatar’s Al Udeid Air Base
+## Explosions seen in sky over Doha, Qatar
+**Source:** Al Jazeera  
+**Published:** 2025-06-23 20:46 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/explosions-seen-in-sky-over-doha-qatar?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/explosions-seen-in-sky-over-doha-qatar?traffic_source=rss)  
+
+Explosions have been seen in the sky over Qatar’s capital, Doha after Iran warned of a missile attack.
+
+---
+
+## Iran says launched attack on US troops at Al Udeid Air Base in Qatar
 **Source:** Al Jazeera  
 **Published:** 2025-06-23 20:24 (Tehran Time)  
 **Link:** [https://www.aljazeera.com/news/2025/6/23/flares-over-qatars-doha-explosions-heard-amid-us-israel-iran-conflict?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/flares-over-qatars-doha-explosions-heard-amid-us-israel-iran-conflict?traffic_source=rss)  
 
-Flares were visible over Qatar’s capital, Doha Monday, explosions were also heard.
+Flares were visible over Qatar’s capital, Doha, on Monday. Explosions were also heard.
 
 ---
 
@@ -26,15 +71,6 @@ Flares were visible over Qatar’s capital, Doha Monday, explosions were also he
 **Link:** [https://www.bbc.com/news/articles/cj3rmjjgx6xo](https://www.bbc.com/news/articles/cj3rmjjgx6xo)  
 
 The telescope should detect killer asteroids and may even find the ninth planet in our solar system.
-
----
-
-## Israel says it struck Tehran's Evin prison and Fordo access routes
-**Source:** BBC News  
-**Published:** 2025-06-23 19:59 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/cp8621gnknjo](https://www.bbc.com/news/articles/cp8621gnknjo)  
-
-Iran's judiciary says the attack damaged parts of Evin, a notorious facility which holds many political prisoners.
 
 ---
 
@@ -92,48 +128,12 @@ British government will use antiterrorism laws to ban campaign organisation in w
 
 ---
 
-## Israel Bans international media from Gaza to “hide” realities
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 18:13 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/quotable/2025/6/23/israel-bans-international-media-from-gaza-to-hide-realities?traffic_source=rss](https://www.aljazeera.com/video/quotable/2025/6/23/israel-bans-international-media-from-gaza-to-hide-realities?traffic_source=rss)  
-
-British TV host Piers Morgan says Israel&#039;s decision to prevent intl media from entering Gaza is to hide realities
-
----
-
-## NATO chief denies being hypocritical over US strikes on Iran
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 18:00 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/nato-chief-denies-being-hypocritical-over-us-strikes-on-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/nato-chief-denies-being-hypocritical-over-us-strikes-on-iran?traffic_source=rss)  
-
-NATO Secretary General Mark Rutte denied that the military alliance is acting hypocritically over the US strike on Iran.
-
----
-
 ## Nato summit could be the most significant since end of Cold War
 **Source:** BBC News  
 **Published:** 2025-06-23 17:32 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/cqjqvr75v1jo](https://www.bbc.com/news/articles/cqjqvr75v1jo)  
 
 Europe braces for Trump's arrival at the Nato summit with difficult questions over Iran and defence, following the 5% defence spending target he's demanded of allies
-
----
-
-## Energy crisis adds to survival threats in war-torn Gaza: NGO
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 17:23 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/energy-crisis-adds-to-survival-threats-in-war-torn-gaza-ngo?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/energy-crisis-adds-to-survival-threats-in-war-torn-gaza-ngo?traffic_source=rss)  
-
-The Norwegian Refugee Council says the &#039;deliberate denial of energy access&#039; undermines human needs in Gaza.
-
----
-
-## Can Iran really shut down the Strait of Hormuz?
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 17:12 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/can-iran-really-shut-down-the-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/can-iran-really-shut-down-the-strait-of-hormuz?traffic_source=rss)  
-
-Iran may close the vital maritime route, through which one-fifth of the world’s oil supply is shipped every day.
 
 ---
 
