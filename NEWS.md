@@ -1,6 +1,51 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-24 08:55:58 +0330_
+_Last updated: 2025-06-24 10:06:53 +0330_
+
+## ‘Foreigners for both nations’: India pushing Muslims ‘back’ to Bangladesh
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 09:56 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/24/foreigners-for-both-nations-india-pushing-muslims-back-to-bangladesh?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/foreigners-for-both-nations-india-pushing-muslims-back-to-bangladesh?traffic_source=rss)  
+
+Hundreds taken to Bangladesh border at gunpoint in a crackdown by Assam, as some other BJP-ruled states follow suit.
+
+---
+
+## Who is attending the NATO summit and what’s on the agenda?
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 09:54 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/24/who-is-attending-the-nato-summit-and-whats-on-the-agenda?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/who-is-attending-the-nato-summit-and-whats-on-the-agenda?traffic_source=rss)  
+
+Continued support for Ukraine amid Russian aggression as well as higher defence spending by allies are key topics.
+
+---
+
+## Iranian missile strikes building in Israel
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 09:36 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/24/iranian-missile-strikes-building-in-israel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/24/iranian-missile-strikes-building-in-israel?traffic_source=rss)  
+
+Video shows the moment an Iranian missile struck a building in Israel’s Beersheba on Tuesday.
+
+---
+
+## Russia-Ukraine war: List of key events, day 1,216
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 09:31 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/24/russia-ukraine-war-list-of-key-events-day-1216?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/russia-ukraine-war-list-of-key-events-day-1216?traffic_source=rss)  
+
+Here are the key events on day 1,216 of Russia’s war on Ukraine.
+
+---
+
+## Remembering India's iconic crocodile-hunting tigress
+**Source:** BBC News  
+**Published:** 2025-06-24 09:20 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/c77vj7v74lmo](https://www.bbc.com/news/articles/c77vj7v74lmo)  
+
+Arrowhead, also known as T-84, died last week in India's Ranthambore national park.
+
+---
 
 ## Rescuers search for Brazilian tourist on Indonesian volcano
 **Source:** BBC News  
@@ -44,6 +89,15 @@ Dissenting justice warns court actions expose &#039;thousands to the risk of tor
 **Link:** [https://www.aljazeera.com/news/2025/6/23/trump-claims-ceasefire-reached-between-israel-and-iran?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/trump-claims-ceasefire-reached-between-israel-and-iran?traffic_source=rss)  
 
 US president congratulates Iran and Israel on truce deal, but neither country has confirmed agreement to end war.
+
+---
+
+## Did Trump have the legal authority to strike Iran?
+**Source:** BBC News  
+**Published:** 2025-06-24 01:20 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/c4gkw04yze1o](https://www.bbc.com/news/articles/c4gkw04yze1o)  
+
+Some lawmakers have called Trump's strikes on Iran "unconstitutional" - so did he have the authority to order them?
 
 ---
 
@@ -92,42 +146,6 @@ Tehran says its nuclear technical know-how can&#039;t be destroyed.
 
 ---
 
-## What have countries said about Iran’s strike on a US base in Qatar?
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 23:47 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/what-have-countries-said-about-irans-strike-on-a-us-base-in-qatar?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/what-have-countries-said-about-irans-strike-on-a-us-base-in-qatar?traffic_source=rss)  
-
-Iran&#039;s attack targeting the Al Udeid Air Base draws sharp rebukes from several states in the Gulf region.
-
----
-
-## What to know about New York’s mayoral primary and ranked choice voting
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 23:18 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/what-to-know-about-new-yorks-mayoral-primary-and-ranked-choice-voting?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/what-to-know-about-new-yorks-mayoral-primary-and-ranked-choice-voting?traffic_source=rss)  
-
-Tuesday&#039;s election has drawn nationwide attention for its close race and use of ranked choice voting.
-
----
-
-## Qatar says it has ‘right to respond’ to Iranian missile attack
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 23:05 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/qatar-says-it-has-right-to-respond-to-iranian-missile-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/qatar-says-it-has-right-to-respond-to-iranian-missile-attack?traffic_source=rss)  
-
-Qatar was the “obvious choice” for Iranian retaliation against the US, Al Jazeera’s Dorsa Jabbari explains.
-
----
-
-## Kyiv man survives ‘massive’ Russian air strike
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 22:58 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/kyiv-man-survives-massive-russian-air-strike?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/kyiv-man-survives-massive-russian-air-strike?traffic_source=rss)  
-
-Resident Valeriy Mankuta survived a Russian missile strike by climbing down a lightning rod to escape his damaged home.
-
----
-
 ## What we know about Iran's attack on US base in Qatar
 **Source:** BBC News  
 **Published:** 2025-06-23 21:44 (Tehran Time)  
@@ -152,15 +170,6 @@ US Homeland Security, which says he'll "never go free on American soil",  is exp
 **Link:** [https://www.bbc.com/news/articles/cj3rmjjgx6xo](https://www.bbc.com/news/articles/cj3rmjjgx6xo)  
 
 The telescope should detect killer asteroids and may even find the ninth planet in our solar system.
-
----
-
-## Florence's Uffizi tears into selfie-takers after priceless portrait damaged
-**Source:** BBC News  
-**Published:** 2025-06-23 19:43 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/cyvj4pze706o](https://www.bbc.com/news/articles/cyvj4pze706o)  
-
-The museum says it will impose restrictions on selfie-taking in the future.
 
 ---
 
@@ -197,15 +206,6 @@ Russian missiles and drones hit residential areas and hospitals in Ukraine's Kyi
 **Link:** [https://www.theguardian.com/world/ng-interactive/2025/jun/23/barbados-poet-laureate-esther-phillips](https://www.theguardian.com/world/ng-interactive/2025/jun/23/barbados-poet-laureate-esther-phillips)  
 
 <p>Esther Phillips says her poetry’s ‘ultimate goal’ is to achieve justice for those who suffered at hands of European colonisers</p><p>Esther Phillips, the Barbados poet laureate, grew up next to <a href="https://www.theguardian.com/world/2024/apr/20/tory-mp-from-slave-owning-family-set-to-gain-3m-from-sale-of-former-plantation">Drax Hall Estate, once one of the Caribbean’s notoriously violent slave plantations</a>, where tens of thousands of Africans are said to have died in terrible conditions during the transatlantic slave trade. But she was well into her career when the harsh realities of slavery hit home.</p><p>The poet began writing at a young age, and was inspired at first by the “trees, flowers, birds, the smells of the plants or shrubs, the air, the cane fields” she encountered as she walked to school.</p> <a href="https://www.theguardian.com/world/ng-interactive/2025/jun/23/barbados-poet-laureate-esther-phillips">Continue reading...</a>
-
----
-
-## Bride shot dead in attack on French wedding party
-**Source:** BBC News  
-**Published:** 2025-06-23 04:20 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/cn0q8pypxwxo](https://www.bbc.com/news/articles/cn0q8pypxwxo)  
-
-Two suspects are arrested after the ceremony ended in a deadly exchange of fire near Avignon.
 
 ---
 
