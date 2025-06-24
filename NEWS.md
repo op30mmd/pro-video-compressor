@@ -1,6 +1,42 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-24 23:57:51 +0330_
+_Last updated: 2025-06-25 00:53:44 +0330_
+
+## Leaders arrive at Hague summit as Nato chief Rutte flatters Trump
+**Source:** BBC News  
+**Published:** 2025-06-25 00:30 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/c4gd98qry6jo](https://www.bbc.com/news/articles/c4gd98qry6jo)  
+
+It is the US president's first Nato summit since 2019 and all 32 leaders are set to commit to a big hike in defence spending.
+
+---
+
+## Man wrongfully deported to El Salvador must be returned to US, court rules
+**Source:** The Guardian  
+**Published:** 2025-06-25 00:29 (Tehran Time)  
+**Link:** [https://www.theguardian.com/us-news/2025/jun/24/el-salvador-deportation-return](https://www.theguardian.com/us-news/2025/jun/24/el-salvador-deportation-return)  
+
+<p>Court orders White House return Jordin Melgar-Salmeron, who was deported less than 30 minutes after his removal was barred</p><p>An appeals court has <a href="https://s3.documentcloud.org/documents/25982192/melgarorder062425.pdf">ordered</a> the Trump administration to return a man wrongfully deported to El Salvador to the US and to explain how it is complying in a ruling apparently designed to break a pattern of apparent government defiance of judicial orders.</p><p>The US court of appeals for the second circuit in New York also required the government to provide a declaration of the current whereabouts and custodial status of Jordin Melgar-Salmeron, who was <a href="https://www.nytimes.com/2025/05/30/us/politics/trump-deportation-el-salvador.html">deported on 7 May</a> less than half an hour after the court had expressly barred his removal.</p> <a href="https://www.theguardian.com/us-news/2025/jun/24/el-salvador-deportation-return">Continue reading...</a>
+
+---
+
+## 'The water was just screaming' - Eight dead in Lake Tahoe after boats capsize
+**Source:** BBC News  
+**Published:** 2025-06-25 00:23 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/czdvlyjezrdo](https://www.bbc.com/news/articles/czdvlyjezrdo)  
+
+A witness described how quickly the weather changed, leading to people being thrown from boats.
+
+---
+
+## US-Israel-Iran conflict: List of key events, June 24, 2025
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 23:53 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/24/us-israel-iran-conflict-list-of-key-events-june-24-2025?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/us-israel-iran-conflict-list-of-key-events-june-24-2025?traffic_source=rss)  
+
+Here are the key events as a ceasefire was declared in the 12-day Israel-Iran conflict.
+
+---
 
 ## Fragile Iran-Israel ceasefire calms oil markets
 **Source:** Al Jazeera  
@@ -110,24 +146,6 @@ The conflict has prompted airlines to reroute or cancel flights, affecting major
 
 ---
 
-## ‘It’s not peace – it’s a pause’: Iranians sceptical ceasefire will hold
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 21:14 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/features/2025/6/24/its-not-peace-its-a-pause-in-iran-scepticism-ceasefire-will?traffic_source=rss](https://www.aljazeera.com/features/2025/6/24/its-not-peace-its-a-pause-in-iran-scepticism-ceasefire-will?traffic_source=rss)  
-
-From Tehran to Yazd, Iranians are wary of the truce with Israel holding as officials trade accusations and threats.
-
----
-
-## Leaders arrive at Hague summit as Nato chief Rutte flatters Trump
-**Source:** BBC News  
-**Published:** 2025-06-24 20:38 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c4gd98qry6jo](https://www.bbc.com/news/articles/c4gd98qry6jo)  
-
-It is the US president's first Nato summit since 2019 and all 32 leaders are set to commit to a big hike in defence spending.
-
----
-
 ## British man charged over 'wedding' with child, 9, at Disneyland Paris
 **Source:** BBC News  
 **Published:** 2025-06-24 20:10 (Tehran Time)  
@@ -182,15 +200,6 @@ The charity was awarded a Cannes Lions award for its campaign to destigmatise th
 
 ---
 
-## 'The water was just screaming' - Eight dead in Lake Tahoe after boats capsize
-**Source:** BBC News  
-**Published:** 2025-06-24 05:55 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/czdvlyjezrdo](https://www.bbc.com/news/articles/czdvlyjezrdo)  
-
-A witness described how quickly the weather changed, leading to people being thrown from boats.
-
----
-
 ## Canada and EU sign defence pact amid strained US relations and global instability
 **Source:** The Guardian  
 **Published:** 2025-06-24 00:36 (Tehran Time)  
@@ -224,15 +233,6 @@ A witness described how quickly the weather changed, leading to people being thr
 **Link:** [https://www.theguardian.com/world/2025/jun/21/brazil-hot-air-balloon-crash](https://www.theguardian.com/world/2025/jun/21/brazil-hot-air-balloon-crash)  
 
 <p>Witnesses say some of those onboard hurled themselves out to escape flames as reports say fire started from torch in balloon’s basket</p><p>At least eight people have died after a hot-air balloon carrying more than 20 people caught fire and plunged through the sky in <a href="https://www.theguardian.com/world/brazil">Brazil’s</a> deep south.</p><p>Footage posted on social media showed the moment the multi-coloured aircraft fell to earth, engulfed in flames, in the state of Santa Catarina on Saturday morning. At least two of the balloon’s occupants can be seen plummeting to the ground as the fire spreads. “My God!” one witness can be heard gasping as the basket hurtles towards the ground.</p> <a href="https://www.theguardian.com/world/2025/jun/21/brazil-hot-air-balloon-crash">Continue reading...</a>
-
----
-
-## Two hikers killed by major rockfall on popular trail in Canada
-**Source:** The Guardian  
-**Published:** 2025-06-20 21:22 (Tehran Time)  
-**Link:** [https://www.theguardian.com/world/2025/jun/20/canada-hikers-killed-banff-park](https://www.theguardian.com/world/2025/jun/20/canada-hikers-killed-banff-park)  
-
-<p>‘Basically a whole shelf of a mountain came loose’ said one person who fled the scene in Banff National Park</p><p>Two people have been killed and another three injured when a major rockfall crashed onto a group of hikers on a popular Rocky Mountain trail in western <a href="https://www.theguardian.com/world/canada">Canada</a>.</p><p>The accident happened on Thursday near the Bow Glacier Falls in Banff National Park, about 225km (140 miles) north-west of Calgary, Alberta. The area is known for its natural beauty and is particularly busy in summer.</p> <a href="https://www.theguardian.com/world/2025/jun/20/canada-hikers-killed-banff-park">Continue reading...</a>
 
 ---
 
