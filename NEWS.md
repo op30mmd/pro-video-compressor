@@ -1,13 +1,58 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-24 17:55:59 +0330_
+_Last updated: 2025-06-24 18:57:50 +0330_
+
+## How Israel failed in Iran
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 18:46 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/opinions/2025/6/24/how-israel-failed-in-iran?traffic_source=rss](https://www.aljazeera.com/opinions/2025/6/24/how-israel-failed-in-iran?traffic_source=rss)  
+
+There was neither a regime change, nor a decapitation of the Iranian nuclear programme.
+
+---
+
+## Israel-Iran ceasefire off to rocky start, drawing Trump’s ire after fanfare
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 18:45 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/24/israel-iran-ceasefire-off-to-rocky-start-drawing-trumps-ire-after-fanfare?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/israel-iran-ceasefire-off-to-rocky-start-drawing-trumps-ire-after-fanfare?traffic_source=rss)  
+
+Trump slams Netanyahu for truce violation, says it is still in effect and that he is not seeking regime change in Iran.
+
+---
+
+## Under Trump, US strikes on Somalia have doubled since last year. Why?
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 18:02 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/24/under-trump-us-strikes-on-somalia-have-doubled-since-last-year-why?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/under-trump-us-strikes-on-somalia-have-doubled-since-last-year-why?traffic_source=rss)  
+
+As Trump hits the Horn of Africa, experts caution against drone strikes, saying the US needs to invest in peacebuilding.
+
+---
+
+## NATO allies set to approve major defence spending hike at Hague summit
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 17:47 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/24/nato-allies-set-to-approve-major-defence-spending-hike-at-hague-summit?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/nato-allies-set-to-approve-major-defence-spending-hike-at-hague-summit?traffic_source=rss)  
+
+The US has been pressuring its allies to adopt new targets for defence spending in response to the Russian threat.
+
+---
+
+## How much have US wars in the Middle East and Afghanistan cost?
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 17:45 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/24/how-much-have-us-wars-in-the-middle-east-and-afghanistan-cost?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/how-much-have-us-wars-in-the-middle-east-and-afghanistan-cost?traffic_source=rss)  
+
+More than 20 years of US wars have directly killed an estimated 940,000 people and cost the US $5.8 trillion.
+
+---
 
 ## WHO says attack on Sudanese hospital killed more than 40 civilians
 **Source:** The Guardian  
 **Published:** 2025-06-24 17:42 (Tehran Time)  
 **Link:** [https://www.theguardian.com/world/2025/jun/24/sudan-hospital-attack-west-kordofan](https://www.theguardian.com/world/2025/jun/24/sudan-hospital-attack-west-kordofan)  
 
-<p>Five health workers reportedly among the dead in West Kordofan as paramilitary RSF blames Sudanese military</p><p>The head of the World Health Organization has condemned an attack on a hospital in Sudan that he said killed more than 40 civilians, as the country’s civil war, which has caused the <a href="https://www.theguardian.com/world/2025/apr/15/sudans-two-years-of-war-and-its-devastating-toll">world’s largest humanitarian crisis</a>, rages on.</p><p>The attack on al-Mujlad hospital in West Kordofan happened on Saturday close to the frontline between the Sudanese military and the paramilitary Rapid Support Forces. The WHO’s local office, which did not assign blame, said six children and five health workers were among the dead and that there were “dozens of injuries”.</p> <a href="https://www.theguardian.com/world/2025/jun/24/sudan-hospital-attack-west-kordofan">Continue reading...</a>
+<p>Five health workers reportedly among the dead in West Kordofan as paramilitary RSF blames Sudanese military</p><p>The head of the World Health Organization has condemned an attack on a hospital in Sudan that he said had killed more than 40 civilians, as the country’s civil war, which has caused the <a href="https://www.theguardian.com/world/2025/apr/15/sudans-two-years-of-war-and-its-devastating-toll">world’s largest humanitarian crisis</a>, rages on.</p><p>The attack on al-Mujlad hospital in West Kordofan happened on Saturday close to the frontline between the Sudanese military and the paramilitary Rapid Support Forces (RSF). The WHO’s local office, which did not assign blame, said six children and five health workers were among the dead and that there were “dozens of injuries”.</p> <a href="https://www.theguardian.com/world/2025/jun/24/sudan-hospital-attack-west-kordofan">Continue reading...</a>
 
 ---
 
@@ -83,42 +128,6 @@ Donald Trump accuses both sides of breaking the ceasefire and urges them to "cal
 
 ---
 
-## World wary as it welcomes Iran-Israel ceasefire
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 16:08 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/24/world-wary-as-it-welcomes-iran-israel-ceasefire?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/world-wary-as-it-welcomes-iran-israel-ceasefire?traffic_source=rss)  
-
-The world celebrate ceasefire deal but is wary of a return to hostilities, as some call for a similar deal for Gaza.
-
----
-
-## Georgian opposition figure Giorgi Vashadze jailed in widening crackdown
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 15:37 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/24/georgian-opposition-figure-giorgi-vashadze-jailed-in-widening-crackdown?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/georgian-opposition-figure-giorgi-vashadze-jailed-in-widening-crackdown?traffic_source=rss)  
-
-The sentence sees most opposition leaders behind bars as the ruling Georgian Dream squeezes critics and rivals.
-
----
-
-## Palestine Action supporters protest against UK ban
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 15:32 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/24/palestine-action-supporters-protest-against-uk-ban?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/24/palestine-action-supporters-protest-against-uk-ban?traffic_source=rss)  
-
-Demonstrators have staged a protest in London to support Palestine Action after the UK government announced it would ban
-
----
-
-## Have Israel and Iran agreed to a ceasefire? What we know
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 15:31 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/24/have-israel-and-iran-agreed-to-a-ceasefire-what-we-know?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/have-israel-and-iran-agreed-to-a-ceasefire-what-we-know?traffic_source=rss)  
-
-Donald Trump said the two sides reached a ceasefire shortly after Iran attacked a US airbase in Qatar.
-
----
-
 ## German court lifts ban on far-right magazine
 **Source:** BBC News  
 **Published:** 2025-06-24 15:27 (Tehran Time)  
@@ -143,15 +152,6 @@ Jamel Clayton was given seven years, with a judge describing the physical attack
 **Link:** [https://www.bbc.com/news/articles/c8j18w3ndg9o](https://www.bbc.com/news/articles/c8j18w3ndg9o)  
 
 Tedros Adhanom Ghebreyesus appeals for attacks on health facilities to "stop everywhere".
-
----
-
-## Israel kills more than 70 people in Gaza, including dozens of aid seekers
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 14:27 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/24/dozens-palestinians-killed-in-latest-israeli-attacks-on-aid-seekers?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/dozens-palestinians-killed-in-latest-israeli-attacks-on-aid-seekers?traffic_source=rss)  
-
-More than 400 Palestinians have died at GHF sites since their operation began in rising daily killings of the hungry.
 
 ---
 
