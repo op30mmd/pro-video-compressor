@@ -1,6 +1,42 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-24 22:04:55 +0330_
+_Last updated: 2025-06-24 22:49:42 +0330_
+
+## England beat India in thrilling first Test finale
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 22:33 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/sports/2025/6/24/england-beat-india-in-thrilling-first-test-finale?traffic_source=rss](https://www.aljazeera.com/sports/2025/6/24/england-beat-india-in-thrilling-first-test-finale?traffic_source=rss)  
+
+England take 1-0 lead in five-match cricket series vs India; Ben Duckett&#039;s ton leads 10th highest chase in Test history.
+
+---
+
+## US whistleblower accuses Trump officials of willfully ignoring court orders
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 22:28 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/24/us-whistleblower-accuses-trump-officials-of-willfully-ignoring-court-orders?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/us-whistleblower-accuses-trump-officials-of-willfully-ignoring-court-orders?traffic_source=rss)  
+
+Ex-Justice Department lawyer Erez Reuveni has alleged US deportation flights were ordered to depart &#039;no matter what&#039;.
+
+---
+
+## Watch: Lorry driver trapped in cabin after China bridge collapse
+**Source:** BBC News  
+**Published:** 2025-06-24 22:12 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/videos/c6256qk099wo](https://www.bbc.com/news/videos/c6256qk099wo)  
+
+Local authorities said the driver was rescued with no injuries after heavy rainfall caused landslides in the region.
+
+---
+
+## Is the 12-day Israel-Iran war really over – and who gained what?
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 22:09 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/24/is-the-12-day-israel-iran-war-really-over-and-who-gained?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/is-the-12-day-israel-iran-war-really-over-and-who-gained?traffic_source=rss)  
+
+A Trump-brokered ceasefire is in place for now. But what really happened – and did any side emerge stronger?
+
+---
 
 ## UN condemns Gaza aid 'death trap' as dozens reported killed by Israeli fire
 **Source:** BBC News  
@@ -11,7 +47,16 @@ At least 44 people waiting for aid have been killed by Israeli fire in two incid
 
 ---
 
-## How a volatile 24 hours edged the Middle East to a ceasefire
+## Israel, Iran in shaky ceasefire as Trump lashes out at both
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 21:53 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/24/israel-iran-in-shaky-ceasefire-as-trump-lashes-out-at-both-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/24/israel-iran-in-shaky-ceasefire-as-trump-lashes-out-at-both-2?traffic_source=rss)  
+
+A confused sequence of events has led to a deeply angered Donald Trump and a shaky ceasefire between Israel and Iran.
+
+---
+
+## How a volatile 24 hours edged Iran and Israel to a ceasefire
 **Source:** BBC News  
 **Published:** 2025-06-24 21:27 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/c3vdpeq606do](https://www.bbc.com/news/articles/c3vdpeq606do)  
@@ -92,15 +137,6 @@ The focus on Iran’s nuclear programme masks the US and Israel’s hunger for r
 
 ---
 
-## Qatar PM: Iran strike inflicted ‘scar’ on relations
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 19:31 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/24/qatar-pm-iran-strike-inflicted-scar-on-relations?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/24/qatar-pm-iran-strike-inflicted-scar-on-relations?traffic_source=rss)  
-
-Qatari Prime Minister Mohammed bin Abdulrahman Al Thani called for peace after Iran tried striking a US base there.
-
----
-
 ## Brazilian tourist who fell off Indonesian volcano found dead
 **Source:** BBC News  
 **Published:** 2025-06-24 19:09 (Tehran Time)  
@@ -128,33 +164,6 @@ President Zelensky said at least 100 more were injured in a Russian ballistic mi
 
 ---
 
-## How Israel failed in Iran
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 18:46 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/opinions/2025/6/24/how-israel-failed-in-iran?traffic_source=rss](https://www.aljazeera.com/opinions/2025/6/24/how-israel-failed-in-iran?traffic_source=rss)  
-
-There was neither a regime change, nor a decapitation of the Iranian nuclear programme.
-
----
-
-## Israel-Iran ceasefire off to rocky start, drawing Trump’s ire after fanfare
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 18:45 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/24/israel-iran-ceasefire-off-to-rocky-start-drawing-trumps-ire-after-fanfare?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/israel-iran-ceasefire-off-to-rocky-start-drawing-trumps-ire-after-fanfare?traffic_source=rss)  
-
-Trump slams Netanyahu for truce violation, says it is still in effect and that he is not seeking regime change in Iran.
-
----
-
-## Under Trump, US strikes on Somalia have doubled since last year. Why?
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 18:02 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/24/under-trump-us-strikes-on-somalia-have-doubled-since-last-year-why?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/under-trump-us-strikes-on-somalia-have-doubled-since-last-year-why?traffic_source=rss)  
-
-As Trump hits the Horn of Africa, experts caution against drone strikes, saying the US needs to invest in peacebuilding.
-
----
-
 ## WHO says attack on Sudanese hospital killed more than 40 civilians
 **Source:** The Guardian  
 **Published:** 2025-06-24 17:42 (Tehran Time)  
@@ -170,15 +179,6 @@ As Trump hits the Horn of Africa, experts caution against drone strikes, saying 
 **Link:** [https://www.bbc.com/news/articles/c3d150xe7vjo](https://www.bbc.com/news/articles/c3d150xe7vjo)  
 
 The charity was awarded a Cannes Lions award for its campaign to destigmatise the infection.
-
----
-
-## Thailand bans tourists from going to Cambodia as border dispute persists
-**Source:** BBC News  
-**Published:** 2025-06-24 10:03 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c2ezgjlzggyo](https://www.bbc.com/news/articles/c2ezgjlzggyo)  
-
-Thailand has banned travel into Cambodia as the two countries remain locked in a bitter border dispute.
 
 ---
 
