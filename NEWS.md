@@ -1,6 +1,60 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-24 20:02:18 +0330_
+_Last updated: 2025-06-24 20:53:48 +0330_
+
+## Powell says US Fed to wait to reduce rates even as Trump demands cuts
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 20:38 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/economy/2025/6/24/powell-says-us-fed-to-wait-to-reduce-rates-even-as-trump-demands-cuts?traffic_source=rss](https://www.aljazeera.com/economy/2025/6/24/powell-says-us-fed-to-wait-to-reduce-rates-even-as-trump-demands-cuts?traffic_source=rss)  
+
+The US central bank chair said that data will soon show the impact of inflation, and decisions will be based on that.
+
+---
+
+## Leaders arrive at Hague summit as Nato chief Rutte flatters Trump
+**Source:** BBC News  
+**Published:** 2025-06-24 20:38 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/c4gd98qry6jo](https://www.bbc.com/news/articles/c4gd98qry6jo)  
+
+It is the US president's first Nato summit since 2019 and all 32 leaders are set to commit to a big hike in defence spending.
+
+---
+
+## Iran’s Pezeshkian expresses ‘regret’ to the emir of Qatar
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 20:16 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/24/irans-pezeshkian-expresses-regret-to-the-emir-of-qatar?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/irans-pezeshkian-expresses-regret-to-the-emir-of-qatar?traffic_source=rss)  
+
+Iranian president says neither Qatar nor its people were targets of attack on US base in the gas-rich Gulf nation.
+
+---
+
+## British man charged over 'wedding' with child, 9, at Disneyland Paris
+**Source:** BBC News  
+**Published:** 2025-06-24 20:10 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/c0l4z2z7rk4o](https://www.bbc.com/news/articles/c0l4z2z7rk4o)  
+
+The 39-year-old is a convicted sexual offender who is wanted in the UK, French prosecutors have said.
+
+---
+
+## What is Iran’s right to resist regime change?
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 19:58 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/the-take-2/2025/6/24/aje-onl-irn_hamiddabashi_av_v2-240625?traffic_source=rss](https://www.aljazeera.com/video/the-take-2/2025/6/24/aje-onl-irn_hamiddabashi_av_v2-240625?traffic_source=rss)  
+
+The focus on Iran’s nuclear programme masks the US and Israel’s hunger for regime change.
+
+---
+
+## Qatar PM: Iran strike inflicted ‘scar’ on relations
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 19:31 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/24/qatar-pm-iran-strike-inflicted-scar-on-relations?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/24/qatar-pm-iran-strike-inflicted-scar-on-relations?traffic_source=rss)  
+
+Qatari Prime Minister Mohammed bin Abdulrahman Al Thani called for peace after Iran tried striking a US base there.
+
+---
 
 ## Brazilian tourist who fell off Indonesian volcano found dead
 **Source:** BBC News  
@@ -20,7 +74,7 @@ No Space for Bezos activist group tells BBC they are "very proud of this".
 
 ---
 
-## Russian missile strikes kill 16 in Ukraine's Dnipropetrovsk region
+## Russian missile strikes kill 17 in Ukraine's Dnipropetrovsk region
 **Source:** BBC News  
 **Published:** 2025-06-24 18:50 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/cr4w6kwvgg6o](https://www.bbc.com/news/articles/cr4w6kwvgg6o)  
@@ -92,66 +146,12 @@ Today on The Stream: Two Palestinians who left Gaza during the genocide share th
 
 ---
 
-## Germany vows to pay its 'fair share' on defence as Nato prepares for summit
-**Source:** BBC News  
-**Published:** 2025-06-24 16:52 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c4gd98qry6jo](https://www.bbc.com/news/articles/c4gd98qry6jo)  
-
-The German chancellor says Nato leaders will aim to ensure peace in Europe for generations to come.
-
----
-
-## Trump delivers angry outburst at Israel-Iran ceasefire breaches
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 16:52 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/24/trump-delivers-angry-outburst-at-israel-iran-ceasefire-breaches?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/24/trump-delivers-angry-outburst-at-israel-iran-ceasefire-breaches?traffic_source=rss)  
-
-“They don’t know what the f*** they’re doing.”
-
----
-
-## What’s with Iran’s Death to America chant?
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 16:48 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/24/whats-with-irans-death-to-america-chant?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/24/whats-with-irans-death-to-america-chant?traffic_source=rss)  
-
-Donald Trump has painted Iran as a hateful nation, saying people even chant ‘death to America’.
-
----
-
-## ‘I lost both legs’: Palestinians scale separation wall for chance to work
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 16:47 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/features/2025/6/24/i-lost-both-legs-palestinians-scale-separation-wall-for-chance-to-work?traffic_source=rss](https://www.aljazeera.com/features/2025/6/24/i-lost-both-legs-palestinians-scale-separation-wall-for-chance-to-work?traffic_source=rss)  
-
-Desperate to earn a living, some in occupied West Bank are risking their lives to enter Israel amid tighter security.
-
----
-
-## Calm returns to Qatar following Iran’s attack on Al Udeid airbase
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 16:45 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/24/calm-returns-to-qatar-following-irans-attack-on-al-udeid-airbase?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/calm-returns-to-qatar-following-irans-attack-on-al-udeid-airbase?traffic_source=rss)  
-
-Life in the Gulf state has swiftly returned to normality after a night of fear and uncertainty.
-
----
-
 ## What we know about the Iran-Israel ceasefire
 **Source:** BBC News  
 **Published:** 2025-06-24 16:10 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/czjk3kxr3zno](https://www.bbc.com/news/articles/czjk3kxr3zno)  
 
 Donald Trump accuses both sides of breaking the ceasefire and urges them to "calm down".
-
----
-
-## German court lifts ban on far-right magazine
-**Source:** BBC News  
-**Published:** 2025-06-24 15:27 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c2ezg4wzr8yo](https://www.bbc.com/news/articles/c2ezg4wzr8yo)  
-
-Judges said that while the magazine published anti-constitutional content, it did not justify a ban.
 
 ---
 
