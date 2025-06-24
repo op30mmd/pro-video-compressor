@@ -1,6 +1,60 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-24 14:51:49 +0330_
+_Last updated: 2025-06-24 16:22:45 +0330_
+
+## What we know about the Iran-Israel ceasefire
+**Source:** BBC News  
+**Published:** 2025-06-24 16:10 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/czjk3kxr3zno](https://www.bbc.com/news/articles/czjk3kxr3zno)  
+
+Donald Trump accuses both sides of breaking the ceasefire and urges them to "calm down".
+
+---
+
+## Georgian opposition figure Giorgi Vashadze jailed in widening crackdown
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 15:37 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/24/georgian-opposition-figure-giorgi-vashadze-jailed-in-widening-crackdown?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/georgian-opposition-figure-giorgi-vashadze-jailed-in-widening-crackdown?traffic_source=rss)  
+
+The sentence sees most opposition leaders behind bars as the ruling Georgian Dream squeezes critics and rivals.
+
+---
+
+## Palestine Action supporters protest against UK ban
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 15:32 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/24/palestine-action-supporters-protest-against-uk-ban?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/24/palestine-action-supporters-protest-against-uk-ban?traffic_source=rss)  
+
+Demonstrators have staged a protest in London to support Palestine Action after the UK government announced it would ban
+
+---
+
+## Have Israel and Iran agreed to a ceasefire? What we know
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 15:31 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/24/have-israel-and-iran-agreed-to-a-ceasefire-what-we-know?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/have-israel-and-iran-agreed-to-a-ceasefire-what-we-know?traffic_source=rss)  
+
+Donald Trump said the two sides reached a ceasefire shortly after Iran attacked a US airbase in Qatar.
+
+---
+
+## German court lifts ban on far-right magazine
+**Source:** BBC News  
+**Published:** 2025-06-24 15:27 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/c2ezg4wzr8yo](https://www.bbc.com/news/articles/c2ezg4wzr8yo)  
+
+Judges said that while the magazine published anti-constitutional content, it did not justify a ban.
+
+---
+
+## US marine jailed for seven years for sexual assault in Japan
+**Source:** BBC News  
+**Published:** 2025-06-24 15:05 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cwyxjnee9rzo](https://www.bbc.com/news/articles/cwyxjnee9rzo)  
+
+Jamel Clayton was given seven years, with a judge describing the physical attack as "vicious".
+
+---
 
 ## Children killed in 'appalling' Sudan hospital attack - WHO head
 **Source:** BBC News  
@@ -56,7 +110,7 @@ Iranian missiles targeted the Al-Udeid air base in retaliation for US strikes on
 
 ---
 
-## 'Best place to have herpes': New Zealand ad wins top prize
+## 'Best place to have herpes': New Zealand advert wins top prize
 **Source:** BBC News  
 **Published:** 2025-06-24 12:35 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/c3d150xe7vjo](https://www.bbc.com/news/articles/c3d150xe7vjo)  
@@ -71,15 +125,6 @@ The charity was awarded a Cannes Lions award for its campaign to destigmatise th
 **Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/24/how-the-iran-israel-ceasefire-is-meant-to-play-out?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/24/how-the-iran-israel-ceasefire-is-meant-to-play-out?traffic_source=rss)  
 
 Al Jazeera’s Phil Lavelle explains how the ceasefire deal between Iran and Israel is meant to unfold,
-
----
-
-## If Iran and Israel do stop firing, Trump's high-risk strikes may pay off
-**Source:** BBC News  
-**Published:** 2025-06-24 12:01 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/cdr3yxgjd6ro](https://www.bbc.com/news/articles/cdr3yxgjd6ro)  
-
-If the US president has helped to end the fighting it would mark a significant step back from the brink of a regional conflict.
 
 ---
 
@@ -101,30 +146,12 @@ US President Trump calls for calm as truce agreement raises hope of an end to th
 
 ---
 
-## Messi’s Miami to play PSG at Club World Cup last 16; Atletico knocked out
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 10:17 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/sports/2025/6/24/messis-miami-psg-palmeiras-in-atletico-out-of-club-world-cup-last-16?traffic_source=rss](https://www.aljazeera.com/sports/2025/6/24/messis-miami-psg-palmeiras-in-atletico-out-of-club-world-cup-last-16?traffic_source=rss)  
+## Thailand bans tourists from going to Cambodia as border dispute persists
+**Source:** BBC News  
+**Published:** 2025-06-24 10:03 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/c2ezgjlzggyo](https://www.bbc.com/news/articles/c2ezgjlzggyo)  
 
-Inter Miami draw 2-2 with Palmeiras to see both sides through but Atletico Madrid go out despite win over Botafogo.
-
----
-
-## The aftermath of Iranian missile strikes in Israel
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 10:15 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/gallery/2025/6/24/the-aftermath-of-iranian-missile-strikes-in-israel?traffic_source=rss](https://www.aljazeera.com/gallery/2025/6/24/the-aftermath-of-iranian-missile-strikes-in-israel?traffic_source=rss)  
-
-Iran and Israel traded waves of missile attacks as the ceasefire announced by US President Trump approached.
-
----
-
-## ‘Foreigners for both nations’: India pushing Muslims ‘back’ to Bangladesh
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 09:56 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/24/foreigners-for-both-nations-india-pushing-muslims-back-to-bangladesh?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/foreigners-for-both-nations-india-pushing-muslims-back-to-bangladesh?traffic_source=rss)  
-
-Hundreds taken to Bangladesh border at gunpoint in a crackdown by Assam, as some other BJP-ruled states follow suit.
+Thailand has banned travel into Cambodia as the two countries remain locked in a bitter border dispute.
 
 ---
 
@@ -146,15 +173,6 @@ A witness described how quickly the weather changed, leading to people being thr
 
 ---
 
-## Did Trump have the legal authority to strike Iran?
-**Source:** BBC News  
-**Published:** 2025-06-24 01:20 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c4gkw04yze1o](https://www.bbc.com/news/articles/c4gkw04yze1o)  
-
-Some lawmakers have called Trump's strikes on Iran "unconstitutional" - so did he have the authority to order them?
-
----
-
 ## Canada and EU sign defence pact amid strained US relations and global instability
 **Source:** The Guardian  
 **Published:** 2025-06-24 00:36 (Tehran Time)  
@@ -164,30 +182,12 @@ Some lawmakers have called Trump's strikes on Iran "unconstitutional" - so did h
 
 ---
 
-## First celestial image unveiled from revolutionary telescope
-**Source:** BBC News  
-**Published:** 2025-06-23 20:05 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/cj3rmjjgx6xo](https://www.bbc.com/news/articles/cj3rmjjgx6xo)  
-
-The telescope should detect killer asteroids and may even find the ninth planet in our solar system.
-
----
-
 ## Talk of regime change resonates with Iranians fleeing across border
 **Source:** BBC News  
 **Published:** 2025-06-23 19:30 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/cy9xl4nrq8wo](https://www.bbc.com/news/articles/cy9xl4nrq8wo)  
 
 A steady stream of Iranians are crossing into Armenia by foot, laden with luggage and pets.
-
----
-
-## Nine killed in Kyiv in intense Russian air attack
-**Source:** BBC News  
-**Published:** 2025-06-23 16:42 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c0k7vll16l3o](https://www.bbc.com/news/articles/c0k7vll16l3o)  
-
-Russian missiles and drones hit residential areas and hospitals in Ukraine's Kyiv region, the interior minister says.
 
 ---
 
