@@ -1,6 +1,15 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-24 05:33:21 +0330_
+_Last updated: 2025-06-24 07:21:18 +0330_
+
+## Rescuers search for Brazilian tourist on Indonesian volcano
+**Source:** BBC News  
+**Published:** 2025-06-24 06:38 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/crk60k8gp8jo](https://www.bbc.com/news/articles/crk60k8gp8jo)  
+
+Juliana Marins was hiking on the volcano on Saturday when she fell from a cliff near the crater.
+
+---
 
 ## Supreme Court lets Trump restart deporting migrants to ‘third countries’
 **Source:** Al Jazeera  
@@ -170,15 +179,6 @@ British champion Liam Byrne, 24, had said he knew from a young age he wanted to 
 **Link:** [https://www.bbc.com/news/articles/cp8m3861637o](https://www.bbc.com/news/articles/cp8m3861637o)  
 
 The president's comments came after other top officials said replacing the leadership in Tehran was not the aim.
-
----
-
-## Rescuers search for Brazilian tourist on Indonesian volcano
-**Source:** BBC News  
-**Published:** 2025-06-23 14:40 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/crk60k8gp8jo](https://www.bbc.com/news/articles/crk60k8gp8jo)  
-
-Juliana Marins was hiking on the volcano on Saturday when she fell from a cliff near the crater.
 
 ---
 
