@@ -1,6 +1,6 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-24 02:50:24 +0330_
+_Last updated: 2025-06-24 05:33:21 +0330_
 
 ## Supreme Court lets Trump restart deporting migrants to ‘third countries’
 **Source:** Al Jazeera  
@@ -16,7 +16,7 @@ Dissenting justice warns court actions expose &#039;thousands to the risk of tor
 **Published:** 2025-06-24 01:53 (Tehran Time)  
 **Link:** [https://www.aljazeera.com/news/2025/6/23/trump-claims-ceasefire-reached-between-israel-and-iran?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/trump-claims-ceasefire-reached-between-israel-and-iran?traffic_source=rss)  
 
-US president congratulates Iran and Israel on ceasefire deal, but neither country has confirmed agreement to end war.
+US president congratulates Iran and Israel on truce deal, but neither country has confirmed agreement to end war.
 
 ---
 
