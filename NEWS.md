@@ -1,6 +1,6 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-25 01:53:51 +0330_
+_Last updated: 2025-06-25 02:53:49 +0330_
 
 ## US strikes did not destroy Iran nuclear programme, says Pentagon assessment
 **Source:** BBC News  
@@ -34,7 +34,7 @@ It is the US president's first Nato summit since 2019 and all 32 leaders are set
 **Published:** 2025-06-25 00:29 (Tehran Time)  
 **Link:** [https://www.theguardian.com/us-news/2025/jun/24/el-salvador-deportation-return](https://www.theguardian.com/us-news/2025/jun/24/el-salvador-deportation-return)  
 
-<p>Court orders White House return Jordin Melgar-Salmeron, who was deported less than 30 minutes after his removal was barred</p><p>An appeals court has <a href="https://s3.documentcloud.org/documents/25982192/melgarorder062425.pdf">ordered</a> the Trump administration to return a man wrongfully deported to El Salvador to the US and to explain how it is complying in a ruling apparently designed to break a pattern of apparent government defiance of judicial orders.</p><p>The US court of appeals for the second circuit in New York also required the government to provide a declaration of the current whereabouts and custodial status of Jordin Melgar-Salmeron, who was <a href="https://www.nytimes.com/2025/05/30/us/politics/trump-deportation-el-salvador.html">deported on 7 May</a> less than half an hour after the court had expressly barred his removal.</p> <a href="https://www.theguardian.com/us-news/2025/jun/24/el-salvador-deportation-return">Continue reading...</a>
+<p>White House must return Jordin Melgar-Salmeron, who was deported less than 30 minutes after his removal was barred</p><p>An appeals court has <a href="https://s3.documentcloud.org/documents/25982192/melgarorder062425.pdf">ordered</a> the Trump administration to return a man wrongfully deported to El Salvador to the US and to explain how it is complying in a ruling apparently designed to break a pattern of apparent government defiance of judicial orders.</p><p>The US court of appeals for the second circuit in New York also required the government to provide a declaration of the current whereabouts and custodial status of Jordin Melgar-Salmeron, who was <a href="https://www.nytimes.com/2025/05/30/us/politics/trump-deportation-el-salvador.html">deported on 7 May</a> less than half an hour after the court had expressly barred his removal.</p> <a href="https://www.theguardian.com/us-news/2025/jun/24/el-salvador-deportation-return">Continue reading...</a>
 
 ---
 
