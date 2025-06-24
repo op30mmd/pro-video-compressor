@@ -1,13 +1,31 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-24 12:58:18 +0330_
+_Last updated: 2025-06-24 13:57:41 +0330_
+
+## Iran hoping to “draw a line” under confrontation with US
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 13:11 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/quotable/2025/6/24/iran-hoping-to-draw-a-line-under-confrontation-with-us?traffic_source=rss](https://www.aljazeera.com/video/quotable/2025/6/24/iran-hoping-to-draw-a-line-under-confrontation-with-us?traffic_source=rss)  
+
+Ali Vaez says Iran doubts Israel is done with its war, even after both sides accepted Trump’s proposed ceasefire.
+
+---
+
+## Russia and Ukraine swap drone attacks as ceasefire efforts remain stalled
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 12:56 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/24/russia-and-ukraine-swap-drone-attacks-as-ceasefire-efforts-remain-stalled?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/russia-and-ukraine-swap-drone-attacks-as-ceasefire-efforts-remain-stalled?traffic_source=rss)  
+
+Russian appears to have raised the scale of hostilities as the US has become distracted with the Israel-Iran war.
+
+---
 
 ## What we know about Iran's attack on US base in Qatar
 **Source:** BBC News  
 **Published:** 2025-06-24 12:40 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/cdjxdgjpd48o](https://www.bbc.com/news/articles/cdjxdgjpd48o)  
 
-A ceasefire between Israel and Iran has since come into effect.
+Iranian missiles targeted the Al-Udeid air base in retaliation for US strikes on its nuclear sites.
 
 ---
 
@@ -101,15 +119,6 @@ Video shows the moment an Iranian missile struck a building in Israel’s Beersh
 
 ---
 
-## Russia-Ukraine war: List of key events, day 1,216
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 09:31 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/24/russia-ukraine-war-list-of-key-events-day-1216?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/russia-ukraine-war-list-of-key-events-day-1216?traffic_source=rss)  
-
-Here are the key events on day 1,216 of Russia’s war on Ukraine.
-
----
-
 ## Rescuers search for Brazilian tourist on Indonesian volcano
 **Source:** BBC News  
 **Published:** 2025-06-24 06:38 (Tehran Time)  
@@ -125,15 +134,6 @@ Juliana Marins was hiking on the volcano on Saturday when she fell from a cliff 
 **Link:** [https://www.bbc.com/news/articles/czdvlyjezrdo](https://www.bbc.com/news/articles/czdvlyjezrdo)  
 
 A witness described how quickly the weather changed, leading to people being thrown from boats.
-
----
-
-## Supreme Court lets Trump restart deporting migrants to ‘third countries’
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 02:13 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/supreme-court-lets-trump-restart-deporting-migrants-to-third-countries?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/supreme-court-lets-trump-restart-deporting-migrants-to-third-countries?traffic_source=rss)  
-
-Dissenting justice warns court actions expose &#039;thousands to the risk of torture or death&#039;.
 
 ---
 
