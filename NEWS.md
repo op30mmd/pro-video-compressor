@@ -1,6 +1,24 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-24 10:06:53 +0330_
+_Last updated: 2025-06-24 10:55:34 +0330_
+
+## Messi’s Miami, PSG, Palmeiras in; Atletico out of Club World Cup last 16
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 10:17 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/sports/2025/6/24/messis-miami-psg-palmeiras-in-atletico-out-of-club-world-cup-last-16?traffic_source=rss](https://www.aljazeera.com/sports/2025/6/24/messis-miami-psg-palmeiras-in-atletico-out-of-club-world-cup-last-16?traffic_source=rss)  
+
+Inter Miami draw 2-2 with Palmeiras to see both sides through but Atletico Madrid go out despite win over Botafogo.
+
+---
+
+## The aftermath of Iranian missile strikes in Israel
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 10:15 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/gallery/2025/6/24/the-aftermath-of-iranian-missile-strikes-in-israel?traffic_source=rss](https://www.aljazeera.com/gallery/2025/6/24/the-aftermath-of-iranian-missile-strikes-in-israel?traffic_source=rss)  
+
+Iran and Israel traded waves of missile attacks as the ceasefire announced by US President Trump approached.
+
+---
 
 ## ‘Foreigners for both nations’: India pushing Muslims ‘back’ to Bangladesh
 **Source:** Al Jazeera  
@@ -125,24 +143,6 @@ Iran says it has responded to the US attacks on its nuclear facilities by target
 **Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/iran-attacks-us-military-base-in-qatar?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/iran-attacks-us-military-base-in-qatar?traffic_source=rss)  
 
 Iran fired missiles at a US base in Qatar, saying it was retaliation for recent US strikes on Iran&#039;s nuclear facilities.
-
----
-
-## US-Israel-Iran conflict: List of key events, June 23, 2025
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 00:06 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/israel-iran-conflict-list-of-key-events-june-23-2025?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/israel-iran-conflict-list-of-key-events-june-23-2025?traffic_source=rss)  
-
-Here are the key events on day 11 of the US-Israel-Iran conflict.
-
----
-
-## Is dropping bombs the answer to Iran’s nuclear programme?
-**Source:** Al Jazeera  
-**Published:** 2025-06-23 23:59 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/inside-story/2025/6/23/is-dropping-bombs-the-answer-to-irans-nuclear-programme?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2025/6/23/is-dropping-bombs-the-answer-to-irans-nuclear-programme?traffic_source=rss)  
-
-Tehran says its nuclear technical know-how can&#039;t be destroyed.
 
 ---
 
