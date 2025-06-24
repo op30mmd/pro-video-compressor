@@ -1,6 +1,6 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-24 08:04:00 +0330_
+_Last updated: 2025-06-24 08:55:58 +0330_
 
 ## Rescuers search for Brazilian tourist on Indonesian volcano
 **Source:** BBC News  
@@ -8,6 +8,24 @@ _Last updated: 2025-06-24 08:04:00 +0330_
 **Link:** [https://www.bbc.com/news/articles/crk60k8gp8jo](https://www.bbc.com/news/articles/crk60k8gp8jo)  
 
 Juliana Marins was hiking on the volcano on Saturday when she fell from a cliff near the crater.
+
+---
+
+## 'The water was just screaming' - Eight dead in Lake Tahoe after boats capsize
+**Source:** BBC News  
+**Published:** 2025-06-24 05:55 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/czdvlyjezrdo](https://www.bbc.com/news/articles/czdvlyjezrdo)  
+
+A witness described how quickly the weather changed, leading to people being thrown from boats.
+
+---
+
+## With possible Iran-Israel ceasefire, Trump's high-risk strikes may pay off
+**Source:** BBC News  
+**Published:** 2025-06-24 05:31 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cdr3yxgjd6ro](https://www.bbc.com/news/articles/cdr3yxgjd6ro)  
+
+Trump seems inclined to hold his fire as Iran's attack on US troops in Qatar caused no damage or casualties.
 
 ---
 
@@ -110,21 +128,21 @@ Resident Valeriy Mankuta survived a Russian missile strike by climbing down a li
 
 ---
 
-## Israel says it struck Tehran's Evin prison and Fordo access routes
+## What we know about Iran's attack on US base in Qatar
 **Source:** BBC News  
-**Published:** 2025-06-23 21:40 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/cp8621gnknjo](https://www.bbc.com/news/articles/cp8621gnknjo)  
+**Published:** 2025-06-23 21:44 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cdjxdgjpd48o](https://www.bbc.com/news/articles/cdjxdgjpd48o)  
 
-Iran's judiciary says the attack damaged parts of Evin, a notorious facility which holds many political prisoners.
+The Iranian military confirms it launched missiles in retaliation for American strikes against its nuclear sites.
 
 ---
 
-## Wreck of sunken $30m yacht Bayesian to be examined
+## US says Kilmar Ábrego García will 'never go free' after judge orders his release
 **Source:** BBC News  
-**Published:** 2025-06-23 20:46 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/crrq0w8evnjo](https://www.bbc.com/news/articles/crrq0w8evnjo)  
+**Published:** 2025-06-23 20:10 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cx2ny7yl097o](https://www.bbc.com/news/articles/cx2ny7yl097o)  
 
-Tech entrepreneur Mike Lynch and daughter were among seven people killed when boat went down off coast of Italy.
+US Homeland Security, which says he'll "never go free on American soil",  is expected to keep him detained for immigration reasons.
 
 ---
 
@@ -146,39 +164,21 @@ The museum says it will impose restrictions on selfie-taking in the future.
 
 ---
 
-## Wildfires rage on Greek island of Chios
+## Talk of regime change resonates with Iranians fleeing across border
 **Source:** BBC News  
-**Published:** 2025-06-23 19:28 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/cz09lmngyv2o](https://www.bbc.com/news/articles/cz09lmngyv2o)  
+**Published:** 2025-06-23 19:30 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cy9xl4nrq8wo](https://www.bbc.com/news/articles/cy9xl4nrq8wo)  
 
-A state of emergency is declared and an arson investigation launched after five separate fires were sparked within hours.
+A steady stream of Iranians are crossing into Armenia by foot, laden with luggage and pets.
 
 ---
 
-## Nato summit could be the most significant since end of Cold War
+## Nine killed in Kyiv in intense Russian air attack
 **Source:** BBC News  
-**Published:** 2025-06-23 17:32 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/cqjqvr75v1jo](https://www.bbc.com/news/articles/cqjqvr75v1jo)  
+**Published:** 2025-06-23 16:42 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/c0k7vll16l3o](https://www.bbc.com/news/articles/c0k7vll16l3o)  
 
-Europe braces for Trump's arrival at the Nato summit with difficult questions over Iran and defence, following the 5% defence spending target he's demanded of allies
-
----
-
-## Scottish wingsuit flyer Liam Byrne dies during Swiss Alps jump
-**Source:** BBC News  
-**Published:** 2025-06-23 17:06 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/cwyepy2zz11o](https://www.bbc.com/news/articles/cwyepy2zz11o)  
-
-British champion Liam Byrne, 24, had said he knew from a young age he wanted to "fly like a bird".
-
----
-
-## 'Why wouldn't there be a regime change?' Trump's latest on Iran
-**Source:** BBC News  
-**Published:** 2025-06-23 16:31 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/cp8m3861637o](https://www.bbc.com/news/articles/cp8m3861637o)  
-
-The president's comments came after other top officials said replacing the leadership in Tehran was not the aim.
+Russian missiles and drones hit residential areas and hospitals in Ukraine's Kyiv region, the interior minister says.
 
 ---
 
