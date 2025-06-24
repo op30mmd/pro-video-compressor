@@ -1,6 +1,51 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-24 22:49:42 +0330_
+_Last updated: 2025-06-24 23:57:51 +0330_
+
+## Fragile Iran-Israel ceasefire calms oil markets
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 23:41 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/economy/2025/6/24/fragile-iran-israel-ceasefire-calms-oil-markets?traffic_source=rss](https://www.aljazeera.com/economy/2025/6/24/fragile-iran-israel-ceasefire-calms-oil-markets?traffic_source=rss)  
+
+Oil prices tumbled more after Iran struck US military base in Qatar, a sign Strait of Hormuz would stay open for now.
+
+---
+
+## Trump: no ‘regime change’ in Iran, urges calm after strikes
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 23:27 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/24/trump-no-regime-change-in-iran-urges-calm-after-strikes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/24/trump-no-regime-change-in-iran-urges-calm-after-strikes?traffic_source=rss)  
+
+Donald Trump said he does not want regime change in Iran and claimed nuclear weapons are “the last thing on Iran’s mind&quot;
+
+---
+
+## Will Israel and Iran stop fighting?
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 23:15 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/inside-story/2025/6/24/will-israel-and-iran-stop-fighting?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2025/6/24/will-israel-and-iran-stop-fighting?traffic_source=rss)  
+
+US President Donald Trump urges Israel and Iran to stick to their agreed ceasefire.
+
+---
+
+## Trump shares texts from NATO chief praising ‘decisive action’ on Iran
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 23:05 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/24/trump-shares-texts-from-nato-chief-praising-decisive-action-on-iran?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/trump-shares-texts-from-nato-chief-praising-decisive-action-on-iran?traffic_source=rss)  
+
+NATO Chief Mark Rutte also said Europe would increase defence spending in a &#039;BIG way&#039; thanks to US pressure.
+
+---
+
+## UN condemns Gaza aid 'death trap' as dozens reported killed by Israeli fire
+**Source:** BBC News  
+**Published:** 2025-06-24 22:56 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/c15wz2ee05do](https://www.bbc.com/news/articles/c15wz2ee05do)  
+
+At least 46 people waiting for aid have been killed by Israeli fire in two incidents, rescuers and hospitals say.
+
+---
 
 ## England beat India in thrilling first Test finale
 **Source:** Al Jazeera  
@@ -35,15 +80,6 @@ Local authorities said the driver was rescued with no injuries after heavy rainf
 **Link:** [https://www.aljazeera.com/news/2025/6/24/is-the-12-day-israel-iran-war-really-over-and-who-gained?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/is-the-12-day-israel-iran-war-really-over-and-who-gained?traffic_source=rss)  
 
 A Trump-brokered ceasefire is in place for now. But what really happened – and did any side emerge stronger?
-
----
-
-## UN condemns Gaza aid 'death trap' as dozens reported killed by Israeli fire
-**Source:** BBC News  
-**Published:** 2025-06-24 21:57 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c15wz2ee05do](https://www.bbc.com/news/articles/c15wz2ee05do)  
-
-At least 44 people waiting for aid have been killed by Israeli fire in two incidents, rescuers and hospitals say.
 
 ---
 
@@ -83,24 +119,6 @@ From Tehran to Yazd, Iranians are wary of the truce with Israel holding as offic
 
 ---
 
-## Palestinians in Gaza are calling for their own ceasefire
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 20:54 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/24/palestinians-in-gaza-are-calling-for-their-own-ceasefire?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/24/palestinians-in-gaza-are-calling-for-their-own-ceasefire?traffic_source=rss)  
-
-As Iran and Israel talk peace, Palestinians in Gaza feel left behind. Israel killed more than 70 Palestinians on Tuesday
-
----
-
-## Powell says US Fed to wait to reduce rates even as Trump demands cuts
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 20:38 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/economy/2025/6/24/powell-says-us-fed-to-wait-to-reduce-rates-even-as-trump-demands-cuts?traffic_source=rss](https://www.aljazeera.com/economy/2025/6/24/powell-says-us-fed-to-wait-to-reduce-rates-even-as-trump-demands-cuts?traffic_source=rss)  
-
-The US central bank chair said that data will soon show the impact of inflation, and decisions will be based on that.
-
----
-
 ## Leaders arrive at Hague summit as Nato chief Rutte flatters Trump
 **Source:** BBC News  
 **Published:** 2025-06-24 20:38 (Tehran Time)  
@@ -110,30 +128,12 @@ It is the US president's first Nato summit since 2019 and all 32 leaders are set
 
 ---
 
-## Iran’s Pezeshkian expresses ‘regret’ to the emir of Qatar
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 20:16 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/24/irans-pezeshkian-expresses-regret-to-the-emir-of-qatar?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/irans-pezeshkian-expresses-regret-to-the-emir-of-qatar?traffic_source=rss)  
-
-Iranian president says neither Qatar nor its people were targets of attack on US base in the gas-rich Gulf nation.
-
----
-
 ## British man charged over 'wedding' with child, 9, at Disneyland Paris
 **Source:** BBC News  
 **Published:** 2025-06-24 20:10 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/c0l4z2z7rk4o](https://www.bbc.com/news/articles/c0l4z2z7rk4o)  
 
 The 39-year-old is a convicted sexual offender who is wanted in the UK, French prosecutors have said.
-
----
-
-## What is Iran’s right to resist regime change?
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 19:58 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/the-take-2/2025/6/24/aje-onl-irn_hamiddabashi_av_v2-240625?traffic_source=rss](https://www.aljazeera.com/video/the-take-2/2025/6/24/aje-onl-irn_hamiddabashi_av_v2-240625?traffic_source=rss)  
-
-The focus on Iran’s nuclear programme masks the US and Israel’s hunger for regime change.
 
 ---
 
