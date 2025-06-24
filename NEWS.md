@@ -1,6 +1,69 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-24 16:22:45 +0330_
+_Last updated: 2025-06-24 17:07:32 +0330_
+
+## What is life like for Gaza evacuees?
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 17:00 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/the-stream/2025/6/24/what-is-life-like-for-gaza-evacuees?traffic_source=rss](https://www.aljazeera.com/video/the-stream/2025/6/24/what-is-life-like-for-gaza-evacuees?traffic_source=rss)  
+
+Today on The Stream: Two Palestinians who left Gaza during the genocide share their stories of escape and survival.
+
+---
+
+## Germany vows to pay its 'fair share' on defence as Nato prepares for summit
+**Source:** BBC News  
+**Published:** 2025-06-24 16:52 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/c4gd98qry6jo](https://www.bbc.com/news/articles/c4gd98qry6jo)  
+
+The German chancellor says Nato leaders will aim to ensure peace in Europe for generations to come.
+
+---
+
+## Trump delivers angry outburst at Israel-Iran ceasefire breaches
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 16:52 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/24/trump-delivers-angry-outburst-at-israel-iran-ceasefire-breaches?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/24/trump-delivers-angry-outburst-at-israel-iran-ceasefire-breaches?traffic_source=rss)  
+
+“They don’t know what the f*** they’re doing.”
+
+---
+
+## What’s with Iran’s Death to America chant?
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 16:48 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/24/whats-with-irans-death-to-america-chant?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/24/whats-with-irans-death-to-america-chant?traffic_source=rss)  
+
+Donald Trump has painted Iran as a hateful nation, saying people even chant ‘death to America’.
+
+---
+
+## ‘I lost both legs’: Palestinians scale separation wall for chance to work
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 16:47 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/features/2025/6/24/i-lost-both-legs-palestinians-scale-separation-wall-for-chance-to-work?traffic_source=rss](https://www.aljazeera.com/features/2025/6/24/i-lost-both-legs-palestinians-scale-separation-wall-for-chance-to-work?traffic_source=rss)  
+
+Desperate to earn a living, some in occupied West Bank are risking their lives to enter Israel amid tighter security.
+
+---
+
+## Calm returns to Qatar following Iran’s attack on Al Udeid airbase
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 16:45 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/24/calm-returns-to-qatar-following-irans-attack-on-al-udeid-airbase?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/calm-returns-to-qatar-following-irans-attack-on-al-udeid-airbase?traffic_source=rss)  
+
+Life in the Gulf state has swiftly returned to normality after a night of fear and uncertainty.
+
+---
+
+## Colombian army frees 57 soldiers held captive by locals
+**Source:** BBC News  
+**Published:** 2025-06-24 16:20 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/c8rp51n1zmlo](https://www.bbc.com/news/articles/c8rp51n1zmlo)  
+
+Fifty-seven soldiers had been seized over the weekend and held captive in the restive Cauca region.
+
+---
 
 ## What we know about the Iran-Israel ceasefire
 **Source:** BBC News  
@@ -8,6 +71,15 @@ _Last updated: 2025-06-24 16:22:45 +0330_
 **Link:** [https://www.bbc.com/news/articles/czjk3kxr3zno](https://www.bbc.com/news/articles/czjk3kxr3zno)  
 
 Donald Trump accuses both sides of breaking the ceasefire and urges them to "calm down".
+
+---
+
+## World wary as it welcomes Iran-Israel ceasefire
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 16:08 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/24/world-wary-as-it-welcomes-iran-israel-ceasefire?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/world-wary-as-it-welcomes-iran-israel-ceasefire?traffic_source=rss)  
+
+The world celebrated ceasefire deal but is wary of a return to hostilities, as some called for a similar deal for Gaza.
 
 ---
 
@@ -74,33 +146,6 @@ Reports suggest as many as 71 have died in rising daily killings as hungry seek 
 
 ---
 
-## Iran-Israel attacks play out around ceasefire announcement by Trump
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 14:07 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/24/iran-israel-attacks-play-out-around-ceasefire-announcement-by-trump?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/24/iran-israel-attacks-play-out-around-ceasefire-announcement-by-trump?traffic_source=rss)  
-
-Iran and Israel continued to attack one another in the hours before a ceasefire announced by US President Donald Trump.
-
----
-
-## Iran hoping to “draw a line” under confrontation with US
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 13:11 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/quotable/2025/6/24/iran-hoping-to-draw-a-line-under-confrontation-with-us?traffic_source=rss](https://www.aljazeera.com/video/quotable/2025/6/24/iran-hoping-to-draw-a-line-under-confrontation-with-us?traffic_source=rss)  
-
-Ali Vaez says Iran doubts Israel is done with its war, even after both sides accepted Trump’s proposed ceasefire.
-
----
-
-## Russia and Ukraine swap drone attacks as ceasefire efforts remain stalled
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 12:56 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/24/russia-and-ukraine-swap-drone-attacks-as-ceasefire-efforts-remain-stalled?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/russia-and-ukraine-swap-drone-attacks-as-ceasefire-efforts-remain-stalled?traffic_source=rss)  
-
-Russian appears to have raised the scale of hostilities as the US has become distracted with the Israel-Iran war.
-
----
-
 ## What we know about Iran's attack on US base in Qatar
 **Source:** BBC News  
 **Published:** 2025-06-24 12:40 (Tehran Time)  
@@ -119,48 +164,12 @@ The charity was awarded a Cannes Lions award for its campaign to destigmatise th
 
 ---
 
-## How the Iran-Israel ceasefire is meant to play out
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 12:30 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/24/how-the-iran-israel-ceasefire-is-meant-to-play-out?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/24/how-the-iran-israel-ceasefire-is-meant-to-play-out?traffic_source=rss)  
-
-Al Jazeera’s Phil Lavelle explains how the ceasefire deal between Iran and Israel is meant to unfold,
-
----
-
-## Israel and Iran agree ceasefire amid waves of missiles
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 10:52 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/24/israel-and-iran-agree-ceasefire-amid-waves-of-missiles?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/israel-and-iran-agree-ceasefire-amid-waves-of-missiles?traffic_source=rss)  
-
-US President Trump calls for calm as truce agreement raises hope of an end to the dangerous conflict.
-
----
-
-## The Hidden Struggles of Women’s Health
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 10:30 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/now-you-know/2025/6/24/the-hidden-struggles-of-womens-health?traffic_source=rss](https://www.aljazeera.com/video/now-you-know/2025/6/24/the-hidden-struggles-of-womens-health?traffic_source=rss)  
-
-&quot;I wanted to actually not only freeze my eggs, but freeze time.&quot;
-
----
-
 ## Thailand bans tourists from going to Cambodia as border dispute persists
 **Source:** BBC News  
 **Published:** 2025-06-24 10:03 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/c2ezgjlzggyo](https://www.bbc.com/news/articles/c2ezgjlzggyo)  
 
 Thailand has banned travel into Cambodia as the two countries remain locked in a bitter border dispute.
-
----
-
-## Rescuers search for Brazilian tourist on Indonesian volcano
-**Source:** BBC News  
-**Published:** 2025-06-24 06:38 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/crk60k8gp8jo](https://www.bbc.com/news/articles/crk60k8gp8jo)  
-
-Juliana Marins was hiking on the volcano on Saturday when she fell from a cliff near the crater.
 
 ---
 
@@ -179,15 +188,6 @@ A witness described how quickly the weather changed, leading to people being thr
 **Link:** [https://www.theguardian.com/world/2025/jun/23/canada-eu-defense-trump-us-allies](https://www.theguardian.com/world/2025/jun/23/canada-eu-defense-trump-us-allies)  
 
 <p>Amid Trump’s disrespect of old allies, EU and Canada vow more support for Ukraine and joint work on climate crisis</p><p>Canada has signed a wide-ranging defence pact with the EU, as Donald Trump and global instability prompt traditional US allies to deepen their alliances.</p><p>Canadian prime minister, Mark Carney, on Monday joined European Commission president, Ursula von der Leyen, and head of the European Council, António Costa, in Brussels, where they signed a security and defence partnership, pledged more support for Ukraine, as well as joint work on issues from the climate crisis to artificial intelligence.</p> <a href="https://www.theguardian.com/world/2025/jun/23/canada-eu-defense-trump-us-allies">Continue reading...</a>
-
----
-
-## Talk of regime change resonates with Iranians fleeing across border
-**Source:** BBC News  
-**Published:** 2025-06-23 19:30 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/cy9xl4nrq8wo](https://www.bbc.com/news/articles/cy9xl4nrq8wo)  
-
-A steady stream of Iranians are crossing into Armenia by foot, laden with luggage and pets.
 
 ---
 
