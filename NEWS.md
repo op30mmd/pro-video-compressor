@@ -1,6 +1,24 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-25 00:53:44 +0330_
+_Last updated: 2025-06-25 01:53:51 +0330_
+
+## US strikes did not destroy Iran nuclear programme, says Pentagon assessment
+**Source:** BBC News  
+**Published:** 2025-06-25 01:48 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/ckglxwp5x03o](https://www.bbc.com/news/articles/ckglxwp5x03o)  
+
+The White House called the initial damage assessment on Iran's uranium stockpile "flat-out wrong".
+
+---
+
+## Dnipro church hit by Russian missile mid-service
+**Source:** Al Jazeera  
+**Published:** 2025-06-25 01:08 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/24/dnipro-church-hit-by-russian-missile-mid-service?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/24/dnipro-church-hit-by-russian-missile-mid-service?traffic_source=rss)  
+
+A Russian missile attack on Ukraine’s Dnipro region killed at least 17 people and wounded more than 200 others.
+
+---
 
 ## Leaders arrive at Hague summit as Nato chief Rutte flatters Trump
 **Source:** BBC News  
@@ -74,15 +92,6 @@ NATO Chief Mark Rutte also said Europe would increase defence spending in a &#03
 
 ---
 
-## UN condemns Gaza aid 'death trap' as dozens reported killed by Israeli fire
-**Source:** BBC News  
-**Published:** 2025-06-24 22:56 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c15wz2ee05do](https://www.bbc.com/news/articles/c15wz2ee05do)  
-
-At least 46 people waiting for aid have been killed by Israeli fire in two incidents, rescuers and hospitals say.
-
----
-
 ## England beat India in thrilling first Test finale
 **Source:** Al Jazeera  
 **Published:** 2025-06-24 22:33 (Tehran Time)  
@@ -137,21 +146,21 @@ From an attack on a US air base to a fragile ceasefire, this is how the Middle E
 
 ---
 
-## Travel disruptions still hit Middle East in wake of US-Israel-Iran conflict
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 21:17 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/24/travel-disruptions-still-hit-middle-east-in-wake-of-us-israel-iran-conflict?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/travel-disruptions-still-hit-middle-east-in-wake-of-us-israel-iran-conflict?traffic_source=rss)  
-
-The conflict has prompted airlines to reroute or cancel flights, affecting major hubs like Doha and Dubai.
-
----
-
 ## British man charged over 'wedding' with child, 9, at Disneyland Paris
 **Source:** BBC News  
 **Published:** 2025-06-24 20:10 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/c0l4z2z7rk4o](https://www.bbc.com/news/articles/c0l4z2z7rk4o)  
 
 The 39-year-old is a convicted sexual offender who is wanted in the UK, French prosecutors have said.
+
+---
+
+## Millions swelter as heatwave descends on North America
+**Source:** BBC News  
+**Published:** 2025-06-24 19:27 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/c1jwg2038jdo](https://www.bbc.com/news/articles/c1jwg2038jdo)  
+
+Experts warn that the  soaring temperatures could aggravate the risk of heat-related illness, especially due to high humidity levels.
 
 ---
 
@@ -188,15 +197,6 @@ President Zelensky said at least 100 more were injured in a Russian ballistic mi
 **Link:** [https://www.theguardian.com/world/2025/jun/24/sudan-hospital-attack-west-kordofan](https://www.theguardian.com/world/2025/jun/24/sudan-hospital-attack-west-kordofan)  
 
 <p>Five health workers reportedly among the dead in West Kordofan as paramilitary RSF blames Sudanese military</p><p>The head of the World Health Organization has condemned an attack on a hospital in Sudan that he said had killed more than 40 civilians, as the country’s civil war, which has caused the <a href="https://www.theguardian.com/world/2025/apr/15/sudans-two-years-of-war-and-its-devastating-toll">world’s largest humanitarian crisis</a>, rages on.</p><p>The attack on al-Mujlad hospital in West Kordofan happened on Saturday close to the frontline between the Sudanese military and the paramilitary Rapid Support Forces (RSF). The WHO’s local office, which did not assign blame, said six children and five health workers were among the dead and that there were “dozens of injuries”.</p> <a href="https://www.theguardian.com/world/2025/jun/24/sudan-hospital-attack-west-kordofan">Continue reading...</a>
-
----
-
-## 'Best place to have herpes': New Zealand advert wins top prize
-**Source:** BBC News  
-**Published:** 2025-06-24 12:35 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c3d150xe7vjo](https://www.bbc.com/news/articles/c3d150xe7vjo)  
-
-The charity was awarded a Cannes Lions award for its campaign to destigmatise the infection.
 
 ---
 
