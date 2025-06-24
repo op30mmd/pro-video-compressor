@@ -1,6 +1,24 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-24 10:55:34 +0330_
+_Last updated: 2025-06-24 12:04:09 +0330_
+
+## Trump's high-risk strikes may pay off - if Iran-Israel ceasefire holds
+**Source:** BBC News  
+**Published:** 2025-06-24 12:01 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cdr3yxgjd6ro](https://www.bbc.com/news/articles/cdr3yxgjd6ro)  
+
+If the US president has helped to end the fighting it would mark a significant step back from the brink of a regional conflict.
+
+---
+
+## Israel and Iran agree ceasefire amid waves of missiles
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 10:52 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/24/israel-and-iran-agree-ceasefire-amid-waves-of-missiles?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/israel-and-iran-agree-ceasefire-amid-waves-of-missiles?traffic_source=rss)  
+
+US President Trump calls for calm as truce agreement raises hope of an end to the dangerous conflict.
+
+---
 
 ## Messi’s Miami, PSG, Palmeiras in; Atletico out of Club World Cup last 16
 **Source:** Al Jazeera  
@@ -83,15 +101,6 @@ A witness described how quickly the weather changed, leading to people being thr
 
 ---
 
-## With possible Iran-Israel ceasefire, Trump's high-risk strikes may pay off
-**Source:** BBC News  
-**Published:** 2025-06-24 05:31 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/cdr3yxgjd6ro](https://www.bbc.com/news/articles/cdr3yxgjd6ro)  
-
-Trump seems inclined to hold his fire as Iran's attack on US troops in Qatar caused no damage or casualties.
-
----
-
 ## Supreme Court lets Trump restart deporting migrants to ‘third countries’
 **Source:** Al Jazeera  
 **Published:** 2025-06-24 02:13 (Tehran Time)  
@@ -134,15 +143,6 @@ Iran says it has responded to the US attacks on its nuclear facilities by target
 **Link:** [https://www.theguardian.com/world/2025/jun/23/canada-eu-defense-trump-us-allies](https://www.theguardian.com/world/2025/jun/23/canada-eu-defense-trump-us-allies)  
 
 <p>Amid Trump’s disrespect of old allies, EU and Canada vow more support for Ukraine and joint work on climate crisis</p><p>Canada has signed a wide-ranging defence pact with the EU, as Donald Trump and global instability prompt traditional US allies to deepen their alliances.</p><p>Canadian prime minister, Mark Carney, on Monday joined European Commission president, Ursula von der Leyen, and head of the European Council, António Costa, in Brussels, where they signed a security and defence partnership, pledged more support for Ukraine, as well as joint work on issues from the climate crisis to artificial intelligence.</p> <a href="https://www.theguardian.com/world/2025/jun/23/canada-eu-defense-trump-us-allies">Continue reading...</a>
-
----
-
-## Iran attacks US military base in Qatar
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 00:20 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/23/iran-attacks-us-military-base-in-qatar?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/23/iran-attacks-us-military-base-in-qatar?traffic_source=rss)  
-
-Iran fired missiles at a US base in Qatar, saying it was retaliation for recent US strikes on Iran&#039;s nuclear facilities.
 
 ---
 
