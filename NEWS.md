@@ -1,8 +1,35 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-24 12:04:09 +0330_
+_Last updated: 2025-06-24 12:58:18 +0330_
 
-## Trump's high-risk strikes may pay off - if Iran-Israel ceasefire holds
+## What we know about Iran's attack on US base in Qatar
+**Source:** BBC News  
+**Published:** 2025-06-24 12:40 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cdjxdgjpd48o](https://www.bbc.com/news/articles/cdjxdgjpd48o)  
+
+A ceasefire between Israel and Iran has since come into effect.
+
+---
+
+## 'Best place to have herpes': New Zealand ad wins top prize
+**Source:** BBC News  
+**Published:** 2025-06-24 12:35 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/c3d150xe7vjo](https://www.bbc.com/news/articles/c3d150xe7vjo)  
+
+The charity was awarded a Cannes Lions award for its campaign to destigmatise the infection.
+
+---
+
+## How the Iran-Israel ceasefire is meant to play out
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 12:30 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/24/how-the-iran-israel-ceasefire-is-meant-to-play-out?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/24/how-the-iran-israel-ceasefire-is-meant-to-play-out?traffic_source=rss)  
+
+Al Jazeera’s Phil Lavelle explains how the ceasefire deal between Iran and Israel is meant to unfold,
+
+---
+
+## If Iran and Israel do stop firing, Trump's high-risk strikes may pay off
 **Source:** BBC News  
 **Published:** 2025-06-24 12:01 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/cdr3yxgjd6ro](https://www.bbc.com/news/articles/cdr3yxgjd6ro)  
@@ -20,7 +47,16 @@ US President Trump calls for calm as truce agreement raises hope of an end to th
 
 ---
 
-## Messi’s Miami, PSG, Palmeiras in; Atletico out of Club World Cup last 16
+## The Hidden Struggles of Women’s Health
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 10:30 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/now-you-know/2025/6/24/the-hidden-struggles-of-womens-health?traffic_source=rss](https://www.aljazeera.com/video/now-you-know/2025/6/24/the-hidden-struggles-of-womens-health?traffic_source=rss)  
+
+&quot;I wanted to actually not only freeze my eggs, but freeze time.&quot;
+
+---
+
+## Messi’s Miami to play PSG at Club World Cup last 16; Atletico knocked out
 **Source:** Al Jazeera  
 **Published:** 2025-06-24 10:17 (Tehran Time)  
 **Link:** [https://www.aljazeera.com/sports/2025/6/24/messis-miami-psg-palmeiras-in-atletico-out-of-club-world-cup-last-16?traffic_source=rss](https://www.aljazeera.com/sports/2025/6/24/messis-miami-psg-palmeiras-in-atletico-out-of-club-world-cup-last-16?traffic_source=rss)  
@@ -74,15 +110,6 @@ Here are the key events on day 1,216 of Russia’s war on Ukraine.
 
 ---
 
-## Remembering India's iconic crocodile-hunting tigress
-**Source:** BBC News  
-**Published:** 2025-06-24 09:20 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c77vj7v74lmo](https://www.bbc.com/news/articles/c77vj7v74lmo)  
-
-Arrowhead, also known as T-84, died last week in India's Ranthambore national park.
-
----
-
 ## Rescuers search for Brazilian tourist on Indonesian volcano
 **Source:** BBC News  
 **Published:** 2025-06-24 06:38 (Tehran Time)  
@@ -110,15 +137,6 @@ Dissenting justice warns court actions expose &#039;thousands to the risk of tor
 
 ---
 
-## Trump claims ceasefire reached between Israel and Iran
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 01:53 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/trump-claims-ceasefire-reached-between-israel-and-iran?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/trump-claims-ceasefire-reached-between-israel-and-iran?traffic_source=rss)  
-
-US president congratulates Iran and Israel on truce deal, but neither country has confirmed agreement to end war.
-
----
-
 ## Did Trump have the legal authority to strike Iran?
 **Source:** BBC News  
 **Published:** 2025-06-24 01:20 (Tehran Time)  
@@ -128,30 +146,12 @@ Some lawmakers have called Trump's strikes on Iran "unconstitutional" - so did h
 
 ---
 
-## Iran attacks US air base in Qatar: What we know so far
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 01:06 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/23/iran-attacks-us-air-base-in-qatar-what-we-know-so-far?traffic_source=rss](https://www.aljazeera.com/news/2025/6/23/iran-attacks-us-air-base-in-qatar-what-we-know-so-far?traffic_source=rss)  
-
-Iran says it has responded to the US attacks on its nuclear facilities by targeting the US military base in Qatar.
-
----
-
 ## Canada and EU sign defence pact amid strained US relations and global instability
 **Source:** The Guardian  
 **Published:** 2025-06-24 00:36 (Tehran Time)  
 **Link:** [https://www.theguardian.com/world/2025/jun/23/canada-eu-defense-trump-us-allies](https://www.theguardian.com/world/2025/jun/23/canada-eu-defense-trump-us-allies)  
 
 <p>Amid Trump’s disrespect of old allies, EU and Canada vow more support for Ukraine and joint work on climate crisis</p><p>Canada has signed a wide-ranging defence pact with the EU, as Donald Trump and global instability prompt traditional US allies to deepen their alliances.</p><p>Canadian prime minister, Mark Carney, on Monday joined European Commission president, Ursula von der Leyen, and head of the European Council, António Costa, in Brussels, where they signed a security and defence partnership, pledged more support for Ukraine, as well as joint work on issues from the climate crisis to artificial intelligence.</p> <a href="https://www.theguardian.com/world/2025/jun/23/canada-eu-defense-trump-us-allies">Continue reading...</a>
-
----
-
-## What we know about Iran's attack on US base in Qatar
-**Source:** BBC News  
-**Published:** 2025-06-23 21:44 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/cdjxdgjpd48o](https://www.bbc.com/news/articles/cdjxdgjpd48o)  
-
-The Iranian military confirms it launched missiles in retaliation for American strikes against its nuclear sites.
 
 ---
 
