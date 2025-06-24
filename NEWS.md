@@ -1,6 +1,33 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-24 18:57:50 +0330_
+_Last updated: 2025-06-24 20:02:18 +0330_
+
+## Brazilian tourist who fell off Indonesian volcano found dead
+**Source:** BBC News  
+**Published:** 2025-06-24 19:09 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/c939q6k1ewwo](https://www.bbc.com/news/articles/c939q6k1ewwo)  
+
+Juliana Marins survived the initial fall during an early morning hike along a trail on Mount Rinjani.
+
+---
+
+## Venice protesters claim victory as Bezos changes wedding venue
+**Source:** BBC News  
+**Published:** 2025-06-24 18:56 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cd0vjr07570o](https://www.bbc.com/news/articles/cd0vjr07570o)  
+
+No Space for Bezos activist group tells BBC they are "very proud of this".
+
+---
+
+## Russian missile strikes kill 16 in Ukraine's Dnipropetrovsk region
+**Source:** BBC News  
+**Published:** 2025-06-24 18:50 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cr4w6kwvgg6o](https://www.bbc.com/news/articles/cr4w6kwvgg6o)  
+
+President Zelensky said at least 100 more were injured in a Russian ballistic missile strike.
+
+---
 
 ## How Israel failed in Iran
 **Source:** Al Jazeera  
@@ -110,15 +137,6 @@ Life in the Gulf state has swiftly returned to normality after a night of fear a
 
 ---
 
-## Colombian army frees 57 soldiers held captive by locals
-**Source:** BBC News  
-**Published:** 2025-06-24 16:20 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c8rp51n1zmlo](https://www.bbc.com/news/articles/c8rp51n1zmlo)  
-
-Fifty-seven soldiers had been seized over the weekend and held captive in the restive Cauca region.
-
----
-
 ## What we know about the Iran-Israel ceasefire
 **Source:** BBC News  
 **Published:** 2025-06-24 16:10 (Tehran Time)  
@@ -137,30 +155,12 @@ Judges said that while the magazine published anti-constitutional content, it di
 
 ---
 
-## US marine jailed for seven years for sexual assault in Japan
-**Source:** BBC News  
-**Published:** 2025-06-24 15:05 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/cwyxjnee9rzo](https://www.bbc.com/news/articles/cwyxjnee9rzo)  
-
-Jamel Clayton was given seven years, with a judge describing the physical attack as "vicious".
-
----
-
 ## Children killed in 'appalling' Sudan hospital attack - WHO head
 **Source:** BBC News  
 **Published:** 2025-06-24 14:44 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/c8j18w3ndg9o](https://www.bbc.com/news/articles/c8j18w3ndg9o)  
 
 Tedros Adhanom Ghebreyesus appeals for attacks on health facilities to "stop everywhere".
-
----
-
-## What we know about Iran's attack on US base in Qatar
-**Source:** BBC News  
-**Published:** 2025-06-24 12:40 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/cdjxdgjpd48o](https://www.bbc.com/news/articles/cdjxdgjpd48o)  
-
-Iranian missiles targeted the Al-Udeid air base in retaliation for US strikes on its nuclear sites.
 
 ---
 
