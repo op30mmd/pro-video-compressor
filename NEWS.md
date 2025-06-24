@@ -1,6 +1,33 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-24 13:57:41 +0330_
+_Last updated: 2025-06-24 14:51:49 +0330_
+
+## Children killed in 'appalling' Sudan hospital attack - WHO head
+**Source:** BBC News  
+**Published:** 2025-06-24 14:44 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/c8j18w3ndg9o](https://www.bbc.com/news/articles/c8j18w3ndg9o)  
+
+Tedros Adhanom Ghebreyesus appeals for attacks on health facilities to "stop everywhere".
+
+---
+
+## Israeli military kills dozens in latest attacks on Gaza aid seekers
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 14:27 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/24/dozens-palestinians-killed-in-latest-israeli-attacks-on-aid-seekers?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/dozens-palestinians-killed-in-latest-israeli-attacks-on-aid-seekers?traffic_source=rss)  
+
+Reports suggest as many as 71 have died in rising daily killings as hungry seek food at GHF sites.
+
+---
+
+## Iran-Israel attacks play out around ceasefire announcement by Trump
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 14:07 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/24/iran-israel-attacks-play-out-around-ceasefire-announcement-by-trump?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/24/iran-israel-attacks-play-out-around-ceasefire-announcement-by-trump?traffic_source=rss)  
+
+Iran and Israel continued to attack one another in the hours before a ceasefire announced by US President Donald Trump.
+
+---
 
 ## Iran hoping to “draw a line” under confrontation with US
 **Source:** Al Jazeera  
@@ -101,24 +128,6 @@ Hundreds taken to Bangladesh border at gunpoint in a crackdown by Assam, as some
 
 ---
 
-## Who is attending the NATO summit and what’s on the agenda?
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 09:54 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/24/who-is-attending-the-nato-summit-and-whats-on-the-agenda?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/who-is-attending-the-nato-summit-and-whats-on-the-agenda?traffic_source=rss)  
-
-Continued support for Ukraine amid Russian aggression as well as higher defence spending by allies are key topics.
-
----
-
-## Iranian missile strikes building in Israel
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 09:36 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/24/iranian-missile-strikes-building-in-israel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/24/iranian-missile-strikes-building-in-israel?traffic_source=rss)  
-
-Video shows the moment an Iranian missile struck a building in Israel’s Beersheba on Tuesday.
-
----
-
 ## Rescuers search for Brazilian tourist on Indonesian volcano
 **Source:** BBC News  
 **Published:** 2025-06-24 06:38 (Tehran Time)  
@@ -152,15 +161,6 @@ Some lawmakers have called Trump's strikes on Iran "unconstitutional" - so did h
 **Link:** [https://www.theguardian.com/world/2025/jun/23/canada-eu-defense-trump-us-allies](https://www.theguardian.com/world/2025/jun/23/canada-eu-defense-trump-us-allies)  
 
 <p>Amid Trump’s disrespect of old allies, EU and Canada vow more support for Ukraine and joint work on climate crisis</p><p>Canada has signed a wide-ranging defence pact with the EU, as Donald Trump and global instability prompt traditional US allies to deepen their alliances.</p><p>Canadian prime minister, Mark Carney, on Monday joined European Commission president, Ursula von der Leyen, and head of the European Council, António Costa, in Brussels, where they signed a security and defence partnership, pledged more support for Ukraine, as well as joint work on issues from the climate crisis to artificial intelligence.</p> <a href="https://www.theguardian.com/world/2025/jun/23/canada-eu-defense-trump-us-allies">Continue reading...</a>
-
----
-
-## US says Kilmar Ábrego García will 'never go free' after judge orders his release
-**Source:** BBC News  
-**Published:** 2025-06-23 20:10 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/cx2ny7yl097o](https://www.bbc.com/news/articles/cx2ny7yl097o)  
-
-US Homeland Security, which says he'll "never go free on American soil",  is expected to keep him detained for immigration reasons.
 
 ---
 
