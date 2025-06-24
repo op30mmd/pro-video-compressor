@@ -1,6 +1,15 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-24 17:07:32 +0330_
+_Last updated: 2025-06-24 17:55:59 +0330_
+
+## WHO says attack on Sudanese hospital killed more than 40 civilians
+**Source:** The Guardian  
+**Published:** 2025-06-24 17:42 (Tehran Time)  
+**Link:** [https://www.theguardian.com/world/2025/jun/24/sudan-hospital-attack-west-kordofan](https://www.theguardian.com/world/2025/jun/24/sudan-hospital-attack-west-kordofan)  
+
+<p>Five health workers reportedly among the dead in West Kordofan as paramilitary RSF blames Sudanese military</p><p>The head of the World Health Organization has condemned an attack on a hospital in Sudan that he said killed more than 40 civilians, as the country’s civil war, which has caused the <a href="https://www.theguardian.com/world/2025/apr/15/sudans-two-years-of-war-and-its-devastating-toll">world’s largest humanitarian crisis</a>, rages on.</p><p>The attack on al-Mujlad hospital in West Kordofan happened on Saturday close to the frontline between the Sudanese military and the paramilitary Rapid Support Forces. The WHO’s local office, which did not assign blame, said six children and five health workers were among the dead and that there were “dozens of injuries”.</p> <a href="https://www.theguardian.com/world/2025/jun/24/sudan-hospital-attack-west-kordofan">Continue reading...</a>
+
+---
 
 ## What is life like for Gaza evacuees?
 **Source:** Al Jazeera  
@@ -79,7 +88,7 @@ Donald Trump accuses both sides of breaking the ceasefire and urges them to "cal
 **Published:** 2025-06-24 16:08 (Tehran Time)  
 **Link:** [https://www.aljazeera.com/news/2025/6/24/world-wary-as-it-welcomes-iran-israel-ceasefire?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/world-wary-as-it-welcomes-iran-israel-ceasefire?traffic_source=rss)  
 
-The world celebrated ceasefire deal but is wary of a return to hostilities, as some called for a similar deal for Gaza.
+The world celebrate ceasefire deal but is wary of a return to hostilities, as some call for a similar deal for Gaza.
 
 ---
 
@@ -137,12 +146,12 @@ Tedros Adhanom Ghebreyesus appeals for attacks on health facilities to "stop eve
 
 ---
 
-## Israeli military kills dozens in latest attacks on Gaza aid seekers
+## Israel kills more than 70 people in Gaza, including dozens of aid seekers
 **Source:** Al Jazeera  
 **Published:** 2025-06-24 14:27 (Tehran Time)  
 **Link:** [https://www.aljazeera.com/news/2025/6/24/dozens-palestinians-killed-in-latest-israeli-attacks-on-aid-seekers?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/dozens-palestinians-killed-in-latest-israeli-attacks-on-aid-seekers?traffic_source=rss)  
 
-Reports suggest as many as 71 have died in rising daily killings as hungry seek food at GHF sites.
+More than 400 Palestinians have died at GHF sites since their operation began in rising daily killings of the hungry.
 
 ---
 
@@ -260,15 +269,6 @@ A witness described how quickly the weather changed, leading to people being thr
 **Link:** [https://www.theguardian.com/world/2025/jun/18/discarded-clothes-from-uk-brands-dumped-in-protected-ghana-wetlands](https://www.theguardian.com/world/2025/jun/18/discarded-clothes-from-uk-brands-dumped-in-protected-ghana-wetlands)  
 
 <p>Garments thrown out by consumers from Next, George, M&amp;S and others found in or near conservation areas</p><p>Clothes discarded by UK consumers and shipped to Ghana have been found in a huge rubbish dump in protected wetlands, an investigation has found.</p><p>Reporters for Unearthed working with Greenpeace Africa found garments from Next in the dump and other sites, and items from George at Asda and Marks &amp; Spencer washed up nearby.</p> <a href="https://www.theguardian.com/world/2025/jun/18/discarded-clothes-from-uk-brands-dumped-in-protected-ghana-wetlands">Continue reading...</a>
-
----
-
-## Female baboons with strong relationship to fathers found to live longer
-**Source:** The Guardian  
-**Published:** 2025-06-18 02:31 (Tehran Time)  
-**Link:** [https://www.theguardian.com/world/2025/jun/18/female-baboons-strong-relationship-fathers-live-longer](https://www.theguardian.com/world/2025/jun/18/female-baboons-strong-relationship-fathers-live-longer)  
-
-<p>Study suggests role of male parents may be under-appreciated in some primate species</p><p>If male baboons were subject to the same kind of cultural commentary as humans, the phrase “deadbeat dads” might be called for, such is the primate’s relatively limited involvement in raising their young.</p><p>But a study suggests that even their little effort might go a long way, with female baboons who experience a stronger relationship with their fathers when young tending to live longer as adults.</p> <a href="https://www.theguardian.com/world/2025/jun/18/female-baboons-strong-relationship-fathers-live-longer">Continue reading...</a>
 
 ---
 
