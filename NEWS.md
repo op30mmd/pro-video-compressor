@@ -1,6 +1,51 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-24 20:53:48 +0330_
+_Last updated: 2025-06-24 22:04:55 +0330_
+
+## UN condemns Gaza aid 'death trap' as dozens reported killed by Israeli fire
+**Source:** BBC News  
+**Published:** 2025-06-24 21:57 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/c15wz2ee05do](https://www.bbc.com/news/articles/c15wz2ee05do)  
+
+At least 44 people waiting for aid have been killed by Israeli fire in two incidents, rescuers and hospitals say.
+
+---
+
+## How a volatile 24 hours edged the Middle East to a ceasefire
+**Source:** BBC News  
+**Published:** 2025-06-24 21:27 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/c3vdpeq606do](https://www.bbc.com/news/articles/c3vdpeq606do)  
+
+From an attack on a US air base to a fragile ceasefire, this is how the Middle East conflict changed overnight.
+
+---
+
+## Travel disruptions still hit Middle East in wake of US-Israel-Iran conflict
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 21:17 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/24/travel-disruptions-still-hit-middle-east-in-wake-of-us-israel-iran-conflict?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/travel-disruptions-still-hit-middle-east-in-wake-of-us-israel-iran-conflict?traffic_source=rss)  
+
+The conflict has prompted airlines to reroute or cancel flights, affecting major hubs like Doha and Dubai.
+
+---
+
+## ‘It’s not peace – it’s a pause’: Iranians sceptical ceasefire will hold
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 21:14 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/features/2025/6/24/its-not-peace-its-a-pause-in-iran-scepticism-ceasefire-will?traffic_source=rss](https://www.aljazeera.com/features/2025/6/24/its-not-peace-its-a-pause-in-iran-scepticism-ceasefire-will?traffic_source=rss)  
+
+From Tehran to Yazd, Iranians are wary of the truce with Israel holding as officials trade accusations and threats.
+
+---
+
+## Palestinians in Gaza are calling for their own ceasefire
+**Source:** Al Jazeera  
+**Published:** 2025-06-24 20:54 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/24/palestinians-in-gaza-are-calling-for-their-own-ceasefire?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/24/palestinians-in-gaza-are-calling-for-their-own-ceasefire?traffic_source=rss)  
+
+As Iran and Israel talk peace, Palestinians in Gaza feel left behind. Israel killed more than 70 Palestinians on Tuesday
+
+---
 
 ## Powell says US Fed to wait to reduce rates even as Trump demands cuts
 **Source:** Al Jazeera  
@@ -110,57 +155,12 @@ As Trump hits the Horn of Africa, experts caution against drone strikes, saying 
 
 ---
 
-## NATO allies set to approve major defence spending hike at Hague summit
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 17:47 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/24/nato-allies-set-to-approve-major-defence-spending-hike-at-hague-summit?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/nato-allies-set-to-approve-major-defence-spending-hike-at-hague-summit?traffic_source=rss)  
-
-The US has been pressuring its allies to adopt new targets for defence spending in response to the Russian threat.
-
----
-
-## How much have US wars in the Middle East and Afghanistan cost?
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 17:45 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/24/how-much-have-us-wars-in-the-middle-east-and-afghanistan-cost?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/how-much-have-us-wars-in-the-middle-east-and-afghanistan-cost?traffic_source=rss)  
-
-More than 20 years of US wars have directly killed an estimated 940,000 people and cost the US $5.8 trillion.
-
----
-
 ## WHO says attack on Sudanese hospital killed more than 40 civilians
 **Source:** The Guardian  
 **Published:** 2025-06-24 17:42 (Tehran Time)  
 **Link:** [https://www.theguardian.com/world/2025/jun/24/sudan-hospital-attack-west-kordofan](https://www.theguardian.com/world/2025/jun/24/sudan-hospital-attack-west-kordofan)  
 
 <p>Five health workers reportedly among the dead in West Kordofan as paramilitary RSF blames Sudanese military</p><p>The head of the World Health Organization has condemned an attack on a hospital in Sudan that he said had killed more than 40 civilians, as the country’s civil war, which has caused the <a href="https://www.theguardian.com/world/2025/apr/15/sudans-two-years-of-war-and-its-devastating-toll">world’s largest humanitarian crisis</a>, rages on.</p><p>The attack on al-Mujlad hospital in West Kordofan happened on Saturday close to the frontline between the Sudanese military and the paramilitary Rapid Support Forces (RSF). The WHO’s local office, which did not assign blame, said six children and five health workers were among the dead and that there were “dozens of injuries”.</p> <a href="https://www.theguardian.com/world/2025/jun/24/sudan-hospital-attack-west-kordofan">Continue reading...</a>
-
----
-
-## What is life like for Gaza evacuees?
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 17:00 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/the-stream/2025/6/24/what-is-life-like-for-gaza-evacuees?traffic_source=rss](https://www.aljazeera.com/video/the-stream/2025/6/24/what-is-life-like-for-gaza-evacuees?traffic_source=rss)  
-
-Today on The Stream: Two Palestinians who left Gaza during the genocide share their stories of escape and survival.
-
----
-
-## What we know about the Iran-Israel ceasefire
-**Source:** BBC News  
-**Published:** 2025-06-24 16:10 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/czjk3kxr3zno](https://www.bbc.com/news/articles/czjk3kxr3zno)  
-
-Donald Trump accuses both sides of breaking the ceasefire and urges them to "calm down".
-
----
-
-## Children killed in 'appalling' Sudan hospital attack - WHO head
-**Source:** BBC News  
-**Published:** 2025-06-24 14:44 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c8j18w3ndg9o](https://www.bbc.com/news/articles/c8j18w3ndg9o)  
-
-Tedros Adhanom Ghebreyesus appeals for attacks on health facilities to "stop everywhere".
 
 ---
 
