@@ -51,7 +51,6 @@ jobs:
         mkdir dist
         cp build/Release/VideoCompressor.exe dist/
         windeployqt.exe --no-translations dist/VideoCompressor.exe
-        # No longer need qt.conf or manual style copies
         cp "$(which ffmpeg.exe)" dist/
         cp "$(which ffprobe.exe)" dist/
         7z a -tzip VideoCompressor-Windows.zip ./dist/*
@@ -65,10 +64,35 @@ jobs:
     - name: Package Application (Linux)
       if: runner.os == 'Linux'
       run: |
-        mkdir -p dist/bin
-        cp build/VideoCompressor dist/bin/
-        echo "Please ensure you have Qt6 and FFmpeg installed on your system to run this application." > dist/README.txt
-        tar -czvf VideoCompressor-Linux.tar.gz -C dist .
+        # Download and prepare linuxdeployqt
+        wget -c -nv "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
+        chmod a+x linuxdeployqt-continuous-x86_64.AppImage
+
+        # Create a self-contained AppDir
+        mkdir -p AppDir/usr/bin
+        mkdir -p AppDir/usr/lib
+        
+        # Copy our application and its dependencies
+        cp build/VideoCompressor AppDir/usr/bin/
+        cp $(which ffmpeg) AppDir/usr/bin/
+        cp $(which ffprobe) AppDir/usr/bin/
+        
+        # Create a .desktop file
+        echo "[Desktop Entry]" > AppDir/videocompressor.desktop
+        echo "Name=Pro Video Compressor" >> AppDir/videocompressor.desktop
+        echo "Exec=VideoCompressor" >> AppDir/videocompressor.desktop
+        echo "Icon=videocompressor" >> AppDir/videocompressor.desktop
+        echo "Type=Application" >> AppDir/videocompressor.desktop
+        echo "Categories=AudioVideo;" >> AppDir/videocompressor.desktop
+        
+        # NOTE: For a real icon, you would add a `videocompressor.png` file to your repo
+        # and copy it to `AppDir/usr/share/icons/hicolor/256x256/apps/`
+
+        # Run linuxdeployqt to bundle dependencies and create the AppImage
+        ./linuxdeployqt-continuous-x86_64.AppImage AppDir/usr/bin/VideoCompressor -appimage
+        
+        # Rename the final AppImage for consistency
+        mv Pro_Video_Compressor*.AppImage VideoCompressor-Linux-x86_64.AppImage
 
     - name: Upload Build Artifact
       uses: actions/upload-artifact@v4
@@ -77,7 +101,7 @@ jobs:
         path: |
           VideoCompressor-Windows.zip
           VideoCompressor-macOS.dmg
-          VideoCompressor-Linux.tar.gz
+          VideoCompressor-Linux-x86_64.AppImage
         if-no-files-found: 'ignore'
 
   release:
@@ -93,9 +117,6 @@ jobs:
         with:
           path: artifacts
 
-      - name: Display structure of downloaded files
-        run: ls -R artifacts
-
       - name: Create Release and Upload Assets
         uses: softprops/action-gh-release@v2
         with:
@@ -103,4 +124,4 @@ jobs:
           files: |
             artifacts/VideoCompressor-Windows/VideoCompressor-Windows.zip
             artifacts/VideoCompressor-macOS/VideoCompressor-macOS.dmg
-            artifacts/VideoCompressor-Linux/VideoCompressor-Linux.tar.gz
+            artifacts/VideoCompressor-Linux/VideoCompressor-Linux-x86_64.AppImage
