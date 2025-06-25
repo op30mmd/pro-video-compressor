@@ -1,13 +1,40 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-25 10:55:15 +0330_
+_Last updated: 2025-06-25 12:04:23 +0330_
 
-## Leaders gather in Hague as Nato chief Rutte puts higher spending top priority
+## UK to buy 12 F-35A fighter jets capable of carrying nuclear weapons
+**Source:** Al Jazeera  
+**Published:** 2025-06-25 11:21 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/25/uk-to-buy-12-f-35a-fighter-jets-capable-of-carrying-nuclear-weapons?traffic_source=rss](https://www.aljazeera.com/news/2025/6/25/uk-to-buy-12-f-35a-fighter-jets-capable-of-carrying-nuclear-weapons?traffic_source=rss)  
+
+Downing Street says the purchase will be the &#039;biggest strengthening of the UK&#039;s nuclear posture in a generation&#039;.
+
+---
+
+## Trump insists Iran nuclear sites ‘completely destroyed’ in US strikes
+**Source:** Al Jazeera  
+**Published:** 2025-06-25 11:14 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/25/trump-insists-iran-nuclear-sites-destroyed-in-us-strikes-blasts-media?traffic_source=rss](https://www.aljazeera.com/news/2025/6/25/trump-insists-iran-nuclear-sites-destroyed-in-us-strikes-blasts-media?traffic_source=rss)  
+
+The US bombed Iran’s nuclear sites Fordow, Natanz and Isfahan on June 22.
+
+---
+
+## Leaders gather in Hague as Nato chief Rutte says higher spending top priority
 **Source:** BBC News  
 **Published:** 2025-06-25 10:51 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/c4gd98qry6jo](https://www.bbc.com/news/articles/c4gd98qry6jo)  
 
 Nato leaders are set to commit to a big hike in defence spending and the Secretary General has said there is no alternative.
+
+---
+
+## Zohran Mamdani claims victory in NYC Democratic mayoral primary
+**Source:** Al Jazeera  
+**Published:** 2025-06-25 10:34 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/25/zohran-mamdani-claims-victory-in-nyc-democratic-mayoral-primary?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/25/zohran-mamdani-claims-victory-in-nyc-democratic-mayoral-primary?traffic_source=rss)  
+
+Video shows Zohran Mamdani declaring victory in New York City’s Democratic mayoral primary after Andrew Cuomo conceded.
 
 ---
 
@@ -56,7 +83,7 @@ The 17-year-old Australian Sudanese sprinter clocked 20.02 seconds to break the 
 
 ---
 
-## India celebrates sending its first astronaut into space after 41 years
+## India sends its first astronaut into space after 41 years
 **Source:** BBC News  
 **Published:** 2025-06-25 10:08 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/cz09lx2gjm4o](https://www.bbc.com/news/articles/cz09lx2gjm4o)  
@@ -115,7 +142,7 @@ The White House called the initial damage evaluation on Iran's uranium stockpile
 **Published:** 2025-06-25 04:30 (Tehran Time)  
 **Link:** [https://www.theguardian.com/world/2025/jun/25/fears-of-unrest-as-kenyans-mark-first-anniversary-of-storming-of-parliament](https://www.theguardian.com/world/2025/jun/25/fears-of-unrest-as-kenyans-mark-first-anniversary-of-storming-of-parliament)  
 
-<p>Rights activists plan to march countrywide in honour of those killed during anti-government protests</p><p>Kenyans plan to march countrywide on Wednesday, the first anniversary of the historic storming of parliament by protesters, to honour those killed during last year’s anti-government protests, but there are fears that the march could escalate into unrest.</p><p>Rights activists, family members of killed and missing protesters, and young Kenyans, who were the main drivers of last year’s protests, have mobilised online and offline, with opposition leaders terming the day a “people’s public holiday” and the government warning against attempts to disrupt public order.</p> <a href="https://www.theguardian.com/world/2025/jun/25/fears-of-unrest-as-kenyans-mark-first-anniversary-of-storming-of-parliament">Continue reading...</a>
+<p>Nationwide marches planned in honour of those killed during anti-government protests</p><p>Kenyans plan to march countrywide on Wednesday, the first anniversary of the historic storming of parliament by protesters, to honour those killed during last year’s anti-government protests, but there are fears that the march could escalate into unrest.</p><p>Rights activists, family members of killed and missing protesters, and young Kenyans, who were the main drivers of last year’s protests, have mobilised online and offline, with opposition leaders terming the day a “people’s public holiday” and the government warning against attempts to disrupt public order.</p> <a href="https://www.theguardian.com/world/2025/jun/25/fears-of-unrest-as-kenyans-mark-first-anniversary-of-storming-of-parliament">Continue reading...</a>
 
 ---
 
@@ -125,33 +152,6 @@ The White House called the initial damage evaluation on Iran's uranium stockpile
 **Link:** [https://www.aljazeera.com/news/2025/6/25/us-sanctions-alleged-leader-of-venezuelan-gang-tren-de-aragua?traffic_source=rss](https://www.aljazeera.com/news/2025/6/25/us-sanctions-alleged-leader-of-venezuelan-gang-tren-de-aragua?traffic_source=rss)  
 
 The State Department has offered up to $3m for information leading to the arrest of Giovanni Vicente Mosquera Serrano.
-
----
-
-## Boeing failed to provide training to prevent MAX 9 midair emergency: NTSB
-**Source:** Al Jazeera  
-**Published:** 2025-06-25 03:44 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/economy/2025/6/25/boeing-failed-to-provide-training-to-prevent-max-9-midair-emergency-ntsb?traffic_source=rss](https://www.aljazeera.com/economy/2025/6/25/boeing-failed-to-provide-training-to-prevent-max-9-midair-emergency-ntsb?traffic_source=rss)  
-
-The US agency harshly criticised Boeing&#039;s safety culture as well as ineffective oversight by the FAA.
-
----
-
-## Heatwave poses risks to US power grid
-**Source:** Al Jazeera  
-**Published:** 2025-06-25 03:01 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/economy/2025/6/24/heatwave-poses-risks-to-us-power-grid?traffic_source=rss](https://www.aljazeera.com/economy/2025/6/24/heatwave-poses-risks-to-us-power-grid?traffic_source=rss)  
-
-As heat related power outages surge, things are expected to worsen, with AI-focused data centres sucking up power.
-
----
-
-## Trump is seeking a quick US exit from Israel-Iran conflict. Will it work?
-**Source:** Al Jazeera  
-**Published:** 2025-06-25 02:57 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/24/trump-is-seeking-a-quick-us-exit-from-israel-iran-conflict-will-it-work?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/trump-is-seeking-a-quick-us-exit-from-israel-iran-conflict-will-it-work?traffic_source=rss)  
-
-After bombing Iran, the US president announced a ceasefire. But it remains unclear whether his strategy will avert war.
 
 ---
 
