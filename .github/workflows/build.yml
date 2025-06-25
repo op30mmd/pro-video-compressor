@@ -11,7 +11,7 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        # THE DEFINITIVE FIX: Use an older, more compatible version of Ubuntu.
+        # Using a stable, compatible version of Ubuntu.
         os: [ubuntu-22.04, macos-latest, windows-latest]
         qt_version: ['6.5.0']
 
@@ -29,7 +29,8 @@ jobs:
       if: runner.os == 'Linux'
       run: |
         sudo apt-get update
-        sudo apt-get install -y ffmpeg libfuse2
+        # THE DEFINITIVE FIX: Install FFmpeg AND all the required X11/Qt system dependencies.
+        sudo apt-get install -y ffmpeg libfuse2 libgl1-mesa-dev libxcb-cursor0
 
     - name: Install FFmpeg (macOS)
       if: runner.os == 'macOS'
