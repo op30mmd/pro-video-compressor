@@ -1,6 +1,69 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-25 10:07:06 +0330_
+_Last updated: 2025-06-25 10:55:15 +0330_
+
+## Leaders gather in Hague as Nato chief Rutte puts higher spending top priority
+**Source:** BBC News  
+**Published:** 2025-06-25 10:51 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/c4gd98qry6jo](https://www.bbc.com/news/articles/c4gd98qry6jo)  
+
+Nato leaders are set to commit to a big hike in defence spending and the Secretary General has said there is no alternative.
+
+---
+
+## British man charged over mock Disneyland wedding to child had been investigated by BBC
+**Source:** BBC News  
+**Published:** 2025-06-25 10:31 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/c62gq269jv7o](https://www.bbc.com/news/articles/c62gq269jv7o)  
+
+Jacky Jhaj, a convicted paedophile, has staged several elaborate productions involving children and young people since he was released from prison.
+
+---
+
+## Vietnam ends death penalty for crimes against the state, bribery, drugs
+**Source:** Al Jazeera  
+**Published:** 2025-06-25 10:31 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/25/vietnam-ends-death-penalty-for-crimes-against-the-state-bribery-drugs?traffic_source=rss](https://www.aljazeera.com/news/2025/6/25/vietnam-ends-death-penalty-for-crimes-against-the-state-bribery-drugs?traffic_source=rss)  
+
+The death sentence has been removed from eight criminal offences and replaced with life imprisonment for offenders.
+
+---
+
+## Zohran Mamdani set to become Democratic candidate in New York mayoral race
+**Source:** Al Jazeera  
+**Published:** 2025-06-25 10:27 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/25/zohran-mamdani-set-to-become-democratic-candidate-in-new-york-mayoral-race?traffic_source=rss](https://www.aljazeera.com/news/2025/6/25/zohran-mamdani-set-to-become-democratic-candidate-in-new-york-mayoral-race?traffic_source=rss)  
+
+Campaigning on cost of living issues, Mamdani beat out ex-governor Andrew Cuomo and his $25m super PAC.
+
+---
+
+## Russia-Ukraine war: List of key events, day 1,217
+**Source:** Al Jazeera  
+**Published:** 2025-06-25 10:22 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/25/russia-ukraine-war-list-of-key-events-day-1217?traffic_source=rss](https://www.aljazeera.com/news/2025/6/25/russia-ukraine-war-list-of-key-events-day-1217?traffic_source=rss)  
+
+Here are the key events on day 1,217 of Russia’s war on Ukraine.
+
+---
+
+## Gout Gout breaks own 200m record; beats Bolt’s Golden Spike debut time
+**Source:** Al Jazeera  
+**Published:** 2025-06-25 10:20 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/sports/2025/6/25/gout-gout-breaks-own-200m-record-beats-bolts-golden-spike-debut-time?traffic_source=rss](https://www.aljazeera.com/sports/2025/6/25/gout-gout-breaks-own-200m-record-beats-bolts-golden-spike-debut-time?traffic_source=rss)  
+
+The 17-year-old Australian Sudanese sprinter clocked 20.02 seconds to break the Australian national record once again.
+
+---
+
+## India celebrates sending its first astronaut into space after 41 years
+**Source:** BBC News  
+**Published:** 2025-06-25 10:08 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cz09lx2gjm4o](https://www.bbc.com/news/articles/cz09lx2gjm4o)  
+
+Group Captain Shubhanshu Shukla has become only the second Indian to travel to space.
+
+---
 
 ## Chelsea beat ES Tunis, Benfica stun Bayern in FIFA Club World Cup
 **Source:** Al Jazeera  
@@ -92,39 +155,12 @@ After bombing Iran, the US president announced a ceasefire. But it remains uncle
 
 ---
 
-## US judge allows company to train AI using copyrighted literary materials
-**Source:** Al Jazeera  
-**Published:** 2025-06-25 02:43 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/24/us-judge-allows-company-to-train-ai-using-copyrighted-literary-materials?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/us-judge-allows-company-to-train-ai-using-copyrighted-literary-materials?traffic_source=rss)  
-
-Ruling sides against authors who alleged that Anthropic trained an AI model using their work without consent.
-
----
-
 ## Sean 'Diddy' Combs' attorneys end their defence case after only 20 minutes
 **Source:** BBC News  
 **Published:** 2025-06-25 01:17 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/ce83yem82xpo](https://www.bbc.com/news/articles/ce83yem82xpo)  
 
 Mr Combs also told the judge he would not take the stand in his defence as part of the weeks-long trial.
-
----
-
-## Dnipro church hit by Russian missile mid-service
-**Source:** Al Jazeera  
-**Published:** 2025-06-25 01:08 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/24/dnipro-church-hit-by-russian-missile-mid-service?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/24/dnipro-church-hit-by-russian-missile-mid-service?traffic_source=rss)  
-
-A Russian missile attack on Ukraine’s Dnipro region killed at least 17 people and wounded more than 200 others.
-
----
-
-## Leaders arrive at Hague summit as Nato chief Rutte flatters Trump
-**Source:** BBC News  
-**Published:** 2025-06-25 00:30 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c4gd98qry6jo](https://www.bbc.com/news/articles/c4gd98qry6jo)  
-
-It is the US president's first Nato summit since 2019 and all 32 leaders are set to commit to a big hike in defence spending.
 
 ---
 
@@ -137,48 +173,12 @@ It is the US president's first Nato summit since 2019 and all 32 leaders are set
 
 ---
 
-## 'The water was just screaming' - Eight dead in Lake Tahoe after boats capsize
-**Source:** BBC News  
-**Published:** 2025-06-25 00:23 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/czdvlyjezrdo](https://www.bbc.com/news/articles/czdvlyjezrdo)  
-
-A witness described how quickly the weather changed, leading to people being thrown from boats.
-
----
-
-## US-Israel-Iran conflict: List of key events, June 24, 2025
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 23:53 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/24/us-israel-iran-conflict-list-of-key-events-june-24-2025?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/us-israel-iran-conflict-list-of-key-events-june-24-2025?traffic_source=rss)  
-
-Here are the key events as a ceasefire was declared in the 12-day Israel-Iran conflict.
-
----
-
-## Fragile Iran-Israel ceasefire calms oil markets
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 23:41 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/economy/2025/6/24/fragile-iran-israel-ceasefire-calms-oil-markets?traffic_source=rss](https://www.aljazeera.com/economy/2025/6/24/fragile-iran-israel-ceasefire-calms-oil-markets?traffic_source=rss)  
-
-Oil prices tumbled more after Iran struck US military base in Qatar, a sign Strait of Hormuz would stay open for now.
-
----
-
 ## How a volatile 24 hours edged Iran and Israel to a ceasefire
 **Source:** BBC News  
 **Published:** 2025-06-24 21:27 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/c3vdpeq606do](https://www.bbc.com/news/articles/c3vdpeq606do)  
 
 From an attack on a US air base to a fragile ceasefire, this is how the Middle East conflict changed overnight.
-
----
-
-## British man charged over 'wedding' with child, 9, at Disneyland Paris
-**Source:** BBC News  
-**Published:** 2025-06-24 20:10 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c0l4z2z7rk4o](https://www.bbc.com/news/articles/c0l4z2z7rk4o)  
-
-The 39-year-old is a convicted sexual offender who is wanted in the UK, French prosecutors have said.
 
 ---
 
@@ -191,7 +191,7 @@ Juliana Marins survived the initial fall during an early morning hike along a tr
 
 ---
 
-## Venice protesters claim victory as Bezos changes wedding venue
+## Venice protesters claim victory as Jeff Bezos changes wedding venue
 **Source:** BBC News  
 **Published:** 2025-06-24 18:56 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/cd0vjr07570o](https://www.bbc.com/news/articles/cd0vjr07570o)  
