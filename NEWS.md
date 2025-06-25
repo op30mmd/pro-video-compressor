@@ -1,6 +1,24 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-25 08:55:44 +0330_
+_Last updated: 2025-06-25 10:07:06 +0330_
+
+## Chelsea beat ES Tunis, Benfica stun Bayern in FIFA Club World Cup
+**Source:** Al Jazeera  
+**Published:** 2025-06-25 09:48 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/sports/2025/6/25/chelsea-beat-es-tunis-benfica-stun-bayern-in-fifa-club-world-cup?traffic_source=rss](https://www.aljazeera.com/sports/2025/6/25/chelsea-beat-es-tunis-benfica-stun-bayern-in-fifa-club-world-cup?traffic_source=rss)  
+
+Benfica beat Bayern Munich, but both sides progress from Group C, while minnows Auckland draw 1-1 with Boca Juniors.
+
+---
+
+## India forcibly sterilised 8m men: One village remembers, 50 years later
+**Source:** Al Jazeera  
+**Published:** 2025-06-25 09:20 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/features/2025/6/25/india-forcibly-sterilised-eight-m-men-one-village-remembers-fifty-years-later?traffic_source=rss](https://www.aljazeera.com/features/2025/6/25/india-forcibly-sterilised-eight-m-men-one-village-remembers-fifty-years-later?traffic_source=rss)  
+
+The imposition of a state of national emergency on June 25, 1975, was India&#039;s closest brush with dictatorship.
+
+---
 
 ## Australian journalist wins unfair dismissal case over Gaza post
 **Source:** BBC News  
@@ -143,24 +161,6 @@ Here are the key events as a ceasefire was declared in the 12-day Israel-Iran co
 **Link:** [https://www.aljazeera.com/economy/2025/6/24/fragile-iran-israel-ceasefire-calms-oil-markets?traffic_source=rss](https://www.aljazeera.com/economy/2025/6/24/fragile-iran-israel-ceasefire-calms-oil-markets?traffic_source=rss)  
 
 Oil prices tumbled more after Iran struck US military base in Qatar, a sign Strait of Hormuz would stay open for now.
-
----
-
-## Trump: no ‘regime change’ in Iran, urges calm after strikes
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 23:27 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/24/trump-no-regime-change-in-iran-urges-calm-after-strikes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/24/trump-no-regime-change-in-iran-urges-calm-after-strikes?traffic_source=rss)  
-
-Donald Trump said he does not want regime change in Iran and claimed nuclear weapons are “the last thing on Iran’s mind&quot;
-
----
-
-## Will Israel and Iran stop fighting?
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 23:15 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/inside-story/2025/6/24/will-israel-and-iran-stop-fighting?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2025/6/24/will-israel-and-iran-stop-fighting?traffic_source=rss)  
-
-US President Donald Trump urges Israel and Iran to stick to their agreed ceasefire.
 
 ---
 
