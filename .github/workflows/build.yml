@@ -11,7 +11,6 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        # Using a stable, compatible version of Ubuntu.
         os: [ubuntu-22.04, macos-latest, windows-latest]
         qt_version: ['6.5.0']
 
@@ -29,8 +28,7 @@ jobs:
       if: runner.os == 'Linux'
       run: |
         sudo apt-get update
-        # THE DEFINITIVE FIX: Install FFmpeg AND all the required X11/Qt system dependencies.
-        sudo apt-get install -y ffmpeg libfuse2 libgl1-mesa-dev libxcb-cursor0
+        sudo apt-get install -y ffmpeg libfuse2 libxcb-cursor0
 
     - name: Install FFmpeg (macOS)
       if: runner.os == 'macOS'
@@ -69,12 +67,20 @@ jobs:
         wget -c -nv "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
         chmod a+x linuxdeployqt-continuous-x86_64.AppImage
 
+        # Create the full AppDir structure
         mkdir -p AppDir/usr/bin
+        mkdir -p AppDir/usr/share/icons/hicolor/256x256/apps
         
+        # Copy binaries
         cp build/VideoCompressor AppDir/usr/bin/
         cp $(which ffmpeg) AppDir/usr/bin/
         cp $(which ffprobe) AppDir/usr/bin/
         
+        # --- THE DEFINITIVE FIX ---
+        # Copy the icon into the standard location
+        cp videocompressor.svg AppDir/usr/share/icons/hicolor/256x256/apps/videocompressor.svg
+
+        # Create the .desktop file
         echo "[Desktop Entry]" > AppDir/videocompressor.desktop
         echo "Name=Pro Video Compressor" >> AppDir/videocompressor.desktop
         echo "Exec=VideoCompressor" >> AppDir/videocompressor.desktop
@@ -82,8 +88,10 @@ jobs:
         echo "Type=Application" >> AppDir/videocompressor.desktop
         echo "Categories=AudioVideo;" >> AppDir/videocompressor.desktop
         
+        # Run linuxdeployqt
         ./linuxdeployqt-continuous-x86_64.AppImage AppDir/usr/bin/VideoCompressor -appimage
         
+        # Rename the final AppImage
         mv Pro_Video_Compressor*.AppImage VideoCompressor-Linux-x86_64.AppImage
 
     - name: Upload Build Artifact
