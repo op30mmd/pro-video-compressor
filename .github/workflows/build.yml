@@ -24,11 +24,12 @@ jobs:
         version: ${{ matrix.qt_version }}
         arch: ${{ runner.os == 'macos-latest' && 'clang_64' || '' }}
 
-    - name: Install FFmpeg (Linux)
+    - name: Install Dependencies (Linux)
       if: runner.os == 'Linux'
       run: |
         sudo apt-get update
-        sudo apt-get install -y ffmpeg
+        # THE DEFINITIVE FIX: Install FFmpeg AND the FUSE library needed by linuxdeployqt
+        sudo apt-get install -y ffmpeg libfuse2
 
     - name: Install FFmpeg (macOS)
       if: runner.os == 'macOS'
@@ -64,20 +65,15 @@ jobs:
     - name: Package Application (Linux)
       if: runner.os == 'Linux'
       run: |
-        # Download and prepare linuxdeployqt
         wget -c -nv "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
         chmod a+x linuxdeployqt-continuous-x86_64.AppImage
 
-        # Create a self-contained AppDir
         mkdir -p AppDir/usr/bin
-        mkdir -p AppDir/usr/lib
         
-        # Copy our application and its dependencies
         cp build/VideoCompressor AppDir/usr/bin/
         cp $(which ffmpeg) AppDir/usr/bin/
         cp $(which ffprobe) AppDir/usr/bin/
         
-        # Create a .desktop file
         echo "[Desktop Entry]" > AppDir/videocompressor.desktop
         echo "Name=Pro Video Compressor" >> AppDir/videocompressor.desktop
         echo "Exec=VideoCompressor" >> AppDir/videocompressor.desktop
@@ -85,13 +81,8 @@ jobs:
         echo "Type=Application" >> AppDir/videocompressor.desktop
         echo "Categories=AudioVideo;" >> AppDir/videocompressor.desktop
         
-        # NOTE: For a real icon, you would add a `videocompressor.png` file to your repo
-        # and copy it to `AppDir/usr/share/icons/hicolor/256x256/apps/`
-
-        # Run linuxdeployqt to bundle dependencies and create the AppImage
         ./linuxdeployqt-continuous-x86_64.AppImage AppDir/usr/bin/VideoCompressor -appimage
         
-        # Rename the final AppImage for consistency
         mv Pro_Video_Compressor*.AppImage VideoCompressor-Linux-x86_64.AppImage
 
     - name: Upload Build Artifact
