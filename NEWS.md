@@ -1,13 +1,85 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-25 02:53:49 +0330_
+_Last updated: 2025-06-25 05:33:30 +0330_
 
 ## US strikes did not destroy Iran nuclear programme, says Pentagon assessment
 **Source:** BBC News  
-**Published:** 2025-06-25 01:48 (Tehran Time)  
+**Published:** 2025-06-25 05:21 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/ckglxwp5x03o](https://www.bbc.com/news/articles/ckglxwp5x03o)  
 
 The White House called the initial damage assessment on Iran's uranium stockpile "flat-out wrong".
+
+---
+
+## Australian journalist wins unfair dismissal case over Gaza post
+**Source:** BBC News  
+**Published:** 2025-06-25 04:53 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cj4exrwj8pjo](https://www.bbc.com/news/articles/cj4exrwj8pjo)  
+
+The Lebanese-Australian journalist sued Australia's national broadcaster, saying she was unfairly fired.
+
+---
+
+## Fears of unrest as Kenyans mark first anniversary of storming of parliament
+**Source:** The Guardian  
+**Published:** 2025-06-25 04:30 (Tehran Time)  
+**Link:** [https://www.theguardian.com/world/2025/jun/25/fears-of-unrest-as-kenyans-mark-first-anniversary-of-storming-of-parliament](https://www.theguardian.com/world/2025/jun/25/fears-of-unrest-as-kenyans-mark-first-anniversary-of-storming-of-parliament)  
+
+<p>Rights activists plan to march countrywide in honour of those killed during anti-government protests</p><p>Kenyans plan to march countrywide on Wednesday, the first anniversary of the historic storming of parliament by protesters, to honour those killed during last year’s anti-government protests, but there are fears that the march could escalate into unrest.</p><p>Rights activists, family members of killed and missing protesters, and young Kenyans, who were the main drivers of last year’s protests, have mobilised online and offline, with opposition leaders terming the day a “people’s public holiday” and the government warning against attempts to disrupt public order.</p> <a href="https://www.theguardian.com/world/2025/jun/25/fears-of-unrest-as-kenyans-mark-first-anniversary-of-storming-of-parliament">Continue reading...</a>
+
+---
+
+## US sanctions alleged leader of Venezuelan gang Tren de Aragua
+**Source:** Al Jazeera  
+**Published:** 2025-06-25 03:55 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/25/us-sanctions-alleged-leader-of-venezuelan-gang-tren-de-aragua?traffic_source=rss](https://www.aljazeera.com/news/2025/6/25/us-sanctions-alleged-leader-of-venezuelan-gang-tren-de-aragua?traffic_source=rss)  
+
+The State Department has offered up to $3m for information leading to the arrest of Giovanni Vicente Mosquera Serrano.
+
+---
+
+## Boeing failed to provide training to prevent MAX 9 midair emergency: NTSB
+**Source:** Al Jazeera  
+**Published:** 2025-06-25 03:44 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/economy/2025/6/25/boeing-failed-to-provide-training-to-prevent-max-9-midair-emergency-ntsb?traffic_source=rss](https://www.aljazeera.com/economy/2025/6/25/boeing-failed-to-provide-training-to-prevent-max-9-midair-emergency-ntsb?traffic_source=rss)  
+
+The US agency harshly criticised Boeing&#039;s safety culture as well as ineffective oversight by the FAA.
+
+---
+
+## Heatwave poses risks to US power grid
+**Source:** Al Jazeera  
+**Published:** 2025-06-25 03:01 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/economy/2025/6/24/heatwave-poses-risks-to-us-power-grid?traffic_source=rss](https://www.aljazeera.com/economy/2025/6/24/heatwave-poses-risks-to-us-power-grid?traffic_source=rss)  
+
+As heat related power outages surge, things are expected to worsen, with AI-focused data centres sucking up power.
+
+---
+
+## Trump is seeking a quick US exit from Israel-Iran conflict. Will it work?
+**Source:** Al Jazeera  
+**Published:** 2025-06-25 02:57 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/24/trump-is-seeking-a-quick-us-exit-from-israel-iran-conflict-will-it-work?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/trump-is-seeking-a-quick-us-exit-from-israel-iran-conflict-will-it-work?traffic_source=rss)  
+
+After bombing Iran, the US president announced a ceasefire. But it remains unclear whether his strategy will avert war.
+
+---
+
+## US judge allows company to train AI using copyrighted literary materials
+**Source:** Al Jazeera  
+**Published:** 2025-06-25 02:43 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/24/us-judge-allows-company-to-train-ai-using-copyrighted-literary-materials?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/us-judge-allows-company-to-train-ai-using-copyrighted-literary-materials?traffic_source=rss)  
+
+Ruling sides against authors who alleged that Anthropic trained an AI model using their work without consent.
+
+---
+
+## Sean 'Diddy' Combs' attorneys end their defence case after only 20 minutes
+**Source:** BBC News  
+**Published:** 2025-06-25 01:17 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/ce83yem82xpo](https://www.bbc.com/news/articles/ce83yem82xpo)  
+
+Mr Combs also told the judge he would not take the stand in his defence as part of the weeks-long trial.
 
 ---
 
@@ -83,57 +155,12 @@ US President Donald Trump urges Israel and Iran to stick to their agreed ceasefi
 
 ---
 
-## Trump shares texts from NATO chief praising ‘decisive action’ on Iran
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 23:05 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/24/trump-shares-texts-from-nato-chief-praising-decisive-action-on-iran?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/trump-shares-texts-from-nato-chief-praising-decisive-action-on-iran?traffic_source=rss)  
-
-NATO Chief Mark Rutte also said Europe would increase defence spending in a &#039;BIG way&#039; thanks to US pressure.
-
----
-
-## England beat India in thrilling first Test finale
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 22:33 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/sports/2025/6/24/england-beat-india-in-thrilling-first-test-finale?traffic_source=rss](https://www.aljazeera.com/sports/2025/6/24/england-beat-india-in-thrilling-first-test-finale?traffic_source=rss)  
-
-England take 1-0 lead in five-match cricket series vs India; Ben Duckett&#039;s ton leads 10th highest chase in Test history.
-
----
-
-## US whistleblower accuses Trump officials of willfully ignoring court orders
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 22:28 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/24/us-whistleblower-accuses-trump-officials-of-willfully-ignoring-court-orders?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/us-whistleblower-accuses-trump-officials-of-willfully-ignoring-court-orders?traffic_source=rss)  
-
-Ex-Justice Department lawyer Erez Reuveni has alleged US deportation flights were ordered to depart &#039;no matter what&#039;.
-
----
-
 ## Watch: Lorry driver trapped in cabin after China bridge collapse
 **Source:** BBC News  
 **Published:** 2025-06-24 22:12 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/videos/c6256qk099wo](https://www.bbc.com/news/videos/c6256qk099wo)  
 
 Local authorities said the driver was rescued with no injuries after heavy rainfall caused landslides in the region.
-
----
-
-## Is the 12-day Israel-Iran war really over – and who gained what?
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 22:09 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/24/is-the-12-day-israel-iran-war-really-over-and-who-gained?traffic_source=rss](https://www.aljazeera.com/news/2025/6/24/is-the-12-day-israel-iran-war-really-over-and-who-gained?traffic_source=rss)  
-
-A Trump-brokered ceasefire is in place for now. But what really happened – and did any side emerge stronger?
-
----
-
-## Israel, Iran in shaky ceasefire as Trump lashes out at both
-**Source:** Al Jazeera  
-**Published:** 2025-06-24 21:53 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/24/israel-iran-in-shaky-ceasefire-as-trump-lashes-out-at-both-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/24/israel-iran-in-shaky-ceasefire-as-trump-lashes-out-at-both-2?traffic_source=rss)  
-
-A confused sequence of events has led to a deeply angered Donald Trump and a shaky ceasefire between Israel and Iran.
 
 ---
 
@@ -155,15 +182,6 @@ The 39-year-old is a convicted sexual offender who is wanted in the UK, French p
 
 ---
 
-## Millions swelter as heatwave descends on North America
-**Source:** BBC News  
-**Published:** 2025-06-24 19:27 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c1jwg2038jdo](https://www.bbc.com/news/articles/c1jwg2038jdo)  
-
-Experts warn that the  soaring temperatures could aggravate the risk of heat-related illness, especially due to high humidity levels.
-
----
-
 ## Brazilian tourist who fell off Indonesian volcano found dead
 **Source:** BBC News  
 **Published:** 2025-06-24 19:09 (Tehran Time)  
@@ -179,15 +197,6 @@ Juliana Marins survived the initial fall during an early morning hike along a tr
 **Link:** [https://www.bbc.com/news/articles/cd0vjr07570o](https://www.bbc.com/news/articles/cd0vjr07570o)  
 
 No Space for Bezos activist group tells BBC they are "very proud of this".
-
----
-
-## Russian missile strikes kill 17 in Ukraine's Dnipropetrovsk region
-**Source:** BBC News  
-**Published:** 2025-06-24 18:50 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/cr4w6kwvgg6o](https://www.bbc.com/news/articles/cr4w6kwvgg6o)  
-
-President Zelensky said at least 100 more were injured in a Russian ballistic missile strike.
 
 ---
 
@@ -260,15 +269,6 @@ President Zelensky said at least 100 more were injured in a Russian ballistic mi
 **Link:** [https://www.theguardian.com/uk-news/2025/jun/18/person-dies-of-rabies-in-yorkshire-after-contact-with-dog-in-morocco](https://www.theguardian.com/uk-news/2025/jun/18/person-dies-of-rabies-in-yorkshire-after-contact-with-dog-in-morocco)  
 
 <p>Yvonne Ford, from Barnsley, had contact with stray animal while on holiday, UK Health Security Agency says</p><p>A woman from Yorkshire has died from rabies after contact with a stray dog while on holiday in Morocco, the UK Health Security Agency (UKHSA) has said.</p><p>Yvonne Ford, from Barnsley in South Yorkshire, was diagnosed in Yorkshire and Humber after returning from the north African country in February.</p> <a href="https://www.theguardian.com/uk-news/2025/jun/18/person-dies-of-rabies-in-yorkshire-after-contact-with-dog-in-morocco">Continue reading...</a>
-
----
-
-## Discarded clothes from UK brands dumped in protected Ghana wetlands
-**Source:** The Guardian  
-**Published:** 2025-06-18 08:30 (Tehran Time)  
-**Link:** [https://www.theguardian.com/world/2025/jun/18/discarded-clothes-from-uk-brands-dumped-in-protected-ghana-wetlands](https://www.theguardian.com/world/2025/jun/18/discarded-clothes-from-uk-brands-dumped-in-protected-ghana-wetlands)  
-
-<p>Garments thrown out by consumers from Next, George, M&amp;S and others found in or near conservation areas</p><p>Clothes discarded by UK consumers and shipped to Ghana have been found in a huge rubbish dump in protected wetlands, an investigation has found.</p><p>Reporters for Unearthed working with Greenpeace Africa found garments from Next in the dump and other sites, and items from George at Asda and Marks &amp; Spencer washed up nearby.</p> <a href="https://www.theguardian.com/world/2025/jun/18/discarded-clothes-from-uk-brands-dumped-in-protected-ghana-wetlands">Continue reading...</a>
 
 ---
 
