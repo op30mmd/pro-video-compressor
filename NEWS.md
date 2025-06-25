@@ -1,6 +1,6 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-25 08:04:23 +0330_
+_Last updated: 2025-06-25 08:55:44 +0330_
 
 ## Australian journalist wins unfair dismissal case over Gaza post
 **Source:** BBC News  
