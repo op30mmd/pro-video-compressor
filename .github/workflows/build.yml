@@ -11,6 +11,7 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
+        # Using a stable, compatible version of Ubuntu.
         os: [ubuntu-22.04, macos-latest, windows-latest]
         qt_version: ['6.5.0']
 
@@ -67,20 +68,17 @@ jobs:
         wget -c -nv "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
         chmod a+x linuxdeployqt-continuous-x86_64.AppImage
 
-        # Create the full AppDir structure
         mkdir -p AppDir/usr/bin
-        mkdir -p AppDir/usr/share/icons/hicolor/256x256/apps
         
-        # Copy binaries
         cp build/VideoCompressor AppDir/usr/bin/
         cp $(which ffmpeg) AppDir/usr/bin/
         cp $(which ffprobe) AppDir/usr/bin/
         
         # --- THE DEFINITIVE FIX ---
-        # Copy the icon into the standard location
-        cp videocompressor.svg AppDir/usr/share/icons/hicolor/256x256/apps/videocompressor.svg
+        # Copy the icon directly into the AppDir root, as requested by the tool's log.
+        cp videocompressor.svg AppDir/videocompressor.svg
 
-        # Create the .desktop file
+        # Create the .desktop file in the AppDir root.
         echo "[Desktop Entry]" > AppDir/videocompressor.desktop
         echo "Name=Pro Video Compressor" >> AppDir/videocompressor.desktop
         echo "Exec=VideoCompressor" >> AppDir/videocompressor.desktop
