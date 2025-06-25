@@ -1,25 +1,49 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-25 12:59:17 +0330_
+_Last updated: 2025-06-25 13:57:55 +0330_
 
-## Kenya: people plan to march across country to honour those killed in 2024’s anti-government protests – live
+## Kenya: people protest to honour those killed in 2024’s anti-government demonstrations – live
 **Source:** The Guardian  
-**Published:** 2025-06-25 12:41 (Tehran Time)  
+**Published:** 2025-06-25 13:42 (Tehran Time)  
 **Link:** [https://www.theguardian.com/world/live/2025/jun/25/kenya-march-2024-government-protests-anniversary-nairobi-latest-live-news](https://www.theguardian.com/world/live/2025/jun/25/kenya-march-2024-government-protests-anniversary-nairobi-latest-live-news)  
 
-<p>Wednesday marks the one-year anniversary of the parliament in Nairobi being stormed by protesters, which saw 60 people killed and many disappearing</p><p><strong>Parliament and the president’s office in Kenya’s capital, Nairobi, have been barricaded on Wednesday ahead of the protests, the Associated Press (AP) reports.</strong>
- <br />
- <br />
- There was a heavy police presence and the roads leading to parliament were barricaded with razor wire, as was <strong>president William Ruto’s</strong> statehouse office.
- <br />
- <br />
- During last year’s protests, demonstrators stormed parliament, burning part of the building as lawmakers fled. Bodies lay in the streets, and medical workers and watchdogs said police had opened fire. The military was also deployed.
- <br />
- <br />
- Young Kenyans used social media to plan protests in remembrance of those who died last year. The government spokesperson, <strong>Isaac Mwaura,</strong> on Monday said there would be no protests, and that Wednesday was a “normal working day.”
- <br />
- <br />
- But businesses in Nairobi on Wednesday remained closed and police limited the movement of vehicles into the central business district. Hundreds of Kenyans were already on the streets early in the morning, chanting anti-government slogans as police hurled teargas cannisters at some of the crowds.</p><p>Here are some of the pictures coming to us through the wires of the latest events unfolding in <strong>Nairobi:</strong></p> <a href="https://www.theguardian.com/world/live/2025/jun/25/kenya-march-2024-government-protests-anniversary-nairobi-latest-live-news">Continue reading...</a>
+<p>Parliament buildings and president’s office in Nairobi barricaded as people protest in remembrance of those killed in last year’s demonstrations</p><p><strong>To limit the movement of people into Nairobi’s city centre, police on Wednesday morning barricaded major roads a few kilometres to the central business district.</strong></p><p>They also turned away buses and minibuses, popularly known as <em>matatus</em>, further away from the city centre.</p> <a href="https://www.theguardian.com/world/live/2025/jun/25/kenya-march-2024-government-protests-anniversary-nairobi-latest-live-news">Continue reading...</a>
+
+---
+
+## US ‘totally committed’ to Article 5, NATO chief insists on day 2 of summit
+**Source:** Al Jazeera  
+**Published:** 2025-06-25 13:32 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/25/us-totally-committed-to-article-5-nato-chief-insists-on-day-2-of-summit?traffic_source=rss](https://www.aljazeera.com/news/2025/6/25/us-totally-committed-to-article-5-nato-chief-insists-on-day-2-of-summit?traffic_source=rss)  
+
+Secretary-General Mark Rutte sought to downplay fears of wavering US commitment, predicting a &#039;transformational summit&#039;.
+
+---
+
+## Young Palestinians in Gaza turn plastic into fuel
+**Source:** Al Jazeera  
+**Published:** 2025-06-25 13:08 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/gallery/2025/6/25/young-palestinians-in-gaza-turn-plastic-into-fuel?traffic_source=rss](https://www.aljazeera.com/gallery/2025/6/25/young-palestinians-in-gaza-turn-plastic-into-fuel?traffic_source=rss)  
+
+Displaced Gaza youth make fuel from plastic to survive amid war and widespread hunger.
+
+---
+
+## I’m in northern Gaza. I would rather starve than take GHF aid
+**Source:** Al Jazeera  
+**Published:** 2025-06-25 12:58 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/opinions/2025/6/25/im-in-northern-gaza-i-would-rather-starve-than-take-ghf-aid?traffic_source=rss](https://www.aljazeera.com/opinions/2025/6/25/im-in-northern-gaza-i-would-rather-starve-than-take-ghf-aid?traffic_source=rss)  
+
+No amount of hunger would push me to seek aid wrapped in blood and humiliation.
+
+---
+
+## Thousands rally in Kenya to mark anniversary of antitax demonstrations
+**Source:** Al Jazeera  
+**Published:** 2025-06-25 12:34 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/25/thousands-rally-in-kenya-to-mark-anniversary-of-antitax-demonstrations?traffic_source=rss](https://www.aljazeera.com/news/2025/6/25/thousands-rally-in-kenya-to-mark-anniversary-of-antitax-demonstrations?traffic_source=rss)  
+
+Rights groups say at least 60 people were killed last year by security forces in protests against planned tax rises.
 
 ---
 
@@ -95,48 +119,12 @@ Campaigning on cost of living issues, Mamdani beat out ex-governor Andrew Cuomo 
 
 ---
 
-## Russia-Ukraine war: List of key events, day 1,217
-**Source:** Al Jazeera  
-**Published:** 2025-06-25 10:22 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/25/russia-ukraine-war-list-of-key-events-day-1217?traffic_source=rss](https://www.aljazeera.com/news/2025/6/25/russia-ukraine-war-list-of-key-events-day-1217?traffic_source=rss)  
-
-Here are the key events on day 1,217 of Russia’s war on Ukraine.
-
----
-
-## Gout Gout breaks own 200m record; beats Bolt’s Golden Spike debut time
-**Source:** Al Jazeera  
-**Published:** 2025-06-25 10:20 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/sports/2025/6/25/gout-gout-breaks-own-200m-record-beats-bolts-golden-spike-debut-time?traffic_source=rss](https://www.aljazeera.com/sports/2025/6/25/gout-gout-breaks-own-200m-record-beats-bolts-golden-spike-debut-time?traffic_source=rss)  
-
-The 17-year-old Australian Sudanese sprinter clocked 20.02 seconds to break the Australian national record once again.
-
----
-
 ## India sends its first astronaut into space in 41 years
 **Source:** BBC News  
 **Published:** 2025-06-25 10:08 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/cz09lx2gjm4o](https://www.bbc.com/news/articles/cz09lx2gjm4o)  
 
 Group Captain Shubhanshu Shukla has become only the second Indian to travel to space.
-
----
-
-## Chelsea beat ES Tunis, Benfica stun Bayern in FIFA Club World Cup
-**Source:** Al Jazeera  
-**Published:** 2025-06-25 09:48 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/sports/2025/6/25/chelsea-beat-es-tunis-benfica-stun-bayern-in-fifa-club-world-cup?traffic_source=rss](https://www.aljazeera.com/sports/2025/6/25/chelsea-beat-es-tunis-benfica-stun-bayern-in-fifa-club-world-cup?traffic_source=rss)  
-
-Benfica beat Bayern Munich, but both sides progress from Group C, while minnows Auckland draw 1-1 with Boca Juniors.
-
----
-
-## India forcibly sterilised 8m men: One village remembers, 50 years later
-**Source:** Al Jazeera  
-**Published:** 2025-06-25 09:20 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/features/2025/6/25/india-forcibly-sterilised-eight-m-men-one-village-remembers-fifty-years-later?traffic_source=rss](https://www.aljazeera.com/features/2025/6/25/india-forcibly-sterilised-eight-m-men-one-village-remembers-fifty-years-later?traffic_source=rss)  
-
-The imposition of a state of national emergency on June 25, 1975, was India&#039;s closest brush with dictatorship.
 
 ---
 
