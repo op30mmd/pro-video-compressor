@@ -1,13 +1,58 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-25 13:57:55 +0330_
+_Last updated: 2025-06-25 14:51:52 +0330_
 
-## Kenya: people protest to honour those killed in 2024’s anti-government demonstrations – live
+## Kenya: at least 10 injured during protests in Nairobi as government orders halt to broadcast coverage – live
 **Source:** The Guardian  
-**Published:** 2025-06-25 13:42 (Tehran Time)  
+**Published:** 2025-06-25 14:42 (Tehran Time)  
 **Link:** [https://www.theguardian.com/world/live/2025/jun/25/kenya-march-2024-government-protests-anniversary-nairobi-latest-live-news](https://www.theguardian.com/world/live/2025/jun/25/kenya-march-2024-government-protests-anniversary-nairobi-latest-live-news)  
 
-<p>Parliament buildings and president’s office in Nairobi barricaded as people protest in remembrance of those killed in last year’s demonstrations</p><p><strong>To limit the movement of people into Nairobi’s city centre, police on Wednesday morning barricaded major roads a few kilometres to the central business district.</strong></p><p>They also turned away buses and minibuses, popularly known as <em>matatus</em>, further away from the city centre.</p> <a href="https://www.theguardian.com/world/live/2025/jun/25/kenya-march-2024-government-protests-anniversary-nairobi-latest-live-news">Continue reading...</a>
+<p>Casualties arrive at Kenyatta national hospital, Nairobi, as parliament buildings barricaded and government orders TV and radio stations to stop coverage</p><p>Pictures from <strong>Nairobi city centre</strong> show police firing water cannon at protesters:</p><p>The protests on 25 June 2024 saw police relying on teargas and water cannon to disperse the crowd of thousands of protesters.</p> <a href="https://www.theguardian.com/world/live/2025/jun/25/kenya-march-2024-government-protests-anniversary-nairobi-latest-live-news">Continue reading...</a>
+
+---
+
+## Eurostar passengers face severe delays and cancellations after cable theft
+**Source:** BBC News  
+**Published:** 2025-06-25 14:36 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/c4gedxe7wnro](https://www.bbc.com/news/articles/c4gedxe7wnro)  
+
+Passengers are being told to cancel or postpone their trips, following two track deaths and the theft of copper cables.
+
+---
+
+## Nato set to agree big spike in defence spending at 'historic summit'
+**Source:** BBC News  
+**Published:** 2025-06-25 14:35 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/cj4en8djwyko](https://www.bbc.com/news/articles/cj4en8djwyko)  
+
+Nato leaders are meeting in The Hague to decide on ramping up defence spending to 5% of their countries' economic output.
+
+---
+
+## Trump compares Iran strikes to Hiroshima and Nagasaki
+**Source:** Al Jazeera  
+**Published:** 2025-06-25 14:27 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/25/trump-compares-iran-strikes-to-hiroshima-and-nagasaki?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/25/trump-compares-iran-strikes-to-hiroshima-and-nagasaki?traffic_source=rss)  
+
+US President Donald Trump has compared the US strikes in Iran to the nuclear bombs dropped on Hiroshima and Nagasaki,
+
+---
+
+## UFC 317: Topuria vs Oliveira – Start time, fight card, how to watch, venue
+**Source:** Al Jazeera  
+**Published:** 2025-06-25 14:24 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/sports/2025/6/25/ufc-317-topuria-vs-oliveira-start-time-fight-card-how-to-watch-venue?traffic_source=rss](https://www.aljazeera.com/sports/2025/6/25/ufc-317-topuria-vs-oliveira-start-time-fight-card-how-to-watch-venue?traffic_source=rss)  
+
+IIia Topuria aka &#039;el Matador&#039; clashes with Charles Oliveira aka &#039;Do Bronx&#039; for the lightweight title at UFC 317 in US.
+
+---
+
+## Court says Australian broadcaster ABC wrongfully dismissed journalist
+**Source:** Al Jazeera  
+**Published:** 2025-06-25 14:04 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/25/court-says-australian-broadcaster-abc-wrongfully-dismissed-journalist?traffic_source=rss](https://www.aljazeera.com/news/2025/6/25/court-says-australian-broadcaster-abc-wrongfully-dismissed-journalist?traffic_source=rss)  
+
+Journalist Antoinette Lattouf had been fired in December 2023 for expressing views supporting Palestine.
 
 ---
 
@@ -74,48 +119,12 @@ The US bombed Iran’s nuclear sites Fordow, Natanz and Isfahan on June 22.
 
 ---
 
-## Leaders gather in Hague as Nato chief Rutte says higher spending top priority
-**Source:** BBC News  
-**Published:** 2025-06-25 10:51 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c4gd98qry6jo](https://www.bbc.com/news/articles/c4gd98qry6jo)  
-
-Nato leaders are set to commit to a big hike in defence spending and the Secretary General has said there is no alternative.
-
----
-
-## Zohran Mamdani claims victory in NYC Democratic mayoral primary
-**Source:** Al Jazeera  
-**Published:** 2025-06-25 10:34 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/video/newsfeed/2025/6/25/zohran-mamdani-claims-victory-in-nyc-democratic-mayoral-primary?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2025/6/25/zohran-mamdani-claims-victory-in-nyc-democratic-mayoral-primary?traffic_source=rss)  
-
-Video shows Zohran Mamdani declaring victory in New York City’s Democratic mayoral primary after Andrew Cuomo conceded.
-
----
-
 ## British man charged over mock Disneyland wedding to child had been investigated by BBC
 **Source:** BBC News  
 **Published:** 2025-06-25 10:31 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/c62gq269jv7o](https://www.bbc.com/news/articles/c62gq269jv7o)  
 
 Jacky Jhaj, a convicted paedophile, has staged several elaborate productions involving children and young people since he was released from prison.
-
----
-
-## Vietnam ends death penalty for crimes against the state, bribery, drugs
-**Source:** Al Jazeera  
-**Published:** 2025-06-25 10:31 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/25/vietnam-ends-death-penalty-for-crimes-against-the-state-bribery-drugs?traffic_source=rss](https://www.aljazeera.com/news/2025/6/25/vietnam-ends-death-penalty-for-crimes-against-the-state-bribery-drugs?traffic_source=rss)  
-
-The death sentence has been removed from eight criminal offences and replaced with life imprisonment for offenders.
-
----
-
-## Zohran Mamdani set to become Democratic candidate in New York mayoral race
-**Source:** Al Jazeera  
-**Published:** 2025-06-25 10:27 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/25/zohran-mamdani-set-to-become-democratic-candidate-in-new-york-mayoral-race?traffic_source=rss](https://www.aljazeera.com/news/2025/6/25/zohran-mamdani-set-to-become-democratic-candidate-in-new-york-mayoral-race?traffic_source=rss)  
-
-Campaigning on cost of living issues, Mamdani beat out ex-governor Andrew Cuomo and his $25m super PAC.
 
 ---
 
@@ -188,15 +197,6 @@ Mr Combs also told the judge he would not take the stand in his defence as part 
 **Link:** [https://www.bbc.com/news/articles/c3vdpeq606do](https://www.bbc.com/news/articles/c3vdpeq606do)  
 
 From an attack on a US air base to a fragile ceasefire, this is how the Middle East conflict changed overnight.
-
----
-
-## Brazilian tourist who fell off Indonesian volcano found dead
-**Source:** BBC News  
-**Published:** 2025-06-24 19:09 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/articles/c939q6k1ewwo](https://www.bbc.com/news/articles/c939q6k1ewwo)  
-
-Juliana Marins survived the initial fall during an early morning hike along a trail on Mount Rinjani.
 
 ---
 
