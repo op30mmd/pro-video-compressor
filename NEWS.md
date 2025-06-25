@@ -1,6 +1,36 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-25 12:04:23 +0330_
+_Last updated: 2025-06-25 12:59:17 +0330_
+
+## Kenya: people plan to march across country to honour those killed in 2024’s anti-government protests – live
+**Source:** The Guardian  
+**Published:** 2025-06-25 12:41 (Tehran Time)  
+**Link:** [https://www.theguardian.com/world/live/2025/jun/25/kenya-march-2024-government-protests-anniversary-nairobi-latest-live-news](https://www.theguardian.com/world/live/2025/jun/25/kenya-march-2024-government-protests-anniversary-nairobi-latest-live-news)  
+
+<p>Wednesday marks the one-year anniversary of the parliament in Nairobi being stormed by protesters, which saw 60 people killed and many disappearing</p><p><strong>Parliament and the president’s office in Kenya’s capital, Nairobi, have been barricaded on Wednesday ahead of the protests, the Associated Press (AP) reports.</strong>
+ <br />
+ <br />
+ There was a heavy police presence and the roads leading to parliament were barricaded with razor wire, as was <strong>president William Ruto’s</strong> statehouse office.
+ <br />
+ <br />
+ During last year’s protests, demonstrators stormed parliament, burning part of the building as lawmakers fled. Bodies lay in the streets, and medical workers and watchdogs said police had opened fire. The military was also deployed.
+ <br />
+ <br />
+ Young Kenyans used social media to plan protests in remembrance of those who died last year. The government spokesperson, <strong>Isaac Mwaura,</strong> on Monday said there would be no protests, and that Wednesday was a “normal working day.”
+ <br />
+ <br />
+ But businesses in Nairobi on Wednesday remained closed and police limited the movement of vehicles into the central business district. Hundreds of Kenyans were already on the streets early in the morning, chanting anti-government slogans as police hurled teargas cannisters at some of the crowds.</p><p>Here are some of the pictures coming to us through the wires of the latest events unfolding in <strong>Nairobi:</strong></p> <a href="https://www.theguardian.com/world/live/2025/jun/25/kenya-march-2024-government-protests-anniversary-nairobi-latest-live-news">Continue reading...</a>
+
+---
+
+## 12 posts from ‘12 day war’: How Trump live-posted Israel-Iran conflict
+**Source:** Al Jazeera  
+**Published:** 2025-06-25 12:18 (Tehran Time)  
+**Link:** [https://www.aljazeera.com/news/2025/6/25/12-posts-from-12-day-war-how-trump-live-posted-israel-iran-conflict?traffic_source=rss](https://www.aljazeera.com/news/2025/6/25/12-posts-from-12-day-war-how-trump-live-posted-israel-iran-conflict?traffic_source=rss)  
+
+The US president, always busy on social media, was extra communicative during the recent Israel-Iran conflict.
+
+---
 
 ## UK to buy 12 F-35A fighter jets capable of carrying nuclear weapons
 **Source:** Al Jazeera  
@@ -83,7 +113,7 @@ The 17-year-old Australian Sudanese sprinter clocked 20.02 seconds to break the 
 
 ---
 
-## India sends its first astronaut into space after 41 years
+## India sends its first astronaut into space in 41 years
 **Source:** BBC News  
 **Published:** 2025-06-25 10:08 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/cz09lx2gjm4o](https://www.bbc.com/news/articles/cz09lx2gjm4o)  
@@ -143,15 +173,6 @@ The White House called the initial damage evaluation on Iran's uranium stockpile
 **Link:** [https://www.theguardian.com/world/2025/jun/25/fears-of-unrest-as-kenyans-mark-first-anniversary-of-storming-of-parliament](https://www.theguardian.com/world/2025/jun/25/fears-of-unrest-as-kenyans-mark-first-anniversary-of-storming-of-parliament)  
 
 <p>Nationwide marches planned in honour of those killed during anti-government protests</p><p>Kenyans plan to march countrywide on Wednesday, the first anniversary of the historic storming of parliament by protesters, to honour those killed during last year’s anti-government protests, but there are fears that the march could escalate into unrest.</p><p>Rights activists, family members of killed and missing protesters, and young Kenyans, who were the main drivers of last year’s protests, have mobilised online and offline, with opposition leaders terming the day a “people’s public holiday” and the government warning against attempts to disrupt public order.</p> <a href="https://www.theguardian.com/world/2025/jun/25/fears-of-unrest-as-kenyans-mark-first-anniversary-of-storming-of-parliament">Continue reading...</a>
-
----
-
-## US sanctions alleged leader of Venezuelan gang Tren de Aragua
-**Source:** Al Jazeera  
-**Published:** 2025-06-25 03:55 (Tehran Time)  
-**Link:** [https://www.aljazeera.com/news/2025/6/25/us-sanctions-alleged-leader-of-venezuelan-gang-tren-de-aragua?traffic_source=rss](https://www.aljazeera.com/news/2025/6/25/us-sanctions-alleged-leader-of-venezuelan-gang-tren-de-aragua?traffic_source=rss)  
-
-The State Department has offered up to $3m for information leading to the arrest of Giovanni Vicente Mosquera Serrano.
 
 ---
 
@@ -260,15 +281,6 @@ No Space for Bezos activist group tells BBC they are "very proud of this".
 **Link:** [https://www.theguardian.com/world/2025/jun/19/ordinary-zambians-lose-out-twice-to-global-looting-and-local-corruption](https://www.theguardian.com/world/2025/jun/19/ordinary-zambians-lose-out-twice-to-global-looting-and-local-corruption)  
 
 <p><strong>Emmanuel Mwamba </strong>and <strong>Fiona Mulaisho</strong> respond to an editorial on US aid cuts to Zambia and huge sums taken out of the country by multinationals</p><p>Your editorial (<a href="https://www.theguardian.com/commentisfree/2025/jun/10/the-guardian-view-on-zambias-trumpian-predicament-us-aid-cuts-are-dwarfed-by-a-far-bigger-heist">The Guardian view on Zambia’s Trumpian predicament: US aid cuts are dwarfed by a far bigger heist, 10 January</a>) highlights research by Prof Andrew Fischer, and the exploitation of Zambia’s commodity resources via illicit financial schemes. Many Zambians have raised the issue of this looting for years, but have met coordinated resistance. Consequently, Zambia’s treasury loses billions of dollars in revenue. These losses are driven by well-known multinationals working in concert with certain insiders close&nbsp;to the Zambian state.</p><p>Your editorial also says: “The US decision to cut $50m a year in aid to Zambia … is dreadful, and the reason given, corruption, rings hollow.” Alas, I disagree and wish to place this in context.</p> <a href="https://www.theguardian.com/world/2025/jun/19/ordinary-zambians-lose-out-twice-to-global-looting-and-local-corruption">Continue reading...</a>
-
----
-
-## Woman dies of rabies in Yorkshire after contact with dog in Morocco
-**Source:** The Guardian  
-**Published:** 2025-06-18 18:34 (Tehran Time)  
-**Link:** [https://www.theguardian.com/uk-news/2025/jun/18/person-dies-of-rabies-in-yorkshire-after-contact-with-dog-in-morocco](https://www.theguardian.com/uk-news/2025/jun/18/person-dies-of-rabies-in-yorkshire-after-contact-with-dog-in-morocco)  
-
-<p>Yvonne Ford, from Barnsley, had contact with stray animal while on holiday, UK Health Security Agency says</p><p>A woman from Yorkshire has died from rabies after contact with a stray dog while on holiday in Morocco, the UK Health Security Agency (UKHSA) has said.</p><p>Yvonne Ford, from Barnsley in South Yorkshire, was diagnosed in Yorkshire and Humber after returning from the north African country in February.</p> <a href="https://www.theguardian.com/uk-news/2025/jun/18/person-dies-of-rabies-in-yorkshire-after-contact-with-dog-in-morocco">Continue reading...</a>
 
 ---
 
