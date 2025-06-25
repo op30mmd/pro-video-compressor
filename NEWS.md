@@ -1,13 +1,22 @@
 # Uncensored News Update
 
-_Last updated: 2025-06-25 07:22:48 +0330_
+_Last updated: 2025-06-25 08:04:23 +0330_
 
 ## Australian journalist wins unfair dismissal case over Gaza post
 **Source:** BBC News  
-**Published:** 2025-06-25 06:39 (Tehran Time)  
+**Published:** 2025-06-25 07:46 (Tehran Time)  
 **Link:** [https://www.bbc.com/news/articles/cj4exrwj8pjo](https://www.bbc.com/news/articles/cj4exrwj8pjo)  
 
 The judge found the ABC did not give Antoinette Lattouf a chance to defend herself before she was fired
+
+---
+
+## Dozens hospitalised as heatwave descends on North America
+**Source:** BBC News  
+**Published:** 2025-06-25 07:29 (Tehran Time)  
+**Link:** [https://www.bbc.com/news/articles/c1jwg2038jdo](https://www.bbc.com/news/articles/c1jwg2038jdo)  
+
+150 people were sickened at outdoor graduation ceremonies in New Jersey due to the sweltering conditions.
 
 ---
 
@@ -152,15 +161,6 @@ Donald Trump said he does not want regime change in Iran and claimed nuclear wea
 **Link:** [https://www.aljazeera.com/video/inside-story/2025/6/24/will-israel-and-iran-stop-fighting?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2025/6/24/will-israel-and-iran-stop-fighting?traffic_source=rss)  
 
 US President Donald Trump urges Israel and Iran to stick to their agreed ceasefire.
-
----
-
-## Watch: Lorry driver trapped in cabin after China bridge collapse
-**Source:** BBC News  
-**Published:** 2025-06-24 22:12 (Tehran Time)  
-**Link:** [https://www.bbc.com/news/videos/c6256qk099wo](https://www.bbc.com/news/videos/c6256qk099wo)  
-
-Local authorities said the driver was rescued with no injuries after heavy rainfall caused landslides in the region.
 
 ---
 
