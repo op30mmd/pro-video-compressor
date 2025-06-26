@@ -25,9 +25,21 @@
 
 // Reverted to the default constructor
 MainWindow::MainWindow(QWidget *parent)
-    : QMainWindow(parent), ffmpegProcess(new QProcess(this))
+    : QMainWindow(parent), ffmpegProcess(new QProcess(this)), ffprobeProcess(new QProcess(this))
 {
+    setWindowOpacity(0);
     setupUi();
+
+    windowOpacityAnimation = new QPropertyAnimation(this, "windowOpacity");
+    windowOpacityAnimation->setDuration(500); // 0.5 seconds
+    windowOpacityAnimation->setStartValue(0);
+    windowOpacityAnimation->setEndValue(1);
+    windowOpacityAnimation->setEasingCurve(QEasingCurve::OutCubic);
+    windowOpacityAnimation->start();
+
+    connect(ffmpegProcess, &QProcess::readyReadStandardError, this, &MainWindow::onProcessReadyReadStandardError);
+    connect(ffmpegProcess, &QProcess::finished, this, &MainWindow::onProcessFinished);
+    connect(ffprobeProcess, &QProcess::finished, this, &MainWindow::onFFprobeFinished);
 }
 
 MainWindow::~MainWindow()
@@ -47,9 +59,11 @@ void MainWindow::setupUi()
     QVBoxLayout *mainVLayout = new QVBoxLayout(centralWidget);
     mainVLayout->setContentsMargins(10, 10, 10, 10); // Add some margins
 
-    QScrollArea *scrollArea = new QScrollArea();
+    scrollArea = new QScrollArea();
     scrollArea->setWidgetResizable(true);
     scrollArea->setFrameShape(QFrame::NoFrame);
+    scrollArea->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
+    scrollArea->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
 
     QWidget *contentWidget = new QWidget();
     scrollArea->setWidget(contentWidget);
@@ -62,8 +76,8 @@ void MainWindow::setupUi()
     QGroupBox *fileGroupBox = new QGroupBox("Input & Output");
     QFormLayout *fileLayout = new QFormLayout(fileGroupBox);
     fileLayout->setFieldGrowthPolicy(QFormLayout::ExpandingFieldsGrow);
-    addFilesButton = new QPushButton(QIcon::fromTheme("document-open"), " Add Video Files...");
-    QPushButton *removeFilesButton = new QPushButton(QIcon::fromTheme("edit-delete"), " Remove Selected");
+    addFilesButton = new QPushButton(style()->standardIcon(QStyle::SP_FileIcon), " Add Video Files...");
+    QPushButton *removeFilesButton = new QPushButton(style()->standardIcon(QStyle::SP_TrashIcon), " Remove Selected");
     QHBoxLayout *addRemoveLayout = new QHBoxLayout();
     addRemoveLayout->addWidget(addFilesButton);
     addRemoveLayout->addWidget(removeFilesButton);
@@ -71,7 +85,7 @@ void MainWindow::setupUi()
     fileListWidget = new QListWidget();
     fileListWidget->setSelectionMode(QAbstractItemView::ExtendedSelection);
     fileLayout->addRow(fileListWidget);
-    selectOutputDirButton = new QPushButton(QIcon::fromTheme("folder-open"), " Output Directory...");
+    selectOutputDirButton = new QPushButton(style()->standardIcon(QStyle::SP_DirIcon), " Output Directory...");
     outputDirLineEdit = new QLineEdit();
     outputDirLineEdit->setPlaceholderText("Select an output folder");
     outputDirLineEdit->setReadOnly(true);
@@ -150,10 +164,10 @@ void MainWindow::setupUi()
     outputLayout->addRow(new QLabel("Filename Suffix:"), outputSuffixLineEdit);
 
     QHBoxLayout *controlLayout = new QHBoxLayout();
-    compressButton = new QPushButton("Compress");
+    compressButton = new QPushButton(style()->standardIcon(QStyle::SP_DialogApplyButton), "Compress");
     compressButton->setObjectName("compressButton");
     compressButton->setEnabled(false);
-    cancelButton = new QPushButton("Cancel");
+    cancelButton = new QPushButton(style()->standardIcon(QStyle::SP_DialogCancelButton), "Cancel");
     cancelButton->setObjectName("cancelButton");
     cancelButton->setEnabled(false);
     controlLayout->addStretch();
@@ -165,6 +179,7 @@ void MainWindow::setupUi()
     logTextEdit->setMinimumHeight(150);
     logTextEdit->setReadOnly(true);
     logTextEdit->setFontFamily("monospace");
+    logTextEdit->setStyleSheet("QTextEdit { overflow: hidden; } QTextEdit::verticalScrollBar { width: 0px; } QTextEdit::horizontalScrollBar { height: 0px; }");
     statusLabel = new QLabel("Ready");
 
     contentVLayout->addWidget(fileGroupBox);
@@ -392,11 +407,14 @@ void MainWindow::startNextCompression()
                              .arg(fileInfo.fileName()));
 
     logTextEdit->append(QString("--- Starting compression for: %1 ---\n").arg(currentInputFile));
-    currentFileDuration = getVideoDuration(currentInputFile);
-    if (currentFileDuration <= 0) {
-        logTextEdit->append("Warning: Could not determine video duration. Progress bar may not be accurate.\n");
-    }
+    progressBar->setRange(0, 0); // Set to indeterminate mode
     progressBar->setValue(0);
+
+    // Start ffprobe to get video duration asynchronously
+    QStringList ffprobeArgs;
+    ffprobeArgs << "-v" << "error" << "-show_entries" << "format=duration"
+                 << "-of" << "default=noprint_wrappers=1:nokey=1" << currentInputFile;
+    ffprobeProcess->start("ffprobe", ffprobeArgs);
 
     QStringList args;
 
@@ -459,36 +477,55 @@ void MainWindow::startNextCompression()
     ffmpegProcess->start("ffmpeg", args);
 }
 
-void MainWindow::onProcessReadyReadStandardError()
+    void MainWindow::onProcessReadyReadStandardError()
 {
-    const QString output = QString::fromLocal8Bit((*ffmpegProcess).readAllStandardError());
-    logTextEdit->append(output);
-    logTextEdit->verticalScrollBar()->setValue(logTextEdit->verticalScrollBar()->maximum());
-    QRegularExpression re("time=(\\d{2}):(\\d{2}):(\\d{2})\\.(\\d{2})");
-    QRegularExpressionMatchIterator i = re.globalMatch(output);
-    QRegularExpressionMatch match;
-    while (i.hasNext()) { match = i.next(); }
-    if (match.hasMatch()) {
-        double hours = match.captured(1).toDouble();
-        double minutes = match.captured(2).toDouble();
-        double seconds = match.captured(3).toDouble();
-        double hundredths = match.captured(4).toDouble();
-        double currentTime = (hours * 3600) + (minutes * 60) + seconds + (hundredths / 100.0);
-        if (currentFileDuration > 0) {
-            int progress = static_cast<int>((currentTime / currentFileDuration) * 100);
-            progressBar->setValue(qMin(progress, 100));
+    const QByteArray processOutput = ffmpegProcess->readAllStandardError();
+    const QString outputString = QString::fromLocal8Bit(processOutput);
+
+    if (outputString.contains("time=")) {
+        QStringList parts = outputString.split('\r');
+        double lastTime = -1.0;
+
+        for (const QString &part : parts) {
+            if (part.contains("time=")) {
+                QRegularExpression re("time=(\\d{2}):(\\d{2}):(\\d{2})\\.(\\d{2})");
+                QRegularExpressionMatch match = re.match(part);
+                if (match.hasMatch()) {
+                    double hours = match.captured(1).toDouble();
+                    double minutes = match.captured(2).toDouble();
+                    double seconds = match.captured(3).toDouble();
+                    double hundredths = match.captured(4).toDouble();
+                    lastTime = (hours * 3600) + (minutes * 60) + seconds + (hundredths / 100.0);
+                }
+            }
         }
+
+        if (lastTime > 0 && currentFileDuration > 0) {
+            int newProgress = static_cast<int>((lastTime / currentFileDuration) * 100);
+            newProgress = qMin(newProgress, 100);
+            progressBar->setValue(newProgress);
+        }
+    } else {
+        logTextEdit->append(outputString);
     }
+
+    logTextEdit->verticalScrollBar()->setValue(logTextEdit->verticalScrollBar()->maximum());
 }
 
 void MainWindow::onProcessFinished(int exitCode, QProcess::ExitStatus exitStatus)
 {
+    if (ffprobeProcess->state() == QProcess::Running) {
+        ffprobeProcess->kill();
+        ffprobeProcess->waitForFinished();
+    }
+
     if (exitStatus == QProcess::CrashExit) {
         logTextEdit->append("\n--- PROCESS CRASHED ---\n");
     } else if (exitCode != 0) {
         logTextEdit->append(QString("\n--- PROCESS FAILED with exit code %1 ---\n").arg(exitCode));
     } else {
         logTextEdit->append("\n--- PROCESS FINISHED SUCCESSFULLY ---\n");
+        progressBar->setRange(0, 100);
         progressBar->setValue(100);
     }
     if (isCompressionActive) {
@@ -496,52 +533,63 @@ void MainWindow::onProcessFinished(int exitCode, QProcess::ExitStatus exitStatus
     } else {
         statusLabel->setText("Compression cancelled.");
         setControlsEnabled(true);
+        progressBar->setRange(0, 100);
         progressBar->setValue(0);
+    }
+}
+
+void MainWindow::onFFprobeFinished(int exitCode, QProcess::ExitStatus exitStatus)
+{
+    if (exitCode == 0 && exitStatus == QProcess::NormalExit) {
+        QString output = QString::fromLocal8Bit(ffprobeProcess->readAllStandardOutput()).trimmed();
+        bool ok;
+        double duration = output.toDouble(&ok);
+        if (ok && duration > 0) {
+            currentFileDuration = duration;
+            logTextEdit->append(QString("Video duration: %1 seconds.\n").arg(currentFileDuration));
+            progressBar->setRange(0, 100); // Set to normal mode
+        } else {
+            currentFileDuration = 0; // Indicate unknown duration
+            logTextEdit->append("Warning: Could not determine video duration. Progress bar may not be accurate.\n");
+            progressBar->setRange(0, 0); // Keep indeterminate
+        }
+    } else {
+        currentFileDuration = 0; // Indicate unknown duration
+        logTextEdit->append("Error: ffprobe failed to get duration.\n");
+        logTextEdit->append(QString::fromLocal8Bit(ffprobeProcess->readAllStandardError()));
+        progressBar->setRange(0, 0); // Keep indeterminate
     }
 }
 
 void MainWindow::setControlsEnabled(bool enabled)
 {
-    // Enable/disable all child widgets of the central widget except for the log and status label
-    foreach (QObject *obj, centralWidget()->children()) {
-        QWidget *widget = qobject_cast<QWidget*>(obj);
-        if (widget && widget != logTextEdit && widget != statusLabel && widget != progressBar) {
-            widget->setEnabled(enabled);
-        }
-    }
+    addFilesButton->setEnabled(enabled);
+    selectOutputDirButton->setEnabled(enabled);
     compressButton->setEnabled(enabled);
     cancelButton->setEnabled(!enabled);
-    if (enabled) {
-        onEncoderChanged(encoderComboBox->currentIndex());
-        onAudioSettingsChanged();
-        updateCompressButtonState(); // Re-evaluate button state after enabling controls
-    }
+    settingsGroupBox->setEnabled(enabled);
+    advancedVideoGroupBox->setEnabled(enabled);
+    audioGroupBox->setEnabled(enabled);
+    outputGroupBox->setEnabled(enabled);
 }
 
-double MainWindow::getVideoDuration(const QString& filePath)
+bool MainWindow::checkFFmpegAvailability()
 {
-    QProcess ffprobeProcess;
-    QStringList args;
-    args << "-v" << "error" << "-show_entries" << "format=duration"
-         << "-of" << "default=noprint_wrappers=1:nokey=1" << filePath;
-    ffprobeProcess.start("ffprobe", args);
-    if (!ffprobeProcess.waitForFinished(10000)) {
-        logTextEdit->append("Error: ffprobe timed out while getting duration for " + filePath + ".\n");
-        return -1.0;
+    QProcess checkProcess;
+    checkProcess.start("ffmpeg", QStringList() << "-version");
+    if (!checkProcess.waitForFinished(3000)) {
+        return false;
     }
-    if (ffprobeProcess.exitCode() != 0) {
-        logTextEdit->append("Error: ffprobe failed to get duration for " + filePath + ":\n");
-        logTextEdit->append(QString::fromLocal8Bit(ffprobeProcess.readAllStandardError()));
-        return -1.0;
+
+    if (checkProcess.exitCode() != 0) {
+        return false;
     }
-    QString output = QString::fromLocal8Bit(ffprobeProcess.readAllStandardOutput()).trimmed();
-    bool ok;
-    double duration = output.toDouble(&ok);
-    return ok ? duration : -1.0;
+
+    checkProcess.start("ffprobe", QStringList() << "-version");
+    if (!checkProcess.waitForFinished(3000)) {
+        return false;
+    }
+
+    return checkProcess.exitCode() == 0;
 }
 
-bool MainWindow::checkFFmpegAvailability() {
-    bool ffmpegFound = !QStandardPaths::findExecutable("ffmpeg").isEmpty();
-    bool ffprobeFound = !QStandardPaths::findExecutable("ffprobe").isEmpty();
-    return ffmpegFound && ffprobeFound;
-}
