@@ -17,19 +17,18 @@ class QTextEdit;
 class QSpinBox;
 class QGroupBox;
 class QCheckBox;
-class QScrollArea;
 
 class MainWindow : public QMainWindow
 {
-    Q_OBJECT
+        Q_OBJECT
 
 public:
-    // Reverted to the default constructor
     explicit MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
 private slots:
     void onAddFilesClicked();
+    void onRemoveFilesClicked();
     void onSelectOutputDirectoryClicked();
     void onCompressClicked();
     void onCancelClicked();
@@ -45,6 +44,7 @@ private:
     double getVideoDuration(const QString& filePath);
     bool checkFFmpegAvailability();
     void populateGpuEncoders();
+    void updateCompressButtonState();
 
     // --- Core Members ---
     QProcess *ffmpegProcess;
@@ -54,7 +54,6 @@ private:
     bool isCompressionActive;
 
     // --- UI Elements ---
-    QScrollArea* scrollArea;
     QListWidget* fileListWidget;
     QLineEdit* outputDirLineEdit;
     QPushButton* addFilesButton;

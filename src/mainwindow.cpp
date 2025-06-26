@@ -2,6 +2,7 @@
 #include <QVBoxLayout>
 #include <QHBoxLayout>
 #include <QGridLayout>
+#include <QFormLayout>
 #include <QWidget>
 #include <QListWidget>
 #include <QLineEdit>
@@ -19,23 +20,14 @@
 #include <QStandardPaths>
 #include <QScrollBar>
 #include <QCheckBox>
+#include <QFrame>
 #include <QScrollArea>
 
 // Reverted to the default constructor
 MainWindow::MainWindow(QWidget *parent)
-    : QMainWindow(parent),
-    ffmpegProcess(nullptr),
-    currentFileDuration(0.0),
-    isCompressionActive(false)
+    : QMainWindow(parent), ffmpegProcess(new QProcess(this))
 {
-    if (!checkFFmpegAvailability()) {
-        QMessageBox::critical(this, "Error", "FFmpeg not found. Please make sure ffmpeg and ffprobe are installed and in your system's PATH.");
-    }
     setupUi();
-    populateGpuEncoders();
-    ffmpegProcess = new QProcess(this);
-    connect(ffmpegProcess, &QProcess::readyReadStandardError, this, &MainWindow::onProcessReadyReadStandardError);
-    connect(ffmpegProcess, &QProcess::finished, this, &MainWindow::onProcessFinished);
 }
 
 MainWindow::~MainWindow()
@@ -51,62 +43,57 @@ void MainWindow::setupUi()
     this->setObjectName("MainWindow");
     QWidget *centralWidget = new QWidget(this);
     setCentralWidget(centralWidget);
-    QHBoxLayout *centeringLayout = new QHBoxLayout(centralWidget);
-    centeringLayout->addStretch();
 
-    scrollArea = new QScrollArea();
+    QVBoxLayout *mainVLayout = new QVBoxLayout(centralWidget);
+    mainVLayout->setContentsMargins(10, 10, 10, 10); // Add some margins
+
+    QScrollArea *scrollArea = new QScrollArea();
     scrollArea->setWidgetResizable(true);
     scrollArea->setFrameShape(QFrame::NoFrame);
-    scrollArea->setObjectName("scrollArea");
 
     QWidget *contentWidget = new QWidget();
-    contentWidget->setObjectName("contentWidget");
-    QVBoxLayout *mainLayout = new QVBoxLayout(contentWidget);
-    mainLayout->setSpacing(15);
-
     scrollArea->setWidget(contentWidget);
-    scrollArea->setMaximumWidth(800);
+
+    QVBoxLayout *contentVLayout = new QVBoxLayout(contentWidget);
+    contentVLayout->setSpacing(15);
+
+    mainVLayout->addWidget(scrollArea, 1);
 
     QGroupBox *fileGroupBox = new QGroupBox("Input & Output");
-    QVBoxLayout *fileLayout = new QVBoxLayout(fileGroupBox);
-    addFilesButton = new QPushButton("Add Video Files...");
-    fileLayout->addWidget(addFilesButton);
+    QFormLayout *fileLayout = new QFormLayout(fileGroupBox);
+    fileLayout->setFieldGrowthPolicy(QFormLayout::ExpandingFieldsGrow);
+    addFilesButton = new QPushButton(QIcon::fromTheme("document-open"), " Add Video Files...");
+    QPushButton *removeFilesButton = new QPushButton(QIcon::fromTheme("edit-delete"), " Remove Selected");
+    QHBoxLayout *addRemoveLayout = new QHBoxLayout();
+    addRemoveLayout->addWidget(addFilesButton);
+    addRemoveLayout->addWidget(removeFilesButton);
+    fileLayout->addRow(addRemoveLayout);
     fileListWidget = new QListWidget();
     fileListWidget->setSelectionMode(QAbstractItemView::ExtendedSelection);
-    fileLayout->addWidget(fileListWidget);
-    QHBoxLayout* outputDirLayout = new QHBoxLayout();
-    selectOutputDirButton = new QPushButton("Output Directory...");
+    fileLayout->addRow(fileListWidget);
+    selectOutputDirButton = new QPushButton(QIcon::fromTheme("folder-open"), " Output Directory...");
     outputDirLineEdit = new QLineEdit();
     outputDirLineEdit->setPlaceholderText("Select an output folder");
     outputDirLineEdit->setReadOnly(true);
-    outputDirLayout->addWidget(selectOutputDirButton);
-    outputDirLayout->addWidget(outputDirLineEdit);
-    fileLayout->addLayout(outputDirLayout);
+    fileLayout->addRow(selectOutputDirButton, outputDirLineEdit);
 
-    auto createGridLayout = [](QGroupBox* box) {
-        auto layout = new QGridLayout(box);
-        layout->setColumnStretch(1, 1);
-        layout->setColumnMinimumWidth(0, 140);
-        return layout;
-    };
+    
 
     settingsGroupBox = new QGroupBox("Compression Settings");
-    auto settingsGrid = createGridLayout(settingsGroupBox);
+    QFormLayout *settingsLayout = new QFormLayout(settingsGroupBox);
+    settingsLayout->setFieldGrowthPolicy(QFormLayout::ExpandingFieldsGrow);
 
     encoderLabel = new QLabel("Encoder:");
     encoderComboBox = new QComboBox();
     encoderComboBox->addItems({"CPU (libx264)", "CPU (libhevc)"});
-    settingsGrid->addWidget(encoderLabel, 0, 0);
-    settingsGrid->addWidget(encoderComboBox, 0, 1);
+    settingsLayout->addRow(encoderLabel, encoderComboBox);
 
     presetComboBox = new QComboBox();
-    settingsGrid->addWidget(new QLabel("Preset:"), 1, 0);
-    settingsGrid->addWidget(presetComboBox, 1, 1);
+    settingsLayout->addRow(new QLabel("Preset:"), presetComboBox);
 
     scaleComboBox = new QComboBox();
     scaleComboBox->addItems({"Original", "1920x1080 (1080p)", "1280x720 (720p)"});
-    settingsGrid->addWidget(new QLabel("Resolution:"), 2, 0);
-    settingsGrid->addWidget(scaleComboBox, 2, 1);
+    settingsLayout->addRow(new QLabel("Resolution:"), scaleComboBox);
 
     QHBoxLayout *crfLayout = new QHBoxLayout();
     crfSlider = new QSlider(Qt::Horizontal);
@@ -118,30 +105,29 @@ void MainWindow::setupUi()
     crfLayout->addWidget(crfSlider);
     crfLayout->addWidget(crfSpinBox);
     crfLabel = new QLabel("Quality (CRF):");
-    settingsGrid->addWidget(crfLabel, 3, 0);
-    settingsGrid->addLayout(crfLayout, 3, 1);
+    settingsLayout->addRow(crfLabel, crfLayout);
 
     advancedVideoGroupBox = new QGroupBox("Advanced Settings");
-    auto advancedVideoGrid = createGridLayout(advancedVideoGroupBox);
+    QFormLayout *advancedVideoLayout = new QFormLayout(advancedVideoGroupBox);
+    advancedVideoLayout->setFieldGrowthPolicy(QFormLayout::ExpandingFieldsGrow);
     tuneLabel = new QLabel("Tune:");
     tuneComboBox = new QComboBox();
     tuneComboBox->addItems({"none", "film", "animation", "grain", "stillimage", "fastdecode", "zerolatency"});
-    advancedVideoGrid->addWidget(tuneLabel, 0, 0);
-    advancedVideoGrid->addWidget(tuneComboBox, 0, 1);
+    advancedVideoLayout->addRow(tuneLabel, tuneComboBox);
     pixelFormatComboBox = new QComboBox();
     pixelFormatComboBox->addItems({"yuv420p (Compatibility)", "yuv444p (Full Chroma)"});
-    advancedVideoGrid->addWidget(new QLabel("Pixel Format:"), 1, 0);
-    advancedVideoGrid->addWidget(pixelFormatComboBox, 1, 1);
+    advancedVideoLayout->addRow(new QLabel("Pixel Format:"), pixelFormatComboBox);
 
     audioGroupBox = new QGroupBox("Audio Settings");
-    auto audioGrid = createGridLayout(audioGroupBox);
+    QFormLayout *audioLayout = new QFormLayout(audioGroupBox);
+    audioLayout->setFieldGrowthPolicy(QFormLayout::ExpandingFieldsGrow);
+    audioLayout->setFieldGrowthPolicy(QFormLayout::ExpandingFieldsGrow);
     stripAudioCheckBox = new QCheckBox("Strip Audio (No Audio Track)");
-    audioGrid->addWidget(stripAudioCheckBox, 0, 0, 1, 2);
+    audioLayout->addRow(stripAudioCheckBox);
     audioCodecComboBox = new QComboBox();
     audioCodecComboBox->addItems({"AAC (Advanced Audio Coding)", "Opus", "Copy (Keep Original)"});
     audioCodecLabel = new QLabel("Audio Codec:");
-    audioGrid->addWidget(audioCodecLabel, 1, 0);
-    audioGrid->addWidget(audioCodecComboBox, 1, 1);
+    audioLayout->addRow(audioCodecLabel, audioCodecComboBox);
     QHBoxLayout *audioBitrateLayout = new QHBoxLayout();
     audioBitrateSlider = new QSlider(Qt::Horizontal);
     audioBitrateSlider->setRange(64, 320);
@@ -152,22 +138,21 @@ void MainWindow::setupUi()
     audioBitrateLayout->addWidget(audioBitrateSlider);
     audioBitrateLayout->addWidget(audioBitrateSpinBox);
     audioBitrateLabel = new QLabel("Audio Bitrate (kbps):");
-    audioGrid->addWidget(audioBitrateLabel, 2, 0);
-    audioGrid->addLayout(audioBitrateLayout, 2, 1);
+    audioLayout->addRow(audioBitrateLabel, audioBitrateLayout);
 
     outputGroupBox = new QGroupBox("Output Settings");
-    auto outputGrid = createGridLayout(outputGroupBox);
+    QFormLayout *outputLayout = new QFormLayout(outputGroupBox);
+    outputLayout->setFieldGrowthPolicy(QFormLayout::ExpandingFieldsGrow);
     outputContainerComboBox = new QComboBox();
     outputContainerComboBox->addItems({"MP4", "MKV"});
-    outputGrid->addWidget(new QLabel("Container:"), 0, 0);
-    outputGrid->addWidget(outputContainerComboBox, 0, 1);
+    outputLayout->addRow(new QLabel("Container:"), outputContainerComboBox);
     outputSuffixLineEdit = new QLineEdit("_compressed");
-    outputGrid->addWidget(new QLabel("Filename Suffix:"), 1, 0);
-    outputGrid->addWidget(outputSuffixLineEdit, 1, 1);
+    outputLayout->addRow(new QLabel("Filename Suffix:"), outputSuffixLineEdit);
 
     QHBoxLayout *controlLayout = new QHBoxLayout();
     compressButton = new QPushButton("Compress");
     compressButton->setObjectName("compressButton");
+    compressButton->setEnabled(false);
     cancelButton = new QPushButton("Cancel");
     cancelButton->setObjectName("cancelButton");
     cancelButton->setEnabled(false);
@@ -182,23 +167,23 @@ void MainWindow::setupUi()
     logTextEdit->setFontFamily("monospace");
     statusLabel = new QLabel("Ready");
 
-    mainLayout->addWidget(fileGroupBox);
-    mainLayout->addWidget(settingsGroupBox);
-    mainLayout->addWidget(advancedVideoGroupBox);
-    mainLayout->addWidget(audioGroupBox);
-    mainLayout->addWidget(outputGroupBox);
-    mainLayout->addLayout(controlLayout);
-    mainLayout->addSpacing(10);
-    mainLayout->addWidget(new QLabel("Current File Progress:"));
-    mainLayout->addWidget(progressBar);
-    mainLayout->addWidget(new QLabel("FFmpeg Log:"));
-    mainLayout->addWidget(logTextEdit);
-    mainLayout->addWidget(statusLabel);
+    contentVLayout->addWidget(fileGroupBox);
+    contentVLayout->addWidget(settingsGroupBox);
+    contentVLayout->addWidget(advancedVideoGroupBox);
+    contentVLayout->addWidget(audioGroupBox);
+    contentVLayout->addWidget(outputGroupBox);
+    contentVLayout->addLayout(controlLayout);
+    contentVLayout->addSpacing(10);
+    contentVLayout->addWidget(new QLabel("Current File Progress:"));
+    contentVLayout->addWidget(progressBar);
+    contentVLayout->addWidget(new QLabel("FFmpeg Log:"));
+    contentVLayout->addWidget(logTextEdit, 1);
+    contentVLayout->addWidget(statusLabel);
 
-    centeringLayout->addWidget(scrollArea);
-    centeringLayout->addStretch();
+    
 
     connect(addFilesButton, &QPushButton::clicked, this, &MainWindow::onAddFilesClicked);
+    connect(removeFilesButton, &QPushButton::clicked, this, &MainWindow::onRemoveFilesClicked);
     connect(selectOutputDirButton, &QPushButton::clicked, this, &MainWindow::onSelectOutputDirectoryClicked);
     connect(compressButton, &QPushButton::clicked, this, &MainWindow::onCompressClicked);
     connect(cancelButton, &QPushButton::clicked, this, &MainWindow::onCancelClicked);
@@ -315,16 +300,35 @@ void MainWindow::onAudioSettingsChanged()
     audioBitrateSpinBox->setEnabled(bitrateEnabled);
 }
 
+void MainWindow::updateCompressButtonState()
+{
+    bool filesSelected = fileListWidget->count() > 0;
+    bool outputDirSelected = !outputDirLineEdit->text().isEmpty();
+    compressButton->setEnabled(filesSelected && outputDirSelected);
+}
+
 void MainWindow::onAddFilesClicked()
 {
-    const QStringList files = QFileDialog::getOpenFileNames(
-        this, "Select Video Files", QStandardPaths::writableLocation(QStandardPaths::MoviesLocation),
-        "Video Files (*.mp4 *.mkv *.avi *.mov *.webm);;All Files (*)"
-        );
+    QStringList files = QFileDialog::getOpenFileNames(
+        this,
+        tr("Select Videos to Compress"),
+        QDir::homePath(),
+        tr("Video Files (*.mp4 *.mkv *.avi *.mov *.wmv *.flv)")
+    );
+
     if (!files.isEmpty()) {
         fileListWidget->addItems(files);
-        statusLabel->setText(QString("%1 file(s) added to the queue.").arg(files.count()));
+        updateCompressButtonState();
     }
+}
+
+void MainWindow::onRemoveFilesClicked()
+{
+    QList<QListWidgetItem*> selectedItems = fileListWidget->selectedItems();
+    foreach (QListWidgetItem* item, selectedItems) {
+        delete fileListWidget->takeItem(fileListWidget->row(item));
+    }
+    updateCompressButtonState();
 }
 
 void MainWindow::onSelectOutputDirectoryClicked()
@@ -334,21 +338,15 @@ void MainWindow::onSelectOutputDirectoryClicked()
         );
     if (!dir.isEmpty()) {
         outputDirLineEdit->setText(dir);
+        updateCompressButtonState();
     }
 }
 
 void MainWindow::onCompressClicked()
 {
-    if (fileListWidget->count() == 0) {
-        QMessageBox::warning(this, "No Files", "Please add at least one video file to the list.");
-        return;
-    }
-    if (outputDirLineEdit->text().isEmpty()) {
-        QMessageBox::warning(this, "No Output Directory", "Please select an output directory.");
-        return;
-    }
     if(!checkFFmpegAvailability()){
-        QMessageBox::critical(this, "Error", "FFmpeg not found. Cannot start compression.");
+        statusLabel->setText("Error: FFmpeg not found.");
+        logTextEdit->append("Error: FFmpeg or ffprobe not found in system PATH. Please install FFmpeg.");
         return;
     }
     fileQueue.clear();
@@ -463,7 +461,7 @@ void MainWindow::startNextCompression()
 
 void MainWindow::onProcessReadyReadStandardError()
 {
-    const QString output = QString::fromLocal8Bit(ffmpegProcess->readAllStandardError());
+    const QString output = QString::fromLocal8Bit((*ffmpegProcess).readAllStandardError());
     logTextEdit->append(output);
     logTextEdit->verticalScrollBar()->setValue(logTextEdit->verticalScrollBar()->maximum());
     QRegularExpression re("time=(\\d{2}):(\\d{2}):(\\d{2})\\.(\\d{2})");
@@ -504,12 +502,19 @@ void MainWindow::onProcessFinished(int exitCode, QProcess::ExitStatus exitStatus
 
 void MainWindow::setControlsEnabled(bool enabled)
 {
-    scrollArea->widget()->setEnabled(enabled);
+    // Enable/disable all child widgets of the central widget except for the log and status label
+    foreach (QObject *obj, centralWidget()->children()) {
+        QWidget *widget = qobject_cast<QWidget*>(obj);
+        if (widget && widget != logTextEdit && widget != statusLabel && widget != progressBar) {
+            widget->setEnabled(enabled);
+        }
+    }
     compressButton->setEnabled(enabled);
     cancelButton->setEnabled(!enabled);
     if (enabled) {
         onEncoderChanged(encoderComboBox->currentIndex());
         onAudioSettingsChanged();
+        updateCompressButtonState(); // Re-evaluate button state after enabling controls
     }
 }
 
@@ -521,11 +526,11 @@ double MainWindow::getVideoDuration(const QString& filePath)
          << "-of" << "default=noprint_wrappers=1:nokey=1" << filePath;
     ffprobeProcess.start("ffprobe", args);
     if (!ffprobeProcess.waitForFinished(10000)) {
-        logTextEdit->append("ffprobe timed out while getting duration.\n");
+        logTextEdit->append("Error: ffprobe timed out while getting duration for " + filePath + ".\n");
         return -1.0;
     }
     if (ffprobeProcess.exitCode() != 0) {
-        logTextEdit->append("ffprobe failed to get duration:\n");
+        logTextEdit->append("Error: ffprobe failed to get duration for " + filePath + ":\n");
         logTextEdit->append(QString::fromLocal8Bit(ffprobeProcess.readAllStandardError()));
         return -1.0;
     }

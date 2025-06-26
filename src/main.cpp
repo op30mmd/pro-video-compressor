@@ -7,12 +7,22 @@
 
 int main(int argc, char *argv[])
 {
-    QApplication a(argc, argv);
+        QApplication a(argc, argv);
+
+    // Enable High-DPI scaling
+    QApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
+    QApplication::setAttribute(Qt::AA_UseHighDpiPixmaps);
+    QApplication::setHighDpiScaleFactorRoundingPolicy(Qt::HighDpiScaleFactorRoundingPolicy::PassThrough);
 
     // --- The Definitive Stable Theme ---
     // This uses Qt's robust, built-in "Fusion" style with a clean dark palette.
     // It is guaranteed to be stable and consistent on all platforms.
-    QApplication::setStyle(QStyleFactory::create("Fusion"));
+    QStyle *fusionStyle = QStyleFactory::create("Fusion");
+    if (fusionStyle) {
+        QApplication::setStyle(fusionStyle);
+    } else {
+        qWarning("Fusion style not available, falling back to default.");
+    }
 
     QPalette darkPalette;
     darkPalette.setColor(QPalette::Window, QColor(53, 53, 53));

@@ -38,6 +38,7 @@ cmake_install.cmake
 .DS_Store
 Thumbs.db
 Desktop.ini
+.env
 
 # Log files
 *.log
