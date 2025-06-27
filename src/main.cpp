@@ -14,7 +14,7 @@ int main(int argc, char *argv[])
     QApplication::setAttribute(Qt::AA_UseHighDpiPixmaps);
     QApplication::setHighDpiScaleFactorRoundingPolicy(Qt::HighDpiScaleFactorRoundingPolicy::PassThrough);
 
-    
+    QApplication::setStyle("windows");
 
     // This now works because the constructor is back to the default
     MainWindow w;

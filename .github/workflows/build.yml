@@ -13,7 +13,7 @@ jobs:
       matrix:
         # Using a stable, compatible version of Ubuntu.
         os: [ubuntu-22.04, macos-latest, windows-latest]
-        qt_version: ['6.5.0']
+        qt_version: ['6.7.0']
 
     steps:
     - name: Checkout repository
