@@ -51,7 +51,7 @@ jobs:
       run: |
         mkdir dist
         cp build/Release/VideoCompressor.exe dist/
-        windeployqt.exe --no-translations dist/VideoCompressor.exe
+        windeployqt.exe --no-translations --windows-11 dist/VideoCompressor.exe
         cp "$(which ffmpeg.exe)" dist/
         cp "$(which ffprobe.exe)" dist/
         7z a -tzip VideoCompressor-Windows.zip ./dist/*

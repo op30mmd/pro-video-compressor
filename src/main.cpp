@@ -14,15 +14,21 @@ int main(int argc, char *argv[])
     QApplication::setAttribute(Qt::AA_UseHighDpiPixmaps);
     QApplication::setHighDpiScaleFactorRoundingPolicy(Qt::HighDpiScaleFactorRoundingPolicy::PassThrough);
 
-    // --- The Definitive Stable Theme ---
-    // This uses Qt's robust, built-in "Fusion" style with a clean dark palette.
-    // It is guaranteed to be stable and consistent on all platforms.
-    QStyle *fusionStyle = QStyleFactory::create("Fusion");
-    if (fusionStyle) {
-        QApplication::setStyle(fusionStyle);
-    } else {
-        qWarning("Fusion style not available, falling back to default.");
-    }
+    // Set the application style. On Windows, use the native theme for a platform-integrated
+    // look and feel. On other platforms, use the "Fusion" style for a clean, consistent appearance.
+#ifdef Q_OS_WIN
+    QApplication::setStyle("windowsvista");
+#else
+    QApplication::setStyle("Fusion");
+#endif
+
+    // Set the application style. On Windows, use the native theme for a platform-integrated
+    // look and feel. On other platforms, use the "Fusion" style for a clean, consistent appearance.
+#ifdef Q_OS_WIN
+    QApplication::setStyle("windowsvista");
+#else
+    QApplication::setStyle("Fusion");
+#endif
 
     QPalette darkPalette;
     darkPalette.setColor(QPalette::Window, QColor(53, 53, 53));
