@@ -18,6 +18,7 @@ add_executable(VideoCompressor
     src/mainwindow.h
     src/win32_helpers.h
     app.manifest
+    resources.qrc
 )
 
 # Set properties for each OS

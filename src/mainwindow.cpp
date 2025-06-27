@@ -53,45 +53,230 @@ MainWindow::~MainWindow()
 void MainWindow::setupUi()
 {
     this->setObjectName("MainWindow");
+    
+    // Set modern style sheet for the main window
+    QString mainStyle = R"(
+        QMainWindow {
+            background-color: #1e1e1e;
+            color: #ffffff;
+        }
+        QGroupBox {
+            border: 1px solid #333333;
+            border-radius: 6px;
+            margin-top: 1em;
+            padding: 8px;
+            background-color: #252525;
+        }
+        QGroupBox::title {
+            color: #ffffff;
+            subcontrol-origin: margin;
+            left: 10px;
+            padding: 0 3px 0 3px;
+        }
+        QPushButton {
+            background-color: #2d2d2d;
+            border: 1px solid #404040;
+            border-radius: 4px;
+            color: #ffffff;
+            padding: 6px 16px;
+            min-height: 24px;
+        }
+        QPushButton:hover {
+            background-color: #404040;
+            border-color: #4d4d4d;
+        }
+        QPushButton:pressed {
+            background-color: #353535;
+        }
+        QPushButton:disabled {
+            background-color: #252525;
+            color: #666666;
+            border-color: #333333;
+        }
+        QComboBox {
+            background-color: #2d2d2d;
+            border: 1px solid #404040;
+            border-radius: 4px;
+            color: #ffffff;
+            padding: 4px 8px;
+            min-height: 24px;
+        }
+        QComboBox:hover {
+            background-color: #353535;
+            border-color: #4d4d4d;
+        }
+        QComboBox::drop-down {
+            border: none;
+            width: 24px;
+        }
+        QComboBox::down-arrow {
+            image: url(:/icons/down_arrow.svg);
+        }
+        QLineEdit {
+            background-color: #2d2d2d;
+            border: 1px solid #404040;
+            border-radius: 4px;
+            color: #ffffff;
+            padding: 4px 8px;
+            min-height: 24px;
+        }
+        QLineEdit:focus {
+            border-color: #0078d4;
+        }
+        QSlider::groove:horizontal {
+            border: 1px solid #404040;
+            height: 4px;
+            background: #2d2d2d;
+            margin: 2px 0;
+            border-radius: 2px;
+        }
+        QSlider::handle:horizontal {
+            background: #0078d4;
+            border: none;
+            width: 16px;
+            height: 16px;
+            margin: -6px 0;
+            border-radius: 8px;
+        }
+        QSlider::handle:horizontal:hover {
+            background: #1084d8;
+        }
+        QCheckBox {
+            color: #ffffff;
+            spacing: 8px;
+        }
+        QCheckBox::indicator {
+            width: 18px;
+            height: 18px;
+            border: 1px solid #404040;
+            border-radius: 3px;
+            background-color: #2d2d2d;
+        }
+        QCheckBox::indicator:checked {
+            background-color: #0078d4;
+            border-color: #0078d4;
+        }
+        QListWidget {
+            background-color: #2d2d2d;
+            border: 1px solid #404040;
+            border-radius: 4px;
+            color: #ffffff;
+            padding: 4px;
+        }
+        QListWidget::item {
+            padding: 4px;
+            border-radius: 2px;
+        }
+        QListWidget::item:selected {
+            background-color: #0078d4;
+            color: #ffffff;
+        }
+        QProgressBar {
+            border: 1px solid #404040;
+            border-radius: 4px;
+            background-color: #2d2d2d;
+            text-align: center;
+            color: #ffffff;
+            min-height: 24px;
+        }
+        QProgressBar::chunk {
+            background-color: #0078d4;
+            border-radius: 3px;
+        }
+        QTextEdit {
+            background-color: #1e1e1e;
+            border: 1px solid #333333;
+            border-radius: 4px;
+            color: #d4d4d4;
+            selection-background-color: #264f78;
+            padding: 4px;
+        }
+        QLabel {
+            color: #ffffff;
+        }
+        #compressButton {
+            background-color: #0078d4;
+            border: none;
+            color: #ffffff;
+            font-weight: bold;
+        }
+        #compressButton:hover {
+            background-color: #1084d8;
+        }
+        #compressButton:pressed {
+            background-color: #006cbe;
+        }
+        #compressButton:disabled {
+            background-color: #252525;
+            color: #666666;
+        }
+        QScrollBar:vertical {
+            border: none;
+            background: #1e1e1e;
+            width: 14px;
+            margin: 0px;
+        }
+        QScrollBar::handle:vertical {
+            background: #404040;
+            min-height: 20px;
+            border-radius: 7px;
+        }
+        QScrollBar::add-line:vertical, QScrollBar::sub-line:vertical {
+            height: 0px;
+        }
+        QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
+            background: none;
+        }
+    )";
+    
+    this->setStyleSheet(mainStyle);
+
     QWidget *centralWidget = new QWidget(this);
     setCentralWidget(centralWidget);
 
     QVBoxLayout *mainVLayout = new QVBoxLayout(centralWidget);
-    mainVLayout->setContentsMargins(10, 10, 10, 10); // Add some margins
+    mainVLayout->setContentsMargins(24, 24, 24, 24);
+    mainVLayout->setSpacing(16);
 
     scrollArea = new QScrollArea();
     scrollArea->setWidgetResizable(true);
     scrollArea->setFrameShape(QFrame::NoFrame);
-    scrollArea->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
+    scrollArea->setVerticalScrollBarPolicy(Qt::ScrollBarAsNeeded);
     scrollArea->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
 
     QWidget *contentWidget = new QWidget();
     scrollArea->setWidget(contentWidget);
 
     QVBoxLayout *contentVLayout = new QVBoxLayout(contentWidget);
-    contentVLayout->setSpacing(15);
+    contentVLayout->setSpacing(16);
+    contentVLayout->setContentsMargins(0, 0, 14, 0); // Add right margin for scrollbar
 
     mainVLayout->addWidget(scrollArea, 1);
 
     QGroupBox *fileGroupBox = new QGroupBox("Input & Output");
     QFormLayout *fileLayout = new QFormLayout(fileGroupBox);
     fileLayout->setFieldGrowthPolicy(QFormLayout::ExpandingFieldsGrow);
+    fileLayout->setSpacing(12);
+    fileLayout->setContentsMargins(16, 24, 16, 16);
+
     addFilesButton = new QPushButton(style()->standardIcon(QStyle::SP_FileIcon), " Add Video Files...");
     QPushButton *removeFilesButton = new QPushButton(style()->standardIcon(QStyle::SP_TrashIcon), " Remove Selected");
     QHBoxLayout *addRemoveLayout = new QHBoxLayout();
+    addRemoveLayout->setSpacing(8);
     addRemoveLayout->addWidget(addFilesButton);
     addRemoveLayout->addWidget(removeFilesButton);
     fileLayout->addRow(addRemoveLayout);
+
     fileListWidget = new QListWidget();
     fileListWidget->setSelectionMode(QAbstractItemView::ExtendedSelection);
+    fileListWidget->setMinimumHeight(100);
     fileLayout->addRow(fileListWidget);
+
     selectOutputDirButton = new QPushButton(style()->standardIcon(QStyle::SP_DirIcon), " Output Directory...");
     outputDirLineEdit = new QLineEdit();
     outputDirLineEdit->setPlaceholderText("Select an output folder");
     outputDirLineEdit->setReadOnly(true);
     fileLayout->addRow(selectOutputDirButton, outputDirLineEdit);
-
-    
 
     settingsGroupBox = new QGroupBox("Compression Settings");
     QFormLayout *settingsLayout = new QFormLayout(settingsGroupBox);
@@ -134,7 +319,6 @@ void MainWindow::setupUi()
 
     audioGroupBox = new QGroupBox("Audio Settings");
     QFormLayout *audioLayout = new QFormLayout(audioGroupBox);
-    audioLayout->setFieldGrowthPolicy(QFormLayout::ExpandingFieldsGrow);
     audioLayout->setFieldGrowthPolicy(QFormLayout::ExpandingFieldsGrow);
     stripAudioCheckBox = new QCheckBox("Strip Audio (No Audio Track)");
     audioLayout->addRow(stripAudioCheckBox);
