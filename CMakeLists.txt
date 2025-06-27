@@ -16,6 +16,7 @@ add_executable(VideoCompressor
     src/main.cpp
     src/mainwindow.cpp
     src/mainwindow.h
+    src/win32_helpers.h
     app.manifest
 )
 
@@ -25,6 +26,7 @@ if(WIN32)
         WIN32_EXECUTABLE ON
         VS_MANIFEST_FILE "${CMAKE_CURRENT_SOURCE_DIR}/app.manifest"
     )
+    target_link_libraries(VideoCompressor PRIVATE dwmapi)
 else()
     set_target_properties(VideoCompressor PROPERTIES
         MACOSX_BUNDLE ON
