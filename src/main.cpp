@@ -45,10 +45,11 @@ int main(int argc, char *argv[])
         DwmSetWindowAttribute(hwnd, DWMWA_USE_IMMERSIVE_DARK_MODE, &value, sizeof(value));
         if (QOperatingSystemVersion::current() >= QOperatingSystemVersion::Windows11) {
             // Enable Mica material
-            value = DWMWCP_DONOTROUND;
-            DwmSetWindowAttribute(hwnd, DWMWA_WINDOW_CORNER_PREFERENCE, &value, sizeof(value));
-            value = DWM_SYSTEMBACKDROP_TYPE::DWMSBT_MAINWINDOW;
-            DwmSetWindowAttribute(hwnd, DWMWA_SYSTEMBACKDROP_TYPE, &value, sizeof(value));
+            DWORD cornerPreference = DWMWCP_DONOTROUND;
+            DwmSetWindowAttribute(hwnd, DWMWA_WINDOW_CORNER_PREFERENCE, &cornerPreference, sizeof(cornerPreference));
+            
+            DWM_SYSTEMBACKDROP_TYPE backdropType = DWMSBT_MAINWINDOW;
+            DwmSetWindowAttribute(hwnd, DWMWA_SYSTEMBACKDROP_TYPE, &backdropType, sizeof(backdropType));
         }
     }
 #endif
