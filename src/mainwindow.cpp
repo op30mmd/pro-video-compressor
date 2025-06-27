@@ -57,29 +57,33 @@ void MainWindow::setupUi()
     // Set modern style sheet for the main window
     QString mainStyle = R"(
         QMainWindow {
-            background-color: #1e1e1e;
+            background-color: #252525;
             color: #ffffff;
+        }
+        QWidget#centralWidget {
+            background-color: #252525;
         }
         QGroupBox {
             border: 1px solid #333333;
             border-radius: 6px;
             margin-top: 1em;
             padding: 8px;
-            background-color: #252525;
+            background-color: #2d2d2d;
         }
         QGroupBox::title {
             color: #ffffff;
             subcontrol-origin: margin;
-            left: 10px;
-            padding: 0 3px 0 3px;
+            left: 8px;
+            padding: 0 4px;
+            background-color: #2d2d2d;
         }
         QPushButton {
-            background-color: #2d2d2d;
+            background-color: #333333;
             border: 1px solid #404040;
             border-radius: 4px;
             color: #ffffff;
-            padding: 6px 16px;
-            min-height: 24px;
+            padding: 4px 12px;
+            min-height: 22px;
         }
         QPushButton:hover {
             background-color: #404040;
@@ -89,21 +93,26 @@ void MainWindow::setupUi()
             background-color: #353535;
         }
         QPushButton:disabled {
-            background-color: #252525;
+            background-color: #2d2d2d;
             color: #666666;
             border-color: #333333;
         }
         QComboBox {
-            background-color: #2d2d2d;
+            background-color: #333333;
             border: 1px solid #404040;
             border-radius: 4px;
             color: #ffffff;
-            padding: 4px 8px;
-            min-height: 24px;
+            padding: 2px 8px;
+            min-height: 22px;
+            min-width: 100px;
         }
         QComboBox:hover {
-            background-color: #353535;
+            background-color: #404040;
             border-color: #4d4d4d;
+        }
+        QComboBox:on {
+            background-color: #404040;
+            border-color: #0078d4;
         }
         QComboBox::drop-down {
             border: none;
@@ -111,35 +120,54 @@ void MainWindow::setupUi()
         }
         QComboBox::down-arrow {
             image: url(:/icons/down_arrow.svg);
+            width: 12px;
+            height: 12px;
+        }
+        QComboBox QAbstractItemView {
+            background-color: #333333;
+            border: 1px solid #404040;
+            border-radius: 4px;
+            selection-background-color: #0078d4;
+            selection-color: #ffffff;
+            padding: 4px;
         }
         QLineEdit {
-            background-color: #2d2d2d;
+            background-color: #333333;
             border: 1px solid #404040;
             border-radius: 4px;
             color: #ffffff;
-            padding: 4px 8px;
-            min-height: 24px;
+            padding: 2px 8px;
+            min-height: 22px;
         }
         QLineEdit:focus {
             border-color: #0078d4;
+            background-color: #404040;
+        }
+        QLineEdit:disabled {
+            background-color: #2d2d2d;
+            color: #808080;
         }
         QSlider::groove:horizontal {
-            border: 1px solid #404040;
+            border: none;
             height: 4px;
-            background: #2d2d2d;
+            background: #404040;
             margin: 2px 0;
             border-radius: 2px;
         }
         QSlider::handle:horizontal {
             background: #0078d4;
             border: none;
-            width: 16px;
-            height: 16px;
-            margin: -6px 0;
-            border-radius: 8px;
+            width: 18px;
+            height: 18px;
+            margin: -7px 0;
+            border-radius: 9px;
         }
         QSlider::handle:horizontal:hover {
             background: #1084d8;
+            width: 20px;
+            height: 20px;
+            margin: -8px 0;
+            border-radius: 10px;
         }
         QCheckBox {
             color: #ffffff;
@@ -150,55 +178,122 @@ void MainWindow::setupUi()
             height: 18px;
             border: 1px solid #404040;
             border-radius: 3px;
-            background-color: #2d2d2d;
+            background-color: #333333;
+        }
+        QCheckBox::indicator:hover {
+            border-color: #0078d4;
+            background-color: #404040;
         }
         QCheckBox::indicator:checked {
             background-color: #0078d4;
             border-color: #0078d4;
+            image: url(:/icons/check.svg);
         }
         QListWidget {
-            background-color: #2d2d2d;
+            background-color: #333333;
             border: 1px solid #404040;
             border-radius: 4px;
             color: #ffffff;
             padding: 4px;
+            min-height: 100px;
         }
         QListWidget::item {
             padding: 4px;
             border-radius: 2px;
+        }
+        QListWidget::item:hover {
+            background-color: #404040;
         }
         QListWidget::item:selected {
             background-color: #0078d4;
             color: #ffffff;
         }
         QProgressBar {
-            border: 1px solid #404040;
+            border: none;
             border-radius: 4px;
-            background-color: #2d2d2d;
+            background-color: #404040;
             text-align: center;
             color: #ffffff;
-            min-height: 24px;
+            font-weight: bold;
+            min-height: 20px;
+            max-height: 20px;
+            font-size: 12px;
+            padding: 0;
         }
         QProgressBar::chunk {
             background-color: #0078d4;
-            border-radius: 3px;
+            border-radius: 4px;
         }
         QTextEdit {
-            background-color: #1e1e1e;
-            border: 1px solid #333333;
+            background-color: #333333;
+            border: 1px solid #404040;
             border-radius: 4px;
             color: #d4d4d4;
             selection-background-color: #264f78;
-            padding: 4px;
+            padding: 8px;
+            font-family: Consolas, monospace;
         }
         QLabel {
             color: #ffffff;
+        }
+        QSpinBox {
+            background-color: #333333;
+            border: 1px solid #404040;
+            border-radius: 4px;
+            color: #ffffff;
+            padding: 2px 8px;
+            min-height: 22px;
+            min-width: 50px;
+        }
+        QSpinBox:hover {
+            background-color: #404040;
+            border-color: #4d4d4d;
+        }
+        QSpinBox:focus {
+            border-color: #0078d4;
+            background-color: #404040;
+        }
+        QSpinBox::up-button, QSpinBox::down-button {
+            background: transparent;
+            border: none;
+            width: 16px;
+            border-radius: 2px;
+            margin: 2px;
+        }
+        QSpinBox::up-button:hover, QSpinBox::down-button:hover {
+            background-color: #4d4d4d;
+        }
+        QSpinBox::up-button:pressed, QSpinBox::down-button:pressed {
+            background-color: #666666;
+        }
+        QSpinBox::up-arrow {
+            image: url(:/icons/up_arrow.svg);
+            width: 10px;
+            height: 10px;
+        }
+        QSpinBox::down-arrow {
+            image: url(:/icons/down_arrow.svg);
+            width: 10px;
+            height: 10px;
+        }
+        QSpinBox:disabled {
+            background-color: #2d2d2d;
+            color: #666666;
+            border-color: #333333;
+        }
+        QLabel[isSection="true"] {
+            color: #cccccc;
+            font-weight: bold;
+            font-size: 12px;
+            padding-top: 8px;
         }
         #compressButton {
             background-color: #0078d4;
             border: none;
             color: #ffffff;
             font-weight: bold;
+            padding: 6px 16px;
+            min-height: 28px;
         }
         #compressButton:hover {
             background-color: #1084d8;
@@ -207,12 +302,23 @@ void MainWindow::setupUi()
             background-color: #006cbe;
         }
         #compressButton:disabled {
-            background-color: #252525;
+            background-color: #2d2d2d;
             color: #666666;
+        }
+        #cancelButton {
+            background-color: #333333;
+            border: 1px solid #404040;
+            color: #ffffff;
+            padding: 6px 16px;
+            min-height: 28px;
+        }
+        #cancelButton:hover {
+            background-color: #404040;
+            border-color: #4d4d4d;
         }
         QScrollBar:vertical {
             border: none;
-            background: #1e1e1e;
+            background: #252525;
             width: 14px;
             margin: 0px;
         }
@@ -221,22 +327,33 @@ void MainWindow::setupUi()
             min-height: 20px;
             border-radius: 7px;
         }
+        QScrollBar::handle:vertical:hover {
+            background: #4d4d4d;
+        }
         QScrollBar::add-line:vertical, QScrollBar::sub-line:vertical {
             height: 0px;
         }
         QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
             background: none;
         }
+        QScrollArea {
+            background-color: transparent;
+            border: none;
+        }
+        QWidget#scrollAreaWidgetContents {
+            background-color: #252525;
+        }
     )";
     
     this->setStyleSheet(mainStyle);
 
     QWidget *centralWidget = new QWidget(this);
+    centralWidget->setObjectName("centralWidget");
     setCentralWidget(centralWidget);
 
     QVBoxLayout *mainVLayout = new QVBoxLayout(centralWidget);
-    mainVLayout->setContentsMargins(24, 24, 24, 24);
-    mainVLayout->setSpacing(16);
+    mainVLayout->setContentsMargins(12, 12, 12, 12);
+    mainVLayout->setSpacing(12);
 
     scrollArea = new QScrollArea();
     scrollArea->setWidgetResizable(true);
@@ -245,11 +362,12 @@ void MainWindow::setupUi()
     scrollArea->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
 
     QWidget *contentWidget = new QWidget();
+    contentWidget->setObjectName("scrollAreaWidgetContents");
     scrollArea->setWidget(contentWidget);
 
     QVBoxLayout *contentVLayout = new QVBoxLayout(contentWidget);
-    contentVLayout->setSpacing(16);
-    contentVLayout->setContentsMargins(0, 0, 14, 0); // Add right margin for scrollbar
+    contentVLayout->setSpacing(12);
+    contentVLayout->setContentsMargins(0, 0, 8, 0);
 
     mainVLayout->addWidget(scrollArea, 1);
 
@@ -379,7 +497,13 @@ void MainWindow::setupUi()
     contentVLayout->addWidget(logTextEdit, 1);
     contentVLayout->addWidget(statusLabel);
 
-    
+    // Update section labels to use the new style
+    QList<QLabel*> labels = findChildren<QLabel*>();
+    for (QLabel* label : labels) {
+        if (label->text().endsWith(":") && label->text() != "FFmpeg Log:") {
+            label->setProperty("isSection", true);
+        }
+    }
 
     connect(addFilesButton, &QPushButton::clicked, this, &MainWindow::onAddFilesClicked);
     connect(removeFilesButton, &QPushButton::clicked, this, &MainWindow::onRemoveFilesClicked);
@@ -598,7 +722,13 @@ void MainWindow::startNextCompression()
     QStringList ffprobeArgs;
     ffprobeArgs << "-v" << "error" << "-show_entries" << "format=duration"
                  << "-of" << "default=noprint_wrappers=1:nokey=1" << currentInputFile;
-    ffprobeProcess->start("ffprobe", ffprobeArgs);
+    
+    // Use stored path if available
+    if (!ffprobePath.isEmpty()) {
+        ffprobeProcess->start(ffprobePath, ffprobeArgs);
+    } else {
+        ffprobeProcess->start("ffprobe", ffprobeArgs);
+    }
 
     QStringList args;
 
@@ -657,11 +787,17 @@ void MainWindow::startNextCompression()
 
     args << outputFile;
 
-    logTextEdit->append("Executing command: ffmpeg " + args.join(" ") + "\n\n");
-    ffmpegProcess->start("ffmpeg", args);
+    logTextEdit->append("Executing command: " + (ffmpegPath.isEmpty() ? "ffmpeg" : ffmpegPath) + " " + args.join(" ") + "\n\n");
+    
+    // Use stored path if available
+    if (!ffmpegPath.isEmpty()) {
+        ffmpegProcess->start(ffmpegPath, args);
+    } else {
+        ffmpegProcess->start("ffmpeg", args);
+    }
 }
 
-    void MainWindow::onProcessReadyReadStandardError()
+void MainWindow::onProcessReadyReadStandardError()
 {
     const QByteArray processOutput = ffmpegProcess->readAllStandardError();
     const QString outputString = QString::fromLocal8Bit(processOutput);
@@ -759,21 +895,52 @@ void MainWindow::setControlsEnabled(bool enabled)
 
 bool MainWindow::checkFFmpegAvailability()
 {
+    // First try the PATH
     QProcess checkProcess;
     checkProcess.start("ffmpeg", QStringList() << "-version");
-    if (!checkProcess.waitForFinished(3000)) {
-        return false;
+    if (checkProcess.waitForFinished(3000) && checkProcess.exitCode() == 0) {
+        // Also check ffprobe
+        checkProcess.start("ffprobe", QStringList() << "-version");
+        if (checkProcess.waitForFinished(3000) && checkProcess.exitCode() == 0) {
+            return true;
+        }
     }
 
-    if (checkProcess.exitCode() != 0) {
-        return false;
+    // Try common Scoop paths
+    QStringList ffmpegPaths = {
+        QDir::homePath() + "/scoop/shims/ffmpeg.exe",
+        QDir::homePath() + "/scoop/apps/ffmpeg/current/ffmpeg.exe"
+    };
+
+    QStringList ffprobePaths = {
+        QDir::homePath() + "/scoop/shims/ffprobe.exe",
+        QDir::homePath() + "/scoop/apps/ffmpeg/current/ffprobe.exe"
+    };
+
+    // Check if ffmpeg exists in any of these paths
+    QString ffmpegPath;
+    for (const QString& path : ffmpegPaths) {
+        if (QFile::exists(path)) {
+            ffmpegPath = path;
+            break;
+        }
     }
 
-    checkProcess.start("ffprobe", QStringList() << "-version");
-    if (!checkProcess.waitForFinished(3000)) {
-        return false;
+    QString ffprobePath;
+    for (const QString& path : ffprobePaths) {
+        if (QFile::exists(path)) {
+            ffprobePath = path;
+            break;
+        }
     }
 
-    return checkProcess.exitCode() == 0;
+    if (!ffmpegPath.isEmpty() && !ffprobePath.isEmpty()) {
+        // Store the paths for later use
+        this->ffmpegPath = ffmpegPath;
+        this->ffprobePath = ffprobePath;
+        return true;
+    }
+
+    return false;
 }
 

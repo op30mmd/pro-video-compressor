@@ -1,1 +1,9 @@
- 
+<?xml version="1.0" encoding="UTF-8"?>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>icons/down_arrow.svg</file>
+        <file>icons/up_arrow.svg</file>
+        <file>icons/check.svg</file>
+        <file>videocompressor.svg</file>
+    </qresource>
+</RCC> 

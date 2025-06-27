@@ -58,6 +58,8 @@ private:
     bool isCompressionActive;
     QPropertyAnimation *windowOpacityAnimation;
     QProcess *ffprobeProcess;
+    QString ffmpegPath;  // Store the full path to ffmpeg
+    QString ffprobePath; // Store the full path to ffprobe
 
     // --- UI Elements ---
     QListWidget* fileListWidget;

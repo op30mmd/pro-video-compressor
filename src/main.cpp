@@ -41,14 +41,14 @@ int main(int argc, char *argv[])
         w.setAttribute(Qt::WA_TranslucentBackground);
         // Enable blur behind the window
         HWND hwnd = (HWND)w.winId();
-        DWORD value = TRUE;
+        BOOL value = TRUE;
         DwmSetWindowAttribute(hwnd, DWMWA_USE_IMMERSIVE_DARK_MODE, &value, sizeof(value));
         if (QOperatingSystemVersion::current() >= QOperatingSystemVersion::Windows11) {
             // Enable Mica material
-            DWORD cornerPreference = DWMWCP_DONOTROUND;
-            DwmSetWindowAttribute(hwnd, DWMWA_WINDOW_CORNER_PREFERENCE, &cornerPreference, sizeof(cornerPreference));
+            DWORD cornerValue = DWMWCP_DONOTROUND;
+            DwmSetWindowAttribute(hwnd, DWMWA_WINDOW_CORNER_PREFERENCE, &cornerValue, sizeof(cornerValue));
             
-            DWM_SYSTEMBACKDROP_TYPE backdropType = DWMSBT_MAINWINDOW;
+            int backdropType = DWMSBT_MAINWINDOW;
             DwmSetWindowAttribute(hwnd, DWMWA_SYSTEMBACKDROP_TYPE, &backdropType, sizeof(backdropType));
         }
     }
