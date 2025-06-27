@@ -16,13 +16,20 @@ add_executable(VideoCompressor
     src/main.cpp
     src/mainwindow.cpp
     src/mainwindow.h
+    app.manifest
 )
 
 # Set properties for each OS
-set_target_properties(VideoCompressor PROPERTIES
-    WIN32_EXECUTABLE ON
-    MACOSX_BUNDLE ON
-)
+if(WIN32)
+    set_target_properties(VideoCompressor PROPERTIES
+        WIN32_EXECUTABLE ON
+        VS_MANIFEST_FILE "${CMAKE_CURRENT_SOURCE_DIR}/app.manifest"
+    )
+else()
+    set_target_properties(VideoCompressor PROPERTIES
+        MACOSX_BUNDLE ON
+    )
+endif()
 
 # Link the executable against the required Qt libraries
 target_link_libraries(VideoCompressor PRIVATE

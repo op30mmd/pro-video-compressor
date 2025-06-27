@@ -7,19 +7,22 @@
 
 int main(int argc, char *argv[])
 {
+    // Enable modern DPI scaling before creating QApplication
+    QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
+    QCoreApplication::setAttribute(Qt::AA_UseHighDpiPixmaps);
+
     QApplication a(argc, argv);
 
-    // Enable High-DPI scaling
-    QApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
-    QApplication::setAttribute(Qt::AA_UseHighDpiPixmaps);
+    // Enable modern style hints
+    QApplication::setAttribute(Qt::AA_DontUseNativeMenuBar, false);
+    QApplication::setAttribute(Qt::AA_DontShowIconsInMenus, false);
     QApplication::setHighDpiScaleFactorRoundingPolicy(Qt::HighDpiScaleFactorRoundingPolicy::PassThrough);
 
-    // Set the style based on the platform
-    QString style = QStyleFactory::create("Fusion") ? "Fusion" : "Windows";
-    if (QStyleFactory::keys().contains("windowsvista")) {
-        style = "windowsvista";  // Use Windows Vista style if available (modern Windows look)
+    // Set modern Windows style
+    if (QStyleFactory::keys().contains("Windows")) {
+        QApplication::setStyle(QStyleFactory::create("Windows"));
+        qApp->setStyle("Windows");
     }
-    QApplication::setStyle(style);
 
     // This now works because the constructor is back to the default
     MainWindow w;
