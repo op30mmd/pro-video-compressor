@@ -51,10 +51,7 @@ jobs:
       run: |
         mkdir dist
         cp build/Release/VideoCompressor.exe dist/
-        windeployqt.exe --qmldir ${{ env.QT_DIR }}/qml --no-translations --plugindirs "${{ env.QT_DIR }}/plugins" dist/VideoCompressor.exe
-        cp "${{ env.QT_DIR }}/plugins/platforms/qwindows.dll" dist/platforms/
-        cp "$(which ffmpeg.exe)" dist/
-        cp "$(which ffprobe.exe)" dist/
+        windeployqt.exe --qmldir ${{ env.QT_DIR }}/qml --no-translations dist/VideoCompressor.exe
         7z a -tzip VideoCompressor-Windows.zip ./dist/*
 
     - name: Package Application (macOS)
