@@ -572,7 +572,6 @@ void MainWindow::setControlsEnabled(bool enabled)
         {
             continue;
         }
-
         // A list of widgets that are ALWAYS re-enabled and have their state
         // re-evaluated by other functions.
         if (widget == compressButton ||
