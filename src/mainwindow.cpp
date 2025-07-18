@@ -57,10 +57,6 @@ void MainWindow::setupUi()
     QVBoxLayout *contentVLayout = new QVBoxLayout(contentWidget);
     contentVLayout->setSpacing(15);
 
-    mainVLayout->addWidget(scrollArea, 1);
-
-    QVBoxLayout *contentVLayout = new QVBoxLayout(contentWidget);
-    contentVLayout->setSpacing(15);
 
     QGroupBox *fileGroupBox = new QGroupBox("Input & Output");
     QFormLayout *fileLayout = new QFormLayout(fileGroupBox);
@@ -518,7 +514,6 @@ void MainWindow::setControlsEnabled(bool enabled)
         {
             continue;
         }
-
         // A list of widgets that are ALWAYS re-enabled and have their state
         // re-evaluated by other functions.
         if (widget == compressButton ||
