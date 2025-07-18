@@ -502,15 +502,37 @@ void MainWindow::onProcessFinished(int exitCode, QProcess::ExitStatus exitStatus
 
 void MainWindow::setControlsEnabled(bool enabled)
 {
-    // Enable/disable all child widgets of the central widget except for the log and status label
-    foreach (QObject *obj, centralWidget()->children()) {
-        QWidget *widget = qobject_cast<QWidget*>(obj);
-        if (widget && widget != logTextEdit && widget != statusLabel && widget != progressBar) {
-            widget->setEnabled(enabled);
+    // Recursively find all child widgets and disable them, with specific exceptions.
+    QList<QWidget*> widgets = this->findChildren<QWidget *>();
+    foreach(QWidget *widget, widgets) {
+        // A list of widgets to NEVER disable.
+        if (widget == logTextEdit ||
+            widget == statusLabel ||
+            widget == progressBar ||
+            widget == logTextEdit->verticalScrollBar() ||
+            widget == centralWidget() ||
+            qobject_cast<QFrame*>(widget) != nullptr)
+        {
+            continue;
         }
+
+        // A list of widgets that are ALWAYS re-enabled and have their state
+        // re-evaluated by other functions.
+        if (widget == compressButton ||
+            widget == cancelButton)
+        {
+            continue;
+        }
+
+        widget->setEnabled(enabled);
     }
+
+    // Explicitly manage the state of the primary action buttons
     compressButton->setEnabled(enabled);
     cancelButton->setEnabled(!enabled);
+
+    // If we are re-enabling controls, we must restore the dynamic states
+    // based on current settings.
     if (enabled) {
         onEncoderChanged(encoderComboBox->currentIndex());
         onAudioSettingsChanged();
