@@ -4,6 +4,8 @@
 #include <QMainWindow>
 #include <QProcess>
 #include <QStringList>
+#include <QPropertyAnimation>
+#include <QEasingCurve>
 
 // Forward declarations
 class QListWidget;
@@ -17,6 +19,7 @@ class QTextEdit;
 class QSpinBox;
 class QGroupBox;
 class QCheckBox;
+class QScrollArea;
 
 class MainWindow : public QMainWindow
 {
@@ -36,6 +39,7 @@ private slots:
     void onProcessFinished(int exitCode, QProcess::ExitStatus exitStatus);
     void onAudioSettingsChanged();
     void onEncoderChanged(int index);
+    void onFFprobeFinished(int exitCode, QProcess::ExitStatus exitStatus);
 
 private:
     void setupUi();
@@ -52,6 +56,8 @@ private:
     QString currentInputFile;
     double currentFileDuration;
     bool isCompressionActive;
+    QPropertyAnimation *windowOpacityAnimation;
+    QProcess *ffprobeProcess;
 
     // --- UI Elements ---
     QListWidget* fileListWidget;
@@ -68,6 +74,7 @@ private:
     QGroupBox* advancedVideoGroupBox;
     QGroupBox* audioGroupBox;
     QGroupBox* outputGroupBox;
+    QScrollArea* scrollArea;
 
     QLabel* encoderLabel;
     QComboBox* encoderComboBox;
