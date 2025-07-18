@@ -63,17 +63,14 @@ void MainWindow::setupUi()
 
     scrollArea = new QScrollArea();
     scrollArea->setWidgetResizable(true);
-    scrollArea->setFrameShape(QFrame::NoFrame);
-    scrollArea->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
-    scrollArea->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
+    scrollArea->setFrameShape(QFrame::NoFrame); // Make scroll area blend in
+    mainVLayout->addWidget(scrollArea); // Add scroll area to main layout
 
     QWidget *contentWidget = new QWidget();
-    scrollArea->setWidget(contentWidget);
+    scrollArea->setWidget(contentWidget); // Set content widget for scroll area
 
     QVBoxLayout *contentVLayout = new QVBoxLayout(contentWidget);
     contentVLayout->setSpacing(15);
-
-    mainVLayout->addWidget(scrollArea, 1);
 
     QGroupBox *fileGroupBox = new QGroupBox("Input & Output");
     QFormLayout *fileLayout = new QFormLayout(fileGroupBox);
