@@ -145,6 +145,46 @@ QComboBox QAbstractItemView {
     color: #ffffff;
 }
 
+/* --- SpinBox --- */
+QSpinBox::up-button {
+    subcontrol-origin: border;
+    subcontrol-position: top right;
+    width: 18px;
+    height: 14px;
+    border-left: 1px solid #505050;
+    border-bottom: 1px solid #505050;
+    border-top-right-radius: 3px;
+}
+
+QSpinBox::up-button:hover {
+    background-color: #4a4a4a;
+}
+
+QSpinBox::up-arrow {
+    image: url(:/icons/chevron-up.svg);
+    width: 10px;
+    height: 10px;
+}
+
+QSpinBox::down-button {
+    subcontrol-origin: border;
+    subcontrol-position: bottom right;
+    width: 18px;
+    height: 14px;
+    border-left: 1px solid #505050;
+    border-bottom-right-radius: 3px;
+}
+
+QSpinBox::down-button:hover {
+    background-color: #4a4a4a;
+}
+
+QSpinBox::down-arrow {
+    image: url(:/icons/chevron-down.svg);
+    width: 10px;
+    height: 10px;
+}
+
 /* --- List Widget --- */
 QListWidget {
     background-color: #2d2d2d;
