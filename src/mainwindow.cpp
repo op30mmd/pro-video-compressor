@@ -76,8 +76,8 @@ void MainWindow::setupUi()
     QGroupBox *fileGroupBox = new QGroupBox("Input & Output");
     QFormLayout *fileLayout = new QFormLayout(fileGroupBox);
     fileLayout->setFieldGrowthPolicy(QFormLayout::ExpandingFieldsGrow);
-    addFilesButton = new QPushButton(QIcon(":/src/icons/add-file.svg"), " Add Video Files...");
-    QPushButton *removeFilesButton = new QPushButton(QIcon(":/src/icons/remove-file.svg"), " Remove Selected");
+    addFilesButton = new QPushButton(QIcon(":/icons/add-file.svg"), " Add Video Files...");
+    QPushButton *removeFilesButton = new QPushButton(QIcon(":/icons/remove-file.svg"), " Remove Selected");
     QHBoxLayout *addRemoveLayout = new QHBoxLayout();
     addRemoveLayout->addWidget(addFilesButton);
     addRemoveLayout->addWidget(removeFilesButton);
@@ -85,7 +85,7 @@ void MainWindow::setupUi()
     fileListWidget = new QListWidget();
     fileListWidget->setSelectionMode(QAbstractItemView::ExtendedSelection);
     fileLayout->addRow(fileListWidget);
-    selectOutputDirButton = new QPushButton(QIcon(":/src/icons/open-folder.svg"), " Output Directory...");
+    selectOutputDirButton = new QPushButton(QIcon(":/icons/open-folder.svg"), " Output Directory...");
     outputDirLineEdit = new QLineEdit();
     outputDirLineEdit->setPlaceholderText("Select an output folder");
     outputDirLineEdit->setReadOnly(true);
