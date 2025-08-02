@@ -6,5 +6,6 @@
     <file>src/icons/open-folder.svg</file>
     <file>src/icons/chevron-down.svg</file>
     <file>src/icons/check.svg</file>
+    <file>src/icons/chevron-up.svg</file>
 </qresource>
 </RCC>
