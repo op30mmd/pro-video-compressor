@@ -27,6 +27,7 @@
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent), ffmpegProcess(new QProcess(this)), ffprobeProcess(new QProcess(this))
 {
+    setAttribute(Qt::WA_TranslucentBackground);
     setWindowOpacity(0);
     setupUi();
 
@@ -60,7 +61,7 @@ void MainWindow::setupUi()
     setCentralWidget(centralWidget);
 
     QVBoxLayout *mainVLayout = new QVBoxLayout(centralWidget);
-    mainVLayout->setContentsMargins(10, 10, 10, 10); // Add some margins
+    mainVLayout->setContentsMargins(20, 20, 20, 20); // Add some margins
 
     scrollArea = new QScrollArea();
     scrollArea->setWidgetResizable(true);
@@ -71,7 +72,7 @@ void MainWindow::setupUi()
     scrollArea->setWidget(contentWidget); // Set content widget for scroll area
 
     QVBoxLayout *contentVLayout = new QVBoxLayout(contentWidget);
-    contentVLayout->setSpacing(15);
+    contentVLayout->setSpacing(20);
 
     QGroupBox *fileGroupBox = new QGroupBox("Input & Output");
     QFormLayout *fileLayout = new QFormLayout(fileGroupBox);
