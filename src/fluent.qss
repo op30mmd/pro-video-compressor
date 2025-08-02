@@ -41,6 +41,7 @@ QGroupBox::title {
     padding: 0 5px;
     left: 10px;
     background-color: #2d2d2d;
+    border-radius: 6px;
 }
 
 /* --- Buttons --- */
@@ -150,9 +151,8 @@ QSpinBox::up-button {
     subcontrol-origin: border;
     subcontrol-position: top right;
     width: 18px;
-    height: 14px;
+    height: 15px;
     border-left: 1px solid #505050;
-    border-bottom: 1px solid #505050;
     border-top-right-radius: 3px;
     top: 0px;
 }
@@ -171,8 +171,9 @@ QSpinBox::down-button {
     subcontrol-origin: border;
     subcontrol-position: bottom right;
     width: 18px;
-    height: 14px;
+    height: 15px;
     border-left: 1px solid #505050;
+    border-top: 1px solid #505050;
     border-bottom-right-radius: 3px;
     bottom: 0px;
 }
