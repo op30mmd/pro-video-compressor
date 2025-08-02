@@ -154,6 +154,7 @@ QSpinBox::up-button {
     border-left: 1px solid #505050;
     border-bottom: 1px solid #505050;
     border-top-right-radius: 3px;
+    top: 0px;
 }
 
 QSpinBox::up-button:hover {
@@ -173,6 +174,7 @@ QSpinBox::down-button {
     height: 14px;
     border-left: 1px solid #505050;
     border-bottom-right-radius: 3px;
+    bottom: 0px;
 }
 
 QSpinBox::down-button:hover {
@@ -288,6 +290,10 @@ QScrollBar::add-line:horizontal, QScrollBar::sub-line:horizontal {
 
 
 /* --- CheckBox --- */
+QCheckBox {
+    background-color: transparent;
+}
+
 QCheckBox::indicator {
     width: 16px;
     height: 16px;
