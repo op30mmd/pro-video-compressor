@@ -9,9 +9,6 @@ int main(int argc, char *argv[])
 {
         QApplication a(argc, argv);
 
-    // Enable High-DPI scaling
-    QApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
-    QApplication::setAttribute(Qt::AA_UseHighDpiPixmaps);
     QApplication::setHighDpiScaleFactorRoundingPolicy(Qt::HighDpiScaleFactorRoundingPolicy::PassThrough);
 
     // --- The Definitive Stable Theme ---
@@ -45,6 +42,41 @@ int main(int argc, char *argv[])
 
     QFont font("Segoe UI", 9);
     QApplication::setFont(font);
+
+    // Custom stylesheet for a modern look
+    QString styleSheet = R"(
+        QSlider::groove:horizontal {
+            border: 1px solid #5A5A5A;
+            height: 4px;
+            background: #393939;
+            margin: 0px;
+            border-radius: 2px;
+        }
+
+        QSlider::handle:horizontal {
+            background: #42a5f5;
+            border: 1px solid #42a5f5;
+            width: 16px;
+            height: 16px;
+            margin: -6px 0;
+            border-radius: 8px;
+        }
+
+        QSlider::groove:horizontal:hover {
+            background: #4a4a4a;
+        }
+
+        QSlider::handle:horizontal:hover {
+            background: #64b5f6;
+            border: 1px solid #64b5f6;
+        }
+
+        QSlider::handle:horizontal:pressed {
+            background: #2196f3;
+            border: 1px solid #2196f3;
+        }
+    )";
+    a.setStyleSheet(styleSheet);
 
     // This now works because the constructor is back to the default
     MainWindow w;
