@@ -1,11 +1,13 @@
 <!DOCTYPE RCC><RCC version="1.0">
 <qresource prefix="/">
     <file>src/fluent.qss</file>
-    <file>src/icons/add-file.svg</file>
-    <file>src/icons/remove-file.svg</file>
-    <file>src/icons/open-folder.svg</file>
-    <file>src/icons/chevron-down.svg</file>
-    <file>src/icons/check.svg</file>
-    <file>src/icons/chevron-up.svg</file>
+</qresource>
+<qresource prefix="/icons">
+    <file alias="add-file.svg">src/icons/add-file.svg</file>
+    <file alias="remove-file.svg">src/icons/remove-file.svg</file>
+    <file alias="open-folder.svg">src/icons/open-folder.svg</file>
+    <file alias="chevron-down.svg">src/icons/chevron-down.svg</file>
+    <file alias="check.svg">src/icons/check.svg</file>
+    <file alias="chevron-up.svg">src/icons/chevron-up.svg</file>
 </qresource>
 </RCC>
