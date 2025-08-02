@@ -16,6 +16,7 @@ add_executable(VideoCompressor
     src/main.cpp
     src/mainwindow.cpp
     src/mainwindow.h
+    resources.qrc
 )
 
 # Set properties for each OS

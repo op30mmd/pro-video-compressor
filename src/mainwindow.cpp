@@ -22,6 +22,7 @@
 #include <QCheckBox>
 #include <QFrame>
 #include <QScrollArea>
+#include <QIcon>
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent), ffmpegProcess(new QProcess(this)), ffprobeProcess(new QProcess(this))
@@ -75,8 +76,8 @@ void MainWindow::setupUi()
     QGroupBox *fileGroupBox = new QGroupBox("Input & Output");
     QFormLayout *fileLayout = new QFormLayout(fileGroupBox);
     fileLayout->setFieldGrowthPolicy(QFormLayout::ExpandingFieldsGrow);
-    addFilesButton = new QPushButton(style()->standardIcon(QStyle::SP_FileIcon), " Add Video Files...");
-    QPushButton *removeFilesButton = new QPushButton(style()->standardIcon(QStyle::SP_TrashIcon), " Remove Selected");
+    addFilesButton = new QPushButton(QIcon(":/src/icons/add-file.svg"), " Add Video Files...");
+    QPushButton *removeFilesButton = new QPushButton(QIcon(":/src/icons/remove-file.svg"), " Remove Selected");
     QHBoxLayout *addRemoveLayout = new QHBoxLayout();
     addRemoveLayout->addWidget(addFilesButton);
     addRemoveLayout->addWidget(removeFilesButton);
@@ -84,7 +85,7 @@ void MainWindow::setupUi()
     fileListWidget = new QListWidget();
     fileListWidget->setSelectionMode(QAbstractItemView::ExtendedSelection);
     fileLayout->addRow(fileListWidget);
-    selectOutputDirButton = new QPushButton(style()->standardIcon(QStyle::SP_DirIcon), " Output Directory...");
+    selectOutputDirButton = new QPushButton(QIcon(":/src/icons/open-folder.svg"), " Output Directory...");
     outputDirLineEdit = new QLineEdit();
     outputDirLineEdit->setPlaceholderText("Select an output folder");
     outputDirLineEdit->setReadOnly(true);
@@ -160,10 +161,10 @@ void MainWindow::setupUi()
     outputLayout->addRow(new QLabel("Filename Suffix:"), outputSuffixLineEdit);
 
     QHBoxLayout *controlLayout = new QHBoxLayout();
-    compressButton = new QPushButton(style()->standardIcon(QStyle::SP_DialogApplyButton), "Compress");
+    compressButton = new QPushButton("Compress");
     compressButton->setObjectName("compressButton");
     compressButton->setEnabled(false);
-    cancelButton = new QPushButton(style()->standardIcon(QStyle::SP_DialogCancelButton), "Cancel");
+    cancelButton = new QPushButton("Cancel");
     cancelButton->setObjectName("cancelButton");
     cancelButton->setEnabled(false);
     controlLayout->addStretch();
