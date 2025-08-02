@@ -13,7 +13,7 @@ QWidget {
 }
 
 QMainWindow {
-    background-color: #202020;
+    background-color: transparent;
 }
 
 QDialog {
@@ -30,9 +30,9 @@ QLabel {
 QGroupBox {
     background-color: #2d2d2d;
     border: 1px solid #3c3c3c;
-    border-radius: 8px;
+    border-radius: 12px;
     margin-top: 1ex;
-    padding: 10px;
+    padding: 15px;
 }
 
 QGroupBox::title {
@@ -48,9 +48,9 @@ QPushButton {
     background-color: #3c3c3c;
     color: #ffffff;
     border: 1px solid #505050;
-    border-radius: 4px;
-    padding: 6px 12px;
-    min-height: 18px; /* 32px total height */
+    border-radius: 6px;
+    padding: 8px 16px;
+    min-height: 20px;
 }
 
 QPushButton:hover {
@@ -108,8 +108,8 @@ QPushButton#cancelButton:pressed {
 QLineEdit, QSpinBox, QTextEdit, QComboBox {
     background-color: #2d2d2d;
     border: 1px solid #505050;
-    border-radius: 4px;
-    padding: 6px;
+    border-radius: 6px;
+    padding: 8px;
     color: #ffffff;
 }
 
